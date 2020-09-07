@@ -1,0 +1,2939 @@
+ID,Country,Year,Status,LifeExpectancy,Adult Mortality,BMI,Income composition of resources,Schooling
+1,Afghanistan,2015,Developing,65,263,19.1,0.479,10.1
+1,Afghanistan,2014,Developing,59.9,271,18.6,0.476,10
+1,Afghanistan,2013,Developing,59.9,268,18.1,0.47,9.9
+1,Afghanistan,2012,Developing,59.5,272,17.6,0.463,9.8
+1,Afghanistan,2011,Developing,59.2,275,17.2,0.454,9.5
+1,Afghanistan,2010,Developing,58.8,279,16.7,0.448,9.2
+1,Afghanistan,2009,Developing,58.6,281,16.2,0.434,8.9
+1,Afghanistan,2008,Developing,58.1,287,15.7,0.433,8.7
+1,Afghanistan,2007,Developing,57.5,295,15.2,0.415,8.4
+1,Afghanistan,2006,Developing,57.3,295,14.7,0.405,8.1
+1,Afghanistan,2005,Developing,57.3,291,14.2,0.396,7.9
+1,Afghanistan,2004,Developing,57,293,13.8,0.381,6.8
+1,Afghanistan,2003,Developing,56.7,295,13.4,0.373,6.5
+1,Afghanistan,2002,Developing,56.2,3,13,0.341,6.2
+1,Afghanistan,2001,Developing,55.3,316,12.6,0.34,5.9
+1,Afghanistan,2000,Developing,54.8,321,12.2,0.338,5.5
+1,Albania,2015,Developing,77.8,74,58,0.762,14.2
+1,Albania,2014,Developing,77.5,8,57.2,0.761,14.2
+1,Albania,2013,Developing,77.2,84,56.5,0.759,14.2
+1,Albania,2012,Developing,76.9,86,55.8,0.752,14.2
+1,Albania,2011,Developing,76.6,88,55.1,0.738,13.3
+1,Albania,2010,Developing,76.2,91,54.3,0.725,12.5
+1,Albania,2009,Developing,76.1,91,53.5,0.721,12.2
+1,Albania,2008,Developing,75.3,1,52.6,0.713,12
+1,Albania,2007,Developing,75.9,9,51.7,0.703,11.6
+1,Albania,2006,Developing,74.2,99,5.8,0.696,11.4
+1,Albania,2005,Developing,73.5,15,49.9,0.685,10.8
+1,Albania,2004,Developing,73,17,48.9,0.681,10.9
+1,Albania,2003,Developing,72.8,18,47.9,0.674,10.7
+1,Albania,2002,Developing,73.3,15,46.9,0.67,10.7
+1,Albania,2001,Developing,73.6,14,46,0.662,10.6
+1,Albania,2000,Developing,72.6,11,45,0.656,10.7
+1,Algeria,2015,Developing,75.6,19,59.5,0.743,14.4
+1,Algeria,2014,Developing,75.4,11,58.4,0.741,14.4
+1,Algeria,2013,Developing,75.3,112,57.2,0.737,14.4
+1,Algeria,2012,Developing,75.1,113,56.1,0.732,14.4
+1,Algeria,2011,Developing,74.9,116,55,0.724,14
+1,Algeria,2010,Developing,74.7,119,53.9,0.714,13.6
+1,Algeria,2009,Developing,74.4,123,52.8,0.705,13.1
+1,Algeria,2008,Developing,74.1,126,51.8,0.697,12.6
+1,Algeria,2007,Developing,73.8,129,5.8,0.69,12.3
+1,Algeria,2006,Developing,73.4,132,49.8,0.686,12.3
+1,Algeria,2005,Developing,72.9,136,48.9,0.68,12
+1,Algeria,2004,Developing,72.3,14,47.9,0.673,11.7
+1,Algeria,2003,Developing,71.7,146,47,0.663,11.5
+1,Algeria,2002,Developing,71.6,145,46.1,0.653,11.1
+1,Algeria,2001,Developing,71.4,145,45.3,0.644,10.9
+1,Algeria,2000,Developing,71.3,145,44.4,0.636,10.7
+1,Angola,2015,Developing,52.4,335,23.3,0.531,11.4
+1,Angola,2014,Developing,51.7,348,22.7,0.527,11.4
+1,Angola,2013,Developing,51.1,355,22.1,0.523,11.4
+1,Angola,2012,Developing,56,358,21.5,0.508,10.3
+1,Angola,2011,Developing,51,361,21,0.495,9.4
+1,Angola,2010,Developing,49.6,365,2.4,0.488,9
+1,Angola,2009,Developing,49.1,369,19.8,0.48,8.5
+1,Angola,2008,Developing,48.7,371,19.3,0.468,8.1
+1,Angola,2007,Developing,48.2,375,18.8,0.454,7.7
+1,Angola,2006,Developing,47.7,381,18.2,0.439,7.2
+1,Angola,2005,Developing,47.4,382,17.7,0.426,6.8
+1,Angola,2004,Developing,47.1,386,17.2,0.415,6.4
+1,Angola,2003,Developing,46.8,388,16.8,0.406,5.9
+1,Angola,2002,Developing,46.5,391,16.3,0.401,5.5
+1,Angola,2001,Developing,45.7,44,15.8,0.391,5.1
+1,Angola,2000,Developing,45.3,48,15.4,0.382,4.6
+1,Antigua and Barbuda,2015,Developing,76.4,13,47.7,0.784,13.9
+1,Antigua and Barbuda,2014,Developing,76.2,131,47,0.782,13.9
+1,Antigua and Barbuda,2013,Developing,76.1,133,46.4,0.781,13.9
+1,Antigua and Barbuda,2012,Developing,75.9,134,45.7,0.778,13.8
+1,Antigua and Barbuda,2011,Developing,75.7,136,45.1,0.782,14.1
+1,Antigua and Barbuda,2010,Developing,75.6,138,44.4,0.783,14.1
+1,Antigua and Barbuda,2009,Developing,75.4,14,43.8,0.788,14.2
+1,Antigua and Barbuda,2008,Developing,75.2,142,43.2,0.786,14.4
+1,Antigua and Barbuda,2007,Developing,75,144,42.6,0.781,14.5
+1,Antigua and Barbuda,2006,Developing,74.8,145,42,0.773,14.7
+1,Antigua and Barbuda,2005,Developing,74.6,147,41.4,0,0
+1,Antigua and Barbuda,2004,Developing,74.4,149,4.8,0,0
+1,Antigua and Barbuda,2003,Developing,74.2,151,4.1,0,0
+1,Antigua and Barbuda,2002,Developing,74,153,39.5,0,0
+1,Antigua and Barbuda,2001,Developing,73.8,154,38.9,0,0
+1,Antigua and Barbuda,2000,Developing,73.6,156,38.2,0,0
+1,Argentina,2015,Developing,76.3,116,62.8,0.826,17.3
+1,Argentina,2014,Developing,76.2,118,62.2,0.825,17.3
+1,Argentina,2013,Developing,76,119,61.6,0.823,17.3
+1,Argentina,2012,Developing,75.9,12,61,0.822,17.2
+1,Argentina,2011,Developing,75.7,12,6.4,0.816,17.1
+1,Argentina,2010,Developing,75.5,121,59.8,0.802,16.8
+1,Argentina,2009,Developing,75.6,126,59.2,0.794,16.5
+1,Argentina,2008,Developing,75.4,126,58.6,0.792,16.3
+1,Argentina,2007,Developing,74.8,129,58,0.788,16.3
+1,Argentina,2006,Developing,75.2,127,57.5,0.782,16.1
+1,Argentina,2005,Developing,74.9,127,56.9,0.78,16.3
+1,Argentina,2004,Developing,74.7,13,56.3,0.775,16.3
+1,Argentina,2003,Developing,74.1,137,55.7,0.77,16.4
+1,Argentina,2002,Developing,74.1,138,55.1,0.776,16.3
+1,Argentina,2001,Developing,74,138,54.6,0.771,15.6
+1,Argentina,2000,Developing,74.1,137,54,0.764,15
+1,Armenia,2015,Developing,74.8,118,54.9,0.741,12.7
+1,Armenia,2014,Developing,74.6,12,54.1,0.739,12.7
+1,Armenia,2013,Developing,74.4,123,53.3,0.736,12.7
+1,Armenia,2012,Developing,74.4,121,52.6,0.732,12.7
+1,Armenia,2011,Developing,73.9,128,51.9,0.729,12.7
+1,Armenia,2010,Developing,73.5,132,51.2,0.72,12.3
+1,Armenia,2009,Developing,73.3,137,5.7,0.725,11.9
+1,Armenia,2008,Developing,73.2,14,5.1,0.721,12.3
+1,Armenia,2007,Developing,73.5,132,49.7,0.707,11.7
+1,Armenia,2006,Developing,72.9,141,49.2,0.692,11.2
+1,Armenia,2005,Developing,73,137,48.8,0.679,10.9
+1,Armenia,2004,Developing,73,132,48.4,0.668,10.9
+1,Armenia,2003,Developing,72.7,134,48.1,0.657,10.8
+1,Armenia,2002,Developing,72.6,134,47.8,0.645,10.8
+1,Armenia,2001,Developing,72.6,141,47.4,0.644,11.1
+1,Armenia,2000,Developing,72,142,47.1,0.639,11.2
+1,Australia,2015,Developed,82.8,59,66.6,0.937,20.4
+1,Australia,2014,Developed,82.7,6,66.1,0.936,20.4
+1,Australia,2013,Developed,82.5,61,65.5,0.933,20.3
+1,Australia,2012,Developed,82.3,61,65,0.93,20.1
+1,Australia,2011,Developed,82,63,64.4,0.927,19.8
+1,Australia,2010,Developed,81.9,64,63.9,0.927,19.5
+1,Australia,2009,Developed,81.7,66,63.4,0.925,19.1
+1,Australia,2008,Developed,81.3,66,62.9,0.921,19.1
+1,Australia,2007,Developed,81.3,66,62.5,0.918,19
+1,Australia,2006,Developed,81.2,66,62,0.915,20.3
+1,Australia,2005,Developed,81,67,61.5,0.91,20.3
+1,Australia,2004,Developed,86,69,6.9,0.908,20.7
+1,Australia,2003,Developed,83,71,6.3,0.905,20.6
+1,Australia,2002,Developed,79.9,73,59.6,0.902,20.1
+1,Australia,2001,Developed,79.9,75,59,0.899,20.5
+1,Australia,2000,Developed,79.5,78,58.2,0.897,20.4
+1,Austria,2015,Developed,81.5,65,57.6,0.892,15.9
+1,Austria,2014,Developed,81.4,66,57.1,0.892,15.9
+1,Austria,2013,Developed,81.1,68,56.6,0.887,15.7
+1,Austria,2012,Developed,88,7,56.1,0.884,15.7
+1,Austria,2011,Developed,88,73,55.7,0.88,15.7
+1,Austria,2010,Developed,84,75,55.2,0.872,15.4
+1,Austria,2009,Developed,82,77,54.7,0.87,15.3
+1,Austria,2008,Developed,84,76,54.2,0.864,15.1
+1,Austria,2007,Developed,81,8,53.7,0.86,15.2
+1,Austria,2006,Developed,79.8,81,53.2,0.854,15
+1,Austria,2005,Developed,79.4,85,52.7,0.848,14.9
+1,Austria,2004,Developed,79.3,86,52.2,0.841,14.7
+1,Austria,2003,Developed,78.8,88,51.7,0.837,14.7
+1,Austria,2002,Developed,78.7,9,51.2,0.847,16.1
+1,Austria,2001,Developed,78.6,92,5.6,0.837,15.5
+1,Austria,2000,Developed,78.1,96,5.1,0.833,15.4
+1,Azerbaijan,2015,Developing,72.7,118,52.5,0.758,12.7
+1,Azerbaijan,2014,Developing,72.5,119,51.5,0.752,12.2
+1,Azerbaijan,2013,Developing,72.2,121,5.6,0.745,11.9
+1,Azerbaijan,2012,Developing,71.9,123,49.7,0.742,11.8
+1,Azerbaijan,2011,Developing,71.6,125,48.8,0.741,11.7
+1,Azerbaijan,2010,Developing,71.1,13,48,0.737,11.7
+1,Azerbaijan,2009,Developing,78,132,47.3,0.728,11.6
+1,Azerbaijan,2008,Developing,73,141,46.6,0.719,11.6
+1,Azerbaijan,2007,Developing,73,14,45.9,0.708,11.6
+1,Azerbaijan,2006,Developing,69.2,154,45.3,0.682,10.7
+1,Azerbaijan,2005,Developing,68.4,162,44.7,0.675,11.2
+1,Azerbaijan,2004,Developing,68.4,154,44.2,0.668,11
+1,Azerbaijan,2003,Developing,67.8,154,43.6,0.659,10.8
+1,Azerbaijan,2002,Developing,67.8,146,43.1,0.651,10.6
+1,Azerbaijan,2001,Developing,67.5,151,42.6,0.642,10.4
+1,Azerbaijan,2000,Developing,66.6,16,42.1,0.636,10.1
+1,Bahamas,2015,Developing,76.1,147,64.5,0.79,12.6
+1,Bahamas,2014,Developing,75.4,16,63.8,0.789,12.6
+1,Bahamas,2013,Developing,74.8,172,63.2,0.79,12.6
+1,Bahamas,2012,Developing,74.9,167,62.6,0.789,12.6
+1,Bahamas,2011,Developing,75,162,62,0.788,12.6
+1,Bahamas,2010,Developing,75,161,61.3,0.788,12.6
+1,Bahamas,2009,Developing,74.6,168,6.7,0.791,12.6
+1,Bahamas,2008,Developing,74.5,167,6.1,0.791,12.6
+1,Bahamas,2007,Developing,74.4,167,59.4,0.79,12.5
+1,Bahamas,2006,Developing,74.2,171,58.7,0.788,12.4
+1,Bahamas,2005,Developing,74.1,172,58.1,0.786,12.4
+1,Bahamas,2004,Developing,73.8,174,57.4,0.784,12.3
+1,Bahamas,2003,Developing,73.2,189,56.7,0.783,12.2
+1,Bahamas,2002,Developing,73.1,19,56,0.781,12.1
+1,Bahamas,2001,Developing,72.9,189,55.2,0.779,12.1
+1,Bahamas,2000,Developing,72.6,192,54.4,0,12
+1,Bahrain,2015,Developing,76.9,69,63.6,0.823,14.5
+1,Bahrain,2014,Developing,76.8,7,62.9,0.82,14.5
+1,Bahrain,2013,Developing,76.7,7,62.2,0.815,14.5
+1,Bahrain,2012,Developing,76.5,71,61.5,0.812,14.5
+1,Bahrain,2011,Developing,76.1,76,6.8,0.812,14.4
+1,Bahrain,2010,Developing,76.1,73,6.1,0.81,14.4
+1,Bahrain,2009,Developing,76,74,59.3,0.814,14.4
+1,Bahrain,2008,Developing,75.8,76,58.5,0.815,14.4
+1,Bahrain,2007,Developing,75.6,77,57.6,0.813,14.4
+1,Bahrain,2006,Developing,75.5,79,56.8,0.81,14.2
+1,Bahrain,2005,Developing,75.3,81,56.1,0.806,14
+1,Bahrain,2004,Developing,75.2,83,55.6,0.803,13.9
+1,Bahrain,2003,Developing,75,85,55.2,0.798,13.7
+1,Bahrain,2002,Developing,74.9,87,55,0.796,13.5
+1,Bahrain,2001,Developing,74.7,9,54.8,0.794,13.3
+1,Bahrain,2000,Developing,74.5,92,54.5,0.786,13.2
+1,Bangladesh,2015,Developing,71.8,129,18.3,0.575,10.2
+1,Bangladesh,2014,Developing,71.4,132,17.7,0.57,10
+1,Bangladesh,2013,Developing,71,135,17,0.565,10
+1,Bangladesh,2012,Developing,77,137,16.4,0.557,9.9
+1,Bangladesh,2011,Developing,73,14,15.8,0.545,9.4
+1,Bangladesh,2010,Developing,69.9,142,15.2,0.535,8.9
+1,Bangladesh,2009,Developing,69.5,144,14.6,0.523,8.4
+1,Bangladesh,2008,Developing,69.1,147,14,0.52,8.6
+1,Bangladesh,2007,Developing,68.6,151,13.5,0.513,8.6
+1,Bangladesh,2006,Developing,68.2,152,13,0.506,8.4
+1,Bangladesh,2005,Developing,67.8,155,12.5,0.499,8.2
+1,Bangladesh,2004,Developing,67.3,158,12,0.491,8.1
+1,Bangladesh,2003,Developing,66.8,161,11.6,0.484,7.9
+1,Bangladesh,2002,Developing,66.3,164,11.2,0.476,7.7
+1,Bangladesh,2001,Developing,65.8,168,1.8,0.468,7.5
+1,Bangladesh,2000,Developing,65.3,173,1.4,0.459,7.3
+1,Barbados,2015,Developing,75.5,98,54.5,0.794,15.3
+1,Barbados,2014,Developing,75.4,1,53.7,0.793,15.3
+1,Barbados,2013,Developing,75.2,11,53,0.792,15.3
+1,Barbados,2012,Developing,75.1,12,52.2,0.785,15.3
+1,Barbados,2011,Developing,74.9,14,51.4,0.78,15.5
+1,Barbados,2010,Developing,74.7,16,5.7,0.781,15.8
+1,Barbados,2009,Developing,74.6,19,49.9,0.779,15.5
+1,Barbados,2008,Developing,74.4,111,49.2,0.775,15.3
+1,Barbados,2007,Developing,74.2,113,48.4,0.771,15
+1,Barbados,2006,Developing,74.1,115,47.7,0.766,14.8
+1,Barbados,2005,Developing,73.9,117,46.9,0.761,14.6
+1,Barbados,2004,Developing,73.8,119,46.2,0.757,14.4
+1,Barbados,2003,Developing,73.7,121,45.4,0.753,14.2
+1,Barbados,2002,Developing,73.5,123,44.6,0.749,14
+1,Barbados,2001,Developing,73.4,125,43.8,0.75,14
+1,Barbados,2000,Developing,73.3,127,43,0.741,14
+1,Belarus,2015,Developing,72.3,196,62.3,0.798,15.6
+1,Belarus,2014,Developing,72,199,61.7,0.796,15.7
+1,Belarus,2013,Developing,71.7,23,61.1,0.796,15.7
+1,Belarus,2012,Developing,71.9,194,6.5,0.793,15.6
+1,Belarus,2011,Developing,72,232,59.9,0.787,15.5
+1,Belarus,2010,Developing,73,222,59.3,0.78,15.5
+1,Belarus,2009,Developing,70,226,58.7,0.771,15.4
+1,Belarus,2008,Developing,70,224,58.2,0.755,15.1
+1,Belarus,2007,Developing,69.8,226,57.7,0.739,14.9
+1,Belarus,2006,Developing,68.9,243,57.2,0.723,14.6
+1,Belarus,2005,Developing,68.1,252,56.7,0.713,14.4
+1,Belarus,2004,Developing,68.2,247,56.2,0.703,14.1
+1,Belarus,2003,Developing,67.7,253,55.8,0.695,13.9
+1,Belarus,2002,Developing,67.2,262,55.3,0.687,13.6
+1,Belarus,2001,Developing,67.7,254,54.9,0.681,13.3
+1,Belarus,2000,Developing,68,247,54.4,0.675,13.1
+1,Belgium,2015,Developed,81.1,74,63.7,0.895,16.6
+1,Belgium,2014,Developed,89,76,63.4,0.89,16.3
+1,Belgium,2013,Developed,87,77,63,0.889,16.3
+1,Belgium,2012,Developed,83,78,62.6,0.886,16.2
+1,Belgium,2011,Developed,83,8,62.3,0.884,16.1
+1,Belgium,2010,Developed,80,81,61.9,0.878,15.9
+1,Belgium,2009,Developed,79.8,85,61.6,0.876,15.8
+1,Belgium,2008,Developed,79.5,87,61.3,0.874,15.8
+1,Belgium,2007,Developed,79.5,86,6.9,0.871,15.8
+1,Belgium,2006,Developed,79.4,85,6.6,0.865,15.7
+1,Belgium,2005,Developed,78.9,89,6.2,0.861,15.7
+1,Belgium,2004,Developed,78.8,91,59.8,0.88,18.8
+1,Belgium,2003,Developed,78.3,95,59.4,0.878,18.6
+1,Belgium,2002,Developed,78,99,59,0.875,18.8
+1,Belgium,2001,Developed,78,1,58.5,0.873,18.2
+1,Belgium,2000,Developed,77.6,11,58.1,0.869,18
+1,Belize,2015,Developing,71,175,5.9,0.706,12.8
+1,Belize,2014,Developing,70,177,5.1,0.705,12.8
+1,Belize,2013,Developing,69.8,18,49.3,0.706,12.9
+1,Belize,2012,Developing,69.4,189,48.5,0.702,12.5
+1,Belize,2011,Developing,69.4,188,47.8,0.7,12.4
+1,Belize,2010,Developing,69.5,186,47,0.7,12.4
+1,Belize,2009,Developing,69.5,184,46.3,0.7,12.7
+1,Belize,2008,Developing,69.6,181,45.7,0.699,12.8
+1,Belize,2007,Developing,69.6,181,45,0.7,12.8
+1,Belize,2006,Developing,69.4,184,44.4,0.692,12.3
+1,Belize,2005,Developing,69,191,43.8,0.695,12.8
+1,Belize,2004,Developing,68.7,197,43.2,0.691,12.5
+1,Belize,2003,Developing,68.4,21,42.6,0.684,12.2
+1,Belize,2002,Developing,68.5,199,42,0.678,11.9
+1,Belize,2001,Developing,68.2,21,41.4,0.677,11.8
+1,Belize,2000,Developing,68.3,196,4.8,0.668,11.7
+1,Benin,2015,Developing,60,249,25.7,0.481,10.7
+1,Benin,2014,Developing,59.7,252,25.2,0.475,10.7
+1,Benin,2013,Developing,59.5,251,24.6,0.466,10.3
+1,Benin,2012,Developing,59.3,251,24.1,0.458,10
+1,Benin,2011,Developing,59.1,251,23.5,0.454,9.8
+1,Benin,2010,Developing,58.7,254,23,0.451,9.5
+1,Benin,2009,Developing,58.4,259,22.5,0.448,9.3
+1,Benin,2008,Developing,57.6,278,22,0.444,9.1
+1,Benin,2007,Developing,57.1,283,21.5,0.438,8.9
+1,Benin,2006,Developing,56.8,284,21,0.434,8.7
+1,Benin,2005,Developing,56.5,285,2.5,0.43,8.5
+1,Benin,2004,Developing,56.1,285,2.1,0.423,8.1
+1,Benin,2003,Developing,55.8,285,19.7,0.416,7.7
+1,Benin,2002,Developing,55.6,283,19.2,0.407,7.3
+1,Benin,2001,Developing,55.5,281,18.8,0.395,6.6
+1,Benin,2000,Developing,55.4,279,18.4,0.389,6.4
+1,Bhutan,2015,Developing,69.8,211,24.5,0.604,12.5
+1,Bhutan,2014,Developing,69.4,216,23.6,0.596,12.5
+1,Bhutan,2013,Developing,69.1,219,22.7,0.589,12.6
+1,Bhutan,2012,Developing,68.7,223,21.9,0.581,12.3
+1,Bhutan,2011,Developing,68.3,225,21.1,0.572,11.9
+1,Bhutan,2010,Developing,67.9,228,2.3,0,11.4
+1,Bhutan,2009,Developing,67.4,232,19.5,0,10.9
+1,Bhutan,2008,Developing,67,234,18.8,0,10.5
+1,Bhutan,2007,Developing,66.5,238,18,0,10.1
+1,Bhutan,2006,Developing,65.8,245,17.4,0,9.6
+1,Bhutan,2005,Developing,65,254,16.7,0,9.2
+1,Bhutan,2004,Developing,64.2,263,16.1,0,8.8
+1,Bhutan,2003,Developing,63.3,273,15.5,0,8.4
+1,Bhutan,2002,Developing,62.5,282,14.9,0,8
+1,Bhutan,2001,Developing,61.7,29,14.4,0,7.6
+1,Bhutan,2000,Developing,62,312,13.9,0,7.3
+1,Bolivia (Plurinational State of),2015,Developing,77,186,52.6,0.671,13.8
+1,Bolivia (Plurinational State of),2014,Developing,74,189,51.9,0.666,13.8
+1,Bolivia (Plurinational State of),2013,Developing,71,192,51.2,0.661,13.8
+1,Bolivia (Plurinational State of),2012,Developing,69.8,194,5.6,0.655,13.8
+1,Bolivia (Plurinational State of),2011,Developing,69.3,198,49.9,0.649,13.8
+1,Bolivia (Plurinational State of),2010,Developing,68.7,22,49.3,0.643,13.8
+1,Bolivia (Plurinational State of),2009,Developing,68,27,48.6,0.636,13.8
+1,Bolivia (Plurinational State of),2008,Developing,67.4,211,48,0.632,14
+1,Bolivia (Plurinational State of),2007,Developing,66.8,216,47.3,0.626,14.1
+1,Bolivia (Plurinational State of),2006,Developing,66.2,219,46.7,0.625,14.3
+1,Bolivia (Plurinational State of),2005,Developing,65.7,222,46,0.622,14.4
+1,Bolivia (Plurinational State of),2004,Developing,65.1,226,45.4,0.62,14.6
+1,Bolivia (Plurinational State of),2003,Developing,64.5,23,44.7,0.617,14.4
+1,Bolivia (Plurinational State of),2002,Developing,63.9,234,44,0.61,14
+1,Bolivia (Plurinational State of),2001,Developing,63.3,238,43.3,0.607,13.7
+1,Bolivia (Plurinational State of),2000,Developing,62.6,243,42.6,0.6,13.3
+1,Bosnia and Herzegovina,2015,Developing,77.4,88,55.8,0.747,14.2
+1,Bosnia and Herzegovina,2014,Developing,77.2,89,55.3,0.742,14.2
+1,Bosnia and Herzegovina,2013,Developing,77,9,54.7,0.735,14.2
+1,Bosnia and Herzegovina,2012,Developing,76.8,92,54.2,0.728,13.9
+1,Bosnia and Herzegovina,2011,Developing,76.9,92,53.7,0.711,13.4
+1,Bosnia and Herzegovina,2010,Developing,76.4,94,53.1,0.717,13.3
+1,Bosnia and Herzegovina,2009,Developing,76.1,97,52.6,0.716,13.3
+1,Bosnia and Herzegovina,2008,Developing,76,98,52.1,0.71,13.1
+1,Bosnia and Herzegovina,2007,Developing,75.4,16,51.5,0.703,12.9
+1,Bosnia and Herzegovina,2006,Developing,75.7,1,51,0.697,12.7
+1,Bosnia and Herzegovina,2005,Developing,75,12,5.5,0,12.5
+1,Bosnia and Herzegovina,2004,Developing,75.5,99,49.9,0,12.3
+1,Bosnia and Herzegovina,2003,Developing,75.2,12,49.4,0,12.1
+1,Bosnia and Herzegovina,2002,Developing,75.4,11,48.8,0,11.9
+1,Bosnia and Herzegovina,2001,Developing,74.9,113,48.2,0,11.6
+1,Bosnia and Herzegovina,2000,Developing,74.6,116,47.6,0,0
+1,Botswana,2015,Developing,65.7,256,37.9,0.698,12.6
+1,Botswana,2014,Developing,65.1,268,37.3,0.697,12.6
+1,Botswana,2013,Developing,64.2,286,36.8,0.693,12.6
+1,Botswana,2012,Developing,63.4,3,36.2,0.687,12.5
+1,Botswana,2011,Developing,62.2,325,35.7,0.678,12.4
+1,Botswana,2010,Developing,61.1,349,35.2,0.669,12.3
+1,Botswana,2009,Developing,59.2,393,34.7,0.661,12.2
+1,Botswana,2008,Developing,57.5,427,34.2,0.646,12.1
+1,Botswana,2007,Developing,56.9,436,33.7,0.63,12.1
+1,Botswana,2006,Developing,54.8,491,33.2,0.61,11.9
+1,Botswana,2005,Developing,51.7,566,32.7,0.593,11.9
+1,Botswana,2004,Developing,48.1,652,32.2,0.58,11.8
+1,Botswana,2003,Developing,46.4,693,31.6,0.567,11.8
+1,Botswana,2002,Developing,46,699,31.1,0.558,11.9
+1,Botswana,2001,Developing,46.7,679,3.5,0.56,11.8
+1,Botswana,2000,Developing,47.8,647,29.9,0.559,11.7
+1,Brazil,2015,Developing,75,142,56.1,0.754,15.2
+1,Brazil,2014,Developing,74.8,144,55.3,0.747,15.2
+1,Brazil,2013,Developing,74.7,146,54.5,0.734,14.2
+1,Brazil,2012,Developing,74.5,148,53.6,0.73,14.2
+1,Brazil,2011,Developing,74.1,152,52.8,0.724,14
+1,Brazil,2010,Developing,73.8,154,52,0.716,13.8
+1,Brazil,2009,Developing,73.6,157,51.1,0.714,13.8
+1,Brazil,2008,Developing,73.4,158,5.3,0.704,13.3
+1,Brazil,2007,Developing,73.3,159,49.4,0.7,13.5
+1,Brazil,2006,Developing,73,161,48.6,0.698,13.8
+1,Brazil,2005,Developing,72.7,163,47.8,0.694,13.8
+1,Brazil,2004,Developing,72,17,46.9,0.695,14
+1,Brazil,2003,Developing,71.8,172,46.1,0.699,14.8
+1,Brazil,2002,Developing,71.4,176,45.3,0.692,14.6
+1,Brazil,2001,Developing,71,179,44.5,0.685,14.3
+1,Brazil,2000,Developing,75,183,43.7,0.677,14.1
+1,Brunei Darussalam,2015,Developing,77.7,78,41.2,0.864,14.9
+1,Brunei Darussalam,2014,Developing,77.6,8,4.2,0.863,15
+1,Brunei Darussalam,2013,Developing,77.1,84,39.2,0.86,14.9
+1,Brunei Darussalam,2012,Developing,78.3,79,38.2,0.852,14.4
+1,Brunei Darussalam,2011,Developing,77.4,79,37.2,0.846,14.1
+1,Brunei Darussalam,2010,Developing,76.9,79,36.2,0.845,14.2
+1,Brunei Darussalam,2009,Developing,76.8,88,35.2,0.841,14.1
+1,Brunei Darussalam,2008,Developing,77.2,84,34.2,0.84,14.2
+1,Brunei Darussalam,2007,Developing,76,1,33.2,0.84,14.3
+1,Brunei Darussalam,2006,Developing,76.3,93,32.2,0.837,14.3
+1,Brunei Darussalam,2005,Developing,76.2,92,31.2,0.834,14.1
+1,Brunei Darussalam,2004,Developing,76.4,89,3.1,0.828,13.7
+1,Brunei Darussalam,2003,Developing,76,89,29.1,0.823,13.4
+1,Brunei Darussalam,2002,Developing,74.8,95,28,0.82,13.3
+1,Brunei Darussalam,2001,Developing,74.7,19,27,0.819,13.4
+1,Brunei Darussalam,2000,Developing,74.4,16,26.1,0.818,13.4
+1,Bulgaria,2015,Developed,74.5,137,65.7,0.792,15
+1,Bulgaria,2014,Developed,74.3,138,65.1,0.787,14.8
+1,Bulgaria,2013,Developed,74.1,14,64.5,0.781,14.4
+1,Bulgaria,2012,Developed,73.9,139,63.9,0.778,14.3
+1,Bulgaria,2011,Developed,73.7,144,63.3,0.775,14.2
+1,Bulgaria,2010,Developed,73.4,147,62.7,0.77,13.9
+1,Bulgaria,2009,Developed,73.2,152,62.1,0.768,13.8
+1,Bulgaria,2008,Developed,72.9,155,61.5,0.761,13.8
+1,Bulgaria,2007,Developed,72.6,157,6.9,0.755,13.5
+1,Bulgaria,2006,Developed,72.2,161,6.3,0.75,13.5
+1,Bulgaria,2005,Developed,72.1,16,59.7,0.745,13.5
+1,Bulgaria,2004,Developed,72.2,157,59.1,0.738,13.3
+1,Bulgaria,2003,Developed,72,155,58.6,0.729,12.9
+1,Bulgaria,2002,Developed,71.8,157,58.1,0.723,12.9
+1,Bulgaria,2001,Developed,71.6,16,57.5,0.713,12.9
+1,Bulgaria,2000,Developed,71.1,163,57,0.709,12.9
+1,Burkina Faso,2015,Developing,59.9,26,19.4,0.399,7.7
+1,Burkina Faso,2014,Developing,59.3,268,18.8,0.398,7.7
+1,Burkina Faso,2013,Developing,59,27,18.2,0.392,7.5
+1,Burkina Faso,2012,Developing,58.6,271,17.7,0.384,7.2
+1,Burkina Faso,2011,Developing,58.1,275,17.1,0.377,6.7
+1,Burkina Faso,2010,Developing,57.5,279,16.6,0.365,6.3
+1,Burkina Faso,2009,Developing,56.9,283,16.1,0.356,5.9
+1,Burkina Faso,2008,Developing,56.1,288,15.6,0.345,5.4
+1,Burkina Faso,2007,Developing,55.3,293,15.1,0.334,4.9
+1,Burkina Faso,2006,Developing,54.3,32,14.6,0.325,4.7
+1,Burkina Faso,2005,Developing,53.3,313,14.2,0,4.3
+1,Burkina Faso,2004,Developing,52.4,323,13.7,0,3.9
+1,Burkina Faso,2003,Developing,51.6,332,13.3,0,3.8
+1,Burkina Faso,2002,Developing,51,338,12.9,0,3.6
+1,Burkina Faso,2001,Developing,56,344,12.5,0,3.5
+1,Burkina Faso,2000,Developing,51,348,12.2,0,3.4
+1,Burundi,2015,Developing,59.6,288,18.7,0.406,10.6
+1,Burundi,2014,Developing,59.1,297,18.2,0.404,10.6
+1,Burundi,2013,Developing,58.6,33,17.6,0.398,10.5
+1,Burundi,2012,Developing,58,312,17.1,0.393,10.3
+1,Burundi,2011,Developing,57.4,321,16.6,0.385,9.9
+1,Burundi,2010,Developing,56.8,33,16.1,0.361,9.3
+1,Burundi,2009,Developing,56.2,338,15.7,0.336,8.6
+1,Burundi,2008,Developing,55.3,35,15.2,0.319,7.9
+1,Burundi,2007,Developing,54.8,355,14.8,0.309,7.2
+1,Burundi,2006,Developing,54.1,361,14.5,0.29,5.9
+1,Burundi,2005,Developing,53.4,369,14.1,0.286,5.6
+1,Burundi,2004,Developing,52.6,378,13.8,0.279,5.2
+1,Burundi,2003,Developing,51.9,387,13.5,0.276,4.7
+1,Burundi,2002,Developing,51.5,387,13.3,0.268,4.4
+1,Burundi,2001,Developing,51.3,385,13,0.268,4.5
+1,Burundi,2000,Developing,58,386,12.8,0.268,4.5
+1,Côte d'Ivoire,2015,Developing,53.3,397,28,,
+1,Côte d'Ivoire,2014,Developing,52.8,47,27.4,,
+1,Côte d'Ivoire,2013,Developing,52.3,412,26.8,,
+1,Côte d'Ivoire,2012,Developing,52,415,26.2,,
+1,Côte d'Ivoire,2011,Developing,51.7,419,25.6,,
+1,Côte d'Ivoire,2010,Developing,51.5,417,25,,
+1,Côte d'Ivoire,2009,Developing,51,426,24.4,,
+1,Côte d'Ivoire,2008,Developing,54,437,23.8,,
+1,Côte d'Ivoire,2007,Developing,49.9,443,23.2,,
+1,Côte d'Ivoire,2006,Developing,49.4,452,22.6,,
+1,Côte d'Ivoire,2005,Developing,48.7,466,22.1,,
+1,Côte d'Ivoire,2004,Developing,48.2,472,21.5,,
+1,Côte d'Ivoire,2003,Developing,48,473,2.9,,
+1,Côte d'Ivoire,2002,Developing,47.7,473,2.4,,
+1,Côte d'Ivoire,2001,Developing,47.8,467,19.9,,
+1,Côte d'Ivoire,2000,Developing,47.9,461,19.4,,
+1,Cabo Verde,2015,Developing,73.3,114,31.3,0.646,13.5
+1,Cabo Verde,2014,Developing,73,117,3.5,0.643,13.5
+1,Cabo Verde,2013,Developing,72.8,12,29.7,0.643,13.6
+1,Cabo Verde,2012,Developing,72.7,121,29,0.636,13.2
+1,Cabo Verde,2011,Developing,72.6,122,28.2,0.632,13.1
+1,Cabo Verde,2010,Developing,72.5,123,27.5,0.627,12.7
+1,Cabo Verde,2009,Developing,72.4,124,26.8,0.621,12.4
+1,Cabo Verde,2008,Developing,72.4,124,26.2,0.615,12.2
+1,Cabo Verde,2007,Developing,72.3,126,25.5,0.602,11.9
+1,Cabo Verde,2006,Developing,72.1,129,24.9,0.596,11.9
+1,Cabo Verde,2005,Developing,71.8,134,24.3,0.582,11.2
+1,Cabo Verde,2004,Developing,71.4,14,23.7,0.574,11.1
+1,Cabo Verde,2003,Developing,71.1,144,23.2,0.572,11.3
+1,Cabo Verde,2002,Developing,77,148,22.6,0.569,11.3
+1,Cabo Verde,2001,Developing,73,152,22.1,0.562,11
+1,Cabo Verde,2000,Developing,69.9,155,21.5,0,11.3
+1,Cambodia,2015,Developing,68.7,174,19.6,0.558,10.9
+1,Cambodia,2014,Developing,68.3,179,18.9,0.553,10.9
+1,Cambodia,2013,Developing,67.8,183,18.2,0.546,10.8
+1,Cambodia,2012,Developing,67.4,186,17.6,0.54,10.7
+1,Cambodia,2011,Developing,67,19,17,0.533,10.7
+1,Cambodia,2010,Developing,66.6,192,16.4,0.519,10.6
+1,Cambodia,2009,Developing,66.1,195,15.9,0.52,10.5
+1,Cambodia,2008,Developing,65.6,199,15.3,0.511,10.5
+1,Cambodia,2007,Developing,65,24,14.8,0.495,10.3
+1,Cambodia,2006,Developing,64.1,216,14.3,0.483,10.1
+1,Cambodia,2005,Developing,62.9,234,13.9,0.47,10
+1,Cambodia,2004,Developing,61.5,253,13.5,0.458,9.7
+1,Cambodia,2003,Developing,63,268,13.1,0.445,9.3
+1,Cambodia,2002,Developing,59.3,273,12.8,0.427,8.2
+1,Cambodia,2001,Developing,58.5,273,12.4,0.412,7.6
+1,Cambodia,2000,Developing,57.7,274,12.1,0.401,7.2
+1,Cameroon,2015,Developing,57.3,357,29,0.514,10.4
+1,Cameroon,2014,Developing,56.7,366,28.4,0.507,10.4
+1,Cameroon,2013,Developing,56.4,364,27.8,0.501,10.4
+1,Cameroon,2012,Developing,55.9,369,27.2,0.496,10.4
+1,Cameroon,2011,Developing,55.6,371,26.6,0.486,10
+1,Cameroon,2010,Developing,55.3,37,26,0.48,9.7
+1,Cameroon,2009,Developing,54.8,373,25.4,0.473,9.2
+1,Cameroon,2008,Developing,54.2,382,24.9,0.466,8.8
+1,Cameroon,2007,Developing,53.6,395,24.4,0.456,8
+1,Cameroon,2006,Developing,53.3,394,23.8,0.456,8.2
+1,Cameroon,2005,Developing,52.8,4,23.3,0.456,8.3
+1,Cameroon,2004,Developing,52.1,412,22.8,0.455,8.2
+1,Cameroon,2003,Developing,51.8,412,22.3,0.452,8.1
+1,Cameroon,2002,Developing,51.6,47,21.8,0.452,8.4
+1,Cameroon,2001,Developing,51.5,41,21.3,0.437,7.1
+1,Cameroon,2000,Developing,51.4,394,2.9,0.433,6.9
+1,Canada,2015,Developing,82.2,64,67,0.919,16.3
+1,Canada,2014,Developing,82,65,66.4,0.912,15.9
+1,Canada,2013,Developing,81.8,67,65.8,0.909,15.9
+1,Canada,2012,Developing,81.6,68,65.3,0.907,15.9
+1,Canada,2011,Developing,81.5,68,64.7,0.903,15.9
+1,Canada,2010,Developing,81.2,7,64.1,0.898,15.9
+1,Canada,2009,Developing,81,72,63.6,0.898,15.9
+1,Canada,2008,Developing,87,74,63,0.897,15.8
+1,Canada,2007,Developing,85,74,62.5,0.894,15.8
+1,Canada,2006,Developing,85,75,61.9,0.891,15.8
+1,Canada,2005,Developing,81,76,61.3,0.886,15.8
+1,Canada,2004,Developing,80,77,6.6,0.881,15.8
+1,Canada,2003,Developing,79.7,78,6,0.877,15.8
+1,Canada,2002,Developing,79.5,79,59.3,0.872,15.8
+1,Canada,2001,Developing,79.4,8,58.5,0.867,15.8
+1,Canada,2000,Developing,79.1,82,57.8,0.864,15.9
+1,Central African Republic,2015,Developing,52.5,397,22.7,0.347,7.1
+1,Central African Republic,2014,Developing,58,437,22.1,0.345,7.1
+1,Central African Republic,2013,Developing,49.9,451,21.6,0.37,7.1
+1,Central African Republic,2012,Developing,53,439,21.2,0.366,7.1
+1,Central African Republic,2011,Developing,49.8,443,2.7,0.361,6.8
+1,Central African Republic,2010,Developing,49.2,446,2.2,0.352,6.6
+1,Central African Republic,2009,Developing,48.6,453,19.8,0.345,6.4
+1,Central African Republic,2008,Developing,47.6,477,19.4,0.338,6.3
+1,Central African Republic,2007,Developing,46.8,495,19,0.33,6.2
+1,Central African Republic,2006,Developing,46.3,56,18.6,0.323,6
+1,Central African Republic,2005,Developing,45.9,511,18.2,0.319,5.9
+1,Central African Republic,2004,Developing,45.7,512,17.9,0.315,5.7
+1,Central African Republic,2003,Developing,45.7,51,17.5,0.316,5.6
+1,Central African Republic,2002,Developing,45.6,58,17.2,0.315,5.4
+1,Central African Republic,2001,Developing,45.6,54,16.8,0.314,5.3
+1,Central African Republic,2000,Developing,46,49,16.5,0.312,5.2
+1,Chad,2015,Developing,53.1,356,19.1,0.394,7.3
+1,Chad,2014,Developing,52.6,362,18.7,0.39,7.3
+1,Chad,2013,Developing,52.2,366,18.2,0.387,7.3
+1,Chad,2012,Developing,51.8,367,17.9,0.381,7.3
+1,Chad,2011,Developing,51.6,365,17.5,0.37,6.7
+1,Chad,2010,Developing,51.2,364,17.1,0.36,6.7
+1,Chad,2009,Developing,57,37,16.7,0.343,6.3
+1,Chad,2008,Developing,49.6,394,16.4,0.338,6
+1,Chad,2007,Developing,49.4,394,16.1,0.306,5.7
+1,Chad,2006,Developing,48.5,414,15.7,0.303,5.5
+1,Chad,2005,Developing,48.6,46,15.4,0.306,5.6
+1,Chad,2004,Developing,48.5,45,15.1,0.301,5.6
+1,Chad,2003,Developing,48.4,43,14.8,0.284,5.4
+1,Chad,2002,Developing,48.1,43,14.4,0.303,5.1
+1,Chad,2001,Developing,48,4,14.1,0.3,4.9
+1,Chad,2000,Developing,47.6,44,13.9,0,4.7
+1,Chile,2015,Developing,85,82,63.8,0.845,16.3
+1,Chile,2014,Developing,83,83,63.1,0.841,16.2
+1,Chile,2013,Developing,81,84,62.5,0.831,15.6
+1,Chile,2012,Developing,79.9,84,61.8,0.826,15.5
+1,Chile,2011,Developing,79.8,86,61.2,0.82,15.4
+1,Chile,2010,Developing,79.1,89,6.6,0.815,15.2
+1,Chile,2009,Developing,79.3,91,59.9,0.816,15.3
+1,Chile,2008,Developing,79.6,88,59.3,0.804,15.2
+1,Chile,2007,Developing,78.9,9,58.7,0.797,14.8
+1,Chile,2006,Developing,78.9,91,58.1,0.796,14.9
+1,Chile,2005,Developing,78.4,93,57.4,0.79,14.6
+1,Chile,2004,Developing,78,97,56.8,0.781,14.3
+1,Chile,2003,Developing,77.9,1,56.1,0.775,14
+1,Chile,2002,Developing,77.8,11,55.4,0.768,13.9
+1,Chile,2001,Developing,77.3,16,54.7,0.761,13.7
+1,Chile,2000,Developing,77.3,13,54,0.755,13.5
+1,China,2015,Developing,76.1,85,32.9,0.734,13.5
+1,China,2014,Developing,75.8,86,31.9,0.723,13.1
+1,China,2013,Developing,75.6,88,3.9,0.713,12.7
+1,China,2012,Developing,75.4,89,3,0.703,12.4
+1,China,2011,Developing,75.2,91,29,0.7,12.8
+1,China,2010,Developing,75,92,28.1,0.691,12.5
+1,China,2009,Developing,74.9,93,27.3,0.682,12.2
+1,China,2008,Developing,74.5,97,26.5,0.672,11.9
+1,China,2007,Developing,74.4,96,25.7,0.659,11.4
+1,China,2006,Developing,74.2,98,24.9,0.646,11
+1,China,2005,Developing,73.9,99,24.1,0.634,10.6
+1,China,2004,Developing,73.5,11,23.4,0.622,10.2
+1,China,2003,Developing,73.1,13,22.6,0.61,9.9
+1,China,2002,Developing,72.7,16,21.9,0.6,9.7
+1,China,2001,Developing,72.2,11,21.2,0.592,9.6
+1,China,2000,Developing,71.7,115,2.5,0.583,9.5
+1,Colombia,2015,Developing,74.8,143,57.9,0.724,13.6
+1,Colombia,2014,Developing,74.6,144,57.2,0.72,13.6
+1,Colombia,2013,Developing,74.4,145,56.4,0.712,13.3
+1,Colombia,2012,Developing,74.3,143,55.7,0.707,13.2
+1,Colombia,2011,Developing,74.2,144,55,0.7,13
+1,Colombia,2010,Developing,73.6,15,54.2,0.695,12.8
+1,Colombia,2009,Developing,73.6,15,53.5,0.691,12.4
+1,Colombia,2008,Developing,73.5,146,52.8,0.683,12.2
+1,Colombia,2007,Developing,73.5,144,52,0.675,11.9
+1,Colombia,2006,Developing,73.1,147,51.3,0.669,11.5
+1,Colombia,2005,Developing,73.1,144,5.5,0.658,11.1
+1,Colombia,2004,Developing,72.8,148,49.8,0.658,11.3
+1,Colombia,2003,Developing,72.4,15,49,0.659,11.6
+1,Colombia,2002,Developing,71.8,163,48.2,0.656,11.5
+1,Colombia,2001,Developing,71.5,165,47.5,0.653,11.4
+1,Colombia,2000,Developing,71.4,167,46.7,0.65,11.3
+1,Comoros,2015,Developing,63.5,227,24.2,0.498,11.1
+1,Comoros,2014,Developing,63.2,23,23.7,0.497,11.1
+1,Comoros,2013,Developing,62.9,233,23.2,0.49,10.9
+1,Comoros,2012,Developing,62.5,237,22.6,0.484,10.8
+1,Comoros,2011,Developing,62.2,241,22.1,0.479,10.6
+1,Comoros,2010,Developing,61.8,246,21.6,0.476,10.5
+1,Comoros,2009,Developing,61.3,251,21.1,0.465,10.3
+1,Comoros,2008,Developing,61,255,2.6,0.461,10.2
+1,Comoros,2007,Developing,66,259,2.1,0.459,10
+1,Comoros,2006,Developing,63,262,19.6,0.451,9.9
+1,Comoros,2005,Developing,60,266,19.2,0.434,9.7
+1,Comoros,2004,Developing,59.8,269,18.8,0,9.5
+1,Comoros,2003,Developing,59.6,271,18.4,0,9.2
+1,Comoros,2002,Developing,59.5,271,18,0,8.8
+1,Comoros,2001,Developing,59.5,272,17.6,0,8.5
+1,Comoros,2000,Developing,59.5,272,17.3,0,8.2
+1,Congo,2015,Developing,64.7,267,27.4,0.59,11.1
+1,Congo,2014,Developing,64.2,275,26.8,0.581,11.1
+1,Congo,2013,Developing,63.9,274,26.2,0.576,11.1
+1,Congo,2012,Developing,63.7,273,25.6,0.557,10.2
+1,Congo,2011,Developing,62.9,285,25,0.558,10.7
+1,Congo,2010,Developing,62,298,24.5,0.548,10.5
+1,Congo,2009,Developing,68,314,23.9,0.545,10.3
+1,Congo,2008,Developing,59.4,338,23.3,0.527,10
+1,Congo,2007,Developing,58.2,354,22.8,0.517,9.8
+1,Congo,2006,Developing,56.9,368,22.3,0.507,9.6
+1,Congo,2005,Developing,55.3,394,21.7,0.496,9.4
+1,Congo,2004,Developing,54.1,48,21.2,0.497,9.2
+1,Congo,2003,Developing,53.2,417,2.7,0.492,9.4
+1,Congo,2002,Developing,52.6,424,2.3,0.488,9.5
+1,Congo,2001,Developing,52.7,419,19.8,0.487,9.7
+1,Congo,2000,Developing,52.9,416,19.3,0.487,9.8
+1,Cook Islands,2013,Developing,,,82.8,,
+1,Costa Rica,2015,Developing,79.6,95,6.5,0.775,14.2
+1,Costa Rica,2014,Developing,79.5,96,59.5,0.768,13.9
+1,Costa Rica,2013,Developing,79.4,96,58.5,0.762,13.7
+1,Costa Rica,2012,Developing,79.2,97,57.5,0.758,13.6
+1,Costa Rica,2011,Developing,79,98,56.5,0.752,13.4
+1,Costa Rica,2010,Developing,78.1,16,55.5,0.749,13.3
+1,Costa Rica,2009,Developing,79.2,96,54.4,0.747,13.1
+1,Costa Rica,2008,Developing,78.9,99,53.4,0.74,12.9
+1,Costa Rica,2007,Developing,78.9,93,52.4,0.734,12.8
+1,Costa Rica,2006,Developing,78,16,51.4,0.727,12.6
+1,Costa Rica,2005,Developing,78.6,97,5.3,0.723,12.4
+1,Costa Rica,2004,Developing,77.7,12,49.3,0.719,12.2
+1,Costa Rica,2003,Developing,78,1,48.3,0.715,12.1
+1,Costa Rica,2002,Developing,78.3,99,47.3,0.712,11.9
+1,Costa Rica,2001,Developing,77.5,1,46.4,0.708,11.7
+1,Costa Rica,2000,Developing,77.6,98,45.4,0.702,11.6
+1,Croatia,2015,Developed,78,95,63.7,0.823,15.3
+1,Croatia,2014,Developed,77.8,97,63.1,0.82,15.1
+1,Croatia,2013,Developed,77.7,97,62.5,0.817,14.9
+1,Croatia,2012,Developed,77.1,14,61.9,0.815,14.6
+1,Croatia,2011,Developed,77,14,61.3,0.808,14.5
+1,Croatia,2010,Developed,76.6,16,6.6,0.803,14.2
+1,Croatia,2009,Developed,76.3,19,6,0.803,14.2
+1,Croatia,2008,Developed,76,116,59.4,0.8,14.3
+1,Croatia,2007,Developed,75.8,114,58.7,0.793,14.3
+1,Croatia,2006,Developed,75.9,113,58.1,0.783,13.9
+1,Croatia,2005,Developed,75.2,116,57.5,0.777,13.6
+1,Croatia,2004,Developed,75.4,114,56.9,0.771,13.3
+1,Croatia,2003,Developed,74.7,122,56.3,0.765,12.9
+1,Croatia,2002,Developed,74.8,124,55.8,0.759,12.6
+1,Croatia,2001,Developed,74.9,126,55.2,0.749,12.3
+1,Croatia,2000,Developed,74.7,127,54.7,0.739,12.2
+1,Cuba,2015,Developing,79.1,92,61.4,0.773,13.9
+1,Cuba,2014,Developing,79,93,6.7,0.772,14
+1,Cuba,2013,Developing,78.7,96,59.9,0.773,14.7
+1,Cuba,2012,Developing,78.7,96,59.2,0.778,15.7
+1,Cuba,2011,Developing,78.8,92,58.4,0.78,16.5
+1,Cuba,2010,Developing,78,98,57.7,0.784,17.6
+1,Cuba,2009,Developing,78.1,11,56.9,0.782,17.7
+1,Cuba,2008,Developing,77.9,12,56.2,0.771,17.1
+1,Cuba,2007,Developing,78.1,14,55.4,0.754,16
+1,Cuba,2006,Developing,78,14,54.6,0.732,14.7
+1,Cuba,2005,Developing,77.2,19,53.8,0.719,14.2
+1,Cuba,2004,Developing,77.3,17,53,0.705,13.2
+1,Cuba,2003,Developing,77.4,18,52.1,0.694,12.9
+1,Cuba,2002,Developing,77.7,19,51.3,0.692,12.5
+1,Cuba,2001,Developing,76.7,115,5.4,0.686,12.3
+1,Cuba,2000,Developing,76.9,115,49.4,0.679,12.1
+1,Cyprus,2015,Developed,85,52,6.3,0.854,14.3
+1,Cyprus,2014,Developed,83,53,59.8,0.85,14
+1,Cyprus,2013,Developed,81,54,59.2,0.85,13.8
+1,Cyprus,2012,Developed,80,56,58.7,0.85,13.8
+1,Cyprus,2011,Developed,79.7,57,58.3,0.847,13.8
+1,Cyprus,2010,Developed,79.5,59,57.8,0.853,14.6
+1,Cyprus,2009,Developed,79.3,6,57.3,0.849,14.1
+1,Cyprus,2008,Developed,79.1,62,56.8,0.844,13.7
+1,Cyprus,2007,Developed,78.9,63,56.3,0.836,13.5
+1,Cyprus,2006,Developed,78.8,64,55.8,0.829,13.4
+1,Cyprus,2005,Developed,78.7,65,55.3,0.826,13.5
+1,Cyprus,2004,Developed,78.6,65,54.8,0.823,13.4
+1,Cyprus,2003,Developed,78.5,66,54.3,0.815,13
+1,Cyprus,2002,Developed,78.4,68,53.8,0.805,12.5
+1,Cyprus,2001,Developed,78.2,69,53.3,0.8,12.4
+1,Cyprus,2000,Developed,78.1,7,52.8,0.798,12.5
+1,Czechia,2015,Developed,78.8,86,66.1,,
+1,Czechia,2014,Developed,78.6,88,65.6,,
+1,Czechia,2013,Developed,78.2,9,65.1,,
+1,Czechia,2012,Developed,78,93,64.5,,
+1,Czechia,2011,Developed,77.8,97,64,,
+1,Czechia,2010,Developed,77.5,99,63.6,,
+1,Czechia,2009,Developed,77.1,12,63.1,,
+1,Czechia,2008,Developed,77,16,62.6,,
+1,Czechia,2007,Developed,76.8,17,62.2,,
+1,Czechia,2006,Developed,76.5,19,61.8,,
+1,Czechia,2005,Developed,75.9,114,61.3,,
+1,Czechia,2004,Developed,75.8,116,6.8,,
+1,Czechia,2003,Developed,75.2,122,6.4,,
+1,Czechia,2002,Developed,75.3,12,59.9,,
+1,Czechia,2001,Developed,75.1,123,59.4,,
+1,Czechia,2000,Developed,74.7,126,59,,
+1,Democratic People's Republic of Korea,2015,Developing,76,139,32.9,,
+1,Democratic People's Republic of Korea,2014,Developing,73,142,32.4,,
+1,Democratic People's Republic of Korea,2013,Developing,71,146,31.8,,
+1,Democratic People's Republic of Korea,2012,Developing,69.8,149,31.3,,
+1,Democratic People's Republic of Korea,2011,Developing,69.4,153,3.8,,
+1,Democratic People's Republic of Korea,2010,Developing,69,157,3.3,,
+1,Democratic People's Republic of Korea,2009,Developing,68.7,161,29.7,,
+1,Democratic People's Republic of Korea,2008,Developing,68.6,164,29.2,,
+1,Democratic People's Republic of Korea,2007,Developing,68.5,166,28.7,,
+1,Democratic People's Republic of Korea,2006,Developing,68.5,165,28.2,,
+1,Democratic People's Republic of Korea,2005,Developing,68.5,165,27.7,,
+1,Democratic People's Republic of Korea,2004,Developing,68.4,165,27.2,,
+1,Democratic People's Republic of Korea,2003,Developing,68.1,165,26.7,,
+1,Democratic People's Republic of Korea,2002,Developing,67.6,167,26.2,,
+1,Democratic People's Republic of Korea,2001,Developing,66.6,177,25.7,,
+1,Democratic People's Republic of Korea,2000,Developing,65.4,192,25.2,,
+1,Democratic Republic of the Congo,2015,Developing,59.8,258,21.6,,
+1,Democratic Republic of the Congo,2014,Developing,59.3,266,21.1,,
+1,Democratic Republic of the Congo,2013,Developing,58.8,272,2.6,,
+1,Democratic Republic of the Congo,2012,Developing,58.3,277,2.1,,
+1,Democratic Republic of the Congo,2011,Developing,57.9,278,19.6,,
+1,Democratic Republic of the Congo,2010,Developing,57.4,283,19.1,,
+1,Democratic Republic of the Congo,2009,Developing,56.7,292,18.6,,
+1,Democratic Republic of the Congo,2008,Developing,56.3,295,18.2,,
+1,Democratic Republic of the Congo,2007,Developing,55.7,299,17.8,,
+1,Democratic Republic of the Congo,2006,Developing,55,36,17.3,,
+1,Democratic Republic of the Congo,2005,Developing,54.3,314,16.9,,
+1,Democratic Republic of the Congo,2004,Developing,53.5,323,16.5,,
+1,Democratic Republic of the Congo,2003,Developing,52.8,332,16.1,,
+1,Democratic Republic of the Congo,2002,Developing,52.1,341,15.7,,
+1,Democratic Republic of the Congo,2001,Developing,51.8,34,15.3,,
+1,Democratic Republic of the Congo,2000,Developing,51.3,346,14.9,,
+1,Denmark,2015,Developed,86,71,58.8,0.923,19.2
+1,Denmark,2014,Developed,84,73,58.4,0.926,19.2
+1,Denmark,2013,Developed,81,75,58.1,0.924,18.7
+1,Denmark,2012,Developed,80,76,57.7,0.922,18.4
+1,Denmark,2011,Developed,79.7,79,57.4,0.91,16.9
+1,Denmark,2010,Developed,79.2,84,57,0.906,16.8
+1,Denmark,2009,Developed,78.9,86,56.6,0.906,16.8
+1,Denmark,2008,Developed,78.8,88,56.3,0.906,16.8
+1,Denmark,2007,Developed,78.4,93,55.9,0.904,16.7
+1,Denmark,2006,Developed,78.1,93,55.4,0.902,16.9
+1,Denmark,2005,Developed,78.1,92,55,0.897,16.6
+1,Denmark,2004,Developed,77.7,98,54.4,0.893,16.5
+1,Denmark,2003,Developed,77.3,11,53.9,0.882,16.3
+1,Denmark,2002,Developed,77,14,53.3,0.875,16.6
+1,Denmark,2001,Developed,77,12,52.8,0.862,16.2
+1,Denmark,2000,Developed,76.9,12,52.2,0.86,16.5
+1,Djibouti,2015,Developing,63.5,241,35,0.47,6.3
+1,Djibouti,2014,Developing,63,252,34.4,0.467,6.3
+1,Djibouti,2013,Developing,62.7,256,33.8,0.464,6.3
+1,Djibouti,2012,Developing,62.2,263,33.2,0.46,6.3
+1,Djibouti,2011,Developing,61.8,268,32.7,0.451,5.9
+1,Djibouti,2010,Developing,61.3,273,32.2,0.441,5.5
+1,Djibouti,2009,Developing,69,279,31.7,0.436,5.3
+1,Djibouti,2008,Developing,62,289,31.3,0.427,5
+1,Djibouti,2007,Developing,59.8,296,3.9,0.416,4.5
+1,Djibouti,2006,Developing,59.1,39,3.6,0.405,4.3
+1,Djibouti,2005,Developing,58.6,318,3.2,0.396,4
+1,Djibouti,2004,Developing,58.1,326,29.8,0.388,3.7
+1,Djibouti,2003,Developing,58,325,29.4,0.378,3.5
+1,Djibouti,2002,Developing,57.9,322,29,0.372,3.3
+1,Djibouti,2001,Developing,57.7,323,28.6,0.363,2.9
+1,Djibouti,2000,Developing,57.4,325,28.2,0.361,2.9
+1,Dominica,2013,Developing,,,58.4,0.721,12.7
+1,Dominican Republic,2015,Developing,73.9,152,58.9,0.718,13.2
+1,Dominican Republic,2014,Developing,73.6,154,57.9,0.712,13.2
+1,Dominican Republic,2013,Developing,73.4,157,56.8,0.709,13.2
+1,Dominican Republic,2012,Developing,72.1,174,55.8,0.706,13.1
+1,Dominican Republic,2011,Developing,73.1,16,54.7,0.703,13
+1,Dominican Republic,2010,Developing,72.7,166,53.6,0.697,12.9
+1,Dominican Republic,2009,Developing,73.6,157,52.6,0.695,12.9
+1,Dominican Republic,2008,Developing,73.3,161,51.5,0.692,12.8
+1,Dominican Republic,2007,Developing,72.9,164,5.4,0.685,12.7
+1,Dominican Republic,2006,Developing,72.3,178,49.3,0.677,12.6
+1,Dominican Republic,2005,Developing,69.7,28,48.2,0.668,12.6
+1,Dominican Republic,2004,Developing,69.3,214,47.2,0.666,12.5
+1,Dominican Republic,2003,Developing,73,22,46.1,0.665,12.4
+1,Dominican Republic,2002,Developing,71.4,189,45.1,0.66,12.3
+1,Dominican Republic,2001,Developing,71.2,188,44.1,0.656,12.3
+1,Dominican Republic,2000,Developing,72,176,43.1,0.651,12.2
+1,Ecuador,2015,Developing,76.2,118,54.2,0.739,14
+1,Ecuador,2014,Developing,76,121,53.5,0.737,14
+1,Ecuador,2013,Developing,76,121,52.8,0.725,13.4
+1,Ecuador,2012,Developing,75.5,127,52.1,0.717,13.3
+1,Ecuador,2011,Developing,75.3,131,51.4,0.71,13.2
+1,Ecuador,2010,Developing,75,134,5.7,0.703,13.1
+1,Ecuador,2009,Developing,75.1,137,5,0.702,13.1
+1,Ecuador,2008,Developing,74.6,139,49.3,0.698,13
+1,Ecuador,2007,Developing,74.7,14,48.6,0.696,12.9
+1,Ecuador,2006,Developing,74.4,144,47.9,0.693,12.8
+1,Ecuador,2005,Developing,74.2,151,47.2,0.688,12.8
+1,Ecuador,2004,Developing,74.4,148,46.5,0.682,12.7
+1,Ecuador,2003,Developing,74.4,151,45.8,0.679,12.6
+1,Ecuador,2002,Developing,73.6,157,45.1,0.675,12.5
+1,Ecuador,2001,Developing,73.4,158,44.3,0.67,12.4
+1,Ecuador,2000,Developing,72.8,163,43.6,0.668,12.4
+1,Egypt,2015,Developing,79,159,61.1,0.688,13.1
+1,Egypt,2014,Developing,78,161,6.2,0.686,13.1
+1,Egypt,2013,Developing,79,159,59.4,0.681,12.8
+1,Egypt,2012,Developing,72,165,58.6,0.673,12.4
+1,Egypt,2011,Developing,74,168,57.8,0.671,12.4
+1,Egypt,2010,Developing,70,173,57,0.665,12.2
+1,Egypt,2009,Developing,69.9,174,56.2,0.659,12
+1,Egypt,2008,Developing,69.8,172,55.5,0.651,11.9
+1,Egypt,2007,Developing,69.7,171,54.8,0.644,11.7
+1,Egypt,2006,Developing,69.5,175,54.2,0.636,11.5
+1,Egypt,2005,Developing,69.4,174,53.5,0.629,11.4
+1,Egypt,2004,Developing,69,176,52.9,0.623,11.2
+1,Egypt,2003,Developing,68.6,178,52.3,0.621,11.3
+1,Egypt,2002,Developing,68.7,177,51.8,0.617,11.2
+1,Egypt,2001,Developing,68.6,177,51.2,0.612,11.1
+1,Egypt,2000,Developing,68.8,171,5.7,0.606,11
+1,El Salvador,2015,Developing,73.5,178,56.1,0.678,13.2
+1,El Salvador,2014,Developing,73.3,181,55.4,0.676,13.2
+1,El Salvador,2013,Developing,73,184,54.7,0.675,13.2
+1,El Salvador,2012,Developing,73,181,54.1,0.67,13.2
+1,El Salvador,2011,Developing,72,197,53.4,0.666,13
+1,El Salvador,2010,Developing,72,191,52.8,0.662,12.9
+1,El Salvador,2009,Developing,71.4,23,52.1,0.662,12.8
+1,El Salvador,2008,Developing,71.7,194,51.4,0.659,13.4
+1,El Salvador,2007,Developing,71.2,23,5.8,0.657,12.9
+1,El Salvador,2006,Developing,75,211,5.1,0.651,12.9
+1,El Salvador,2005,Developing,71,213,49.4,0.644,12.7
+1,El Salvador,2004,Developing,70,215,48.6,0.636,12.4
+1,El Salvador,2003,Developing,69.9,29,47.8,0.628,12
+1,El Salvador,2002,Developing,73,24,47,0.621,11.8
+1,El Salvador,2001,Developing,68.9,219,46.2,0.615,11.6
+1,El Salvador,2000,Developing,69,218,45.3,0.607,11.3
+1,Equatorial Guinea,2015,Developing,58.2,32,24.5,0.582,9.2
+1,Equatorial Guinea,2014,Developing,57.9,32,24,0.582,9.2
+1,Equatorial Guinea,2013,Developing,57.4,327,23.5,0.586,9.2
+1,Equatorial Guinea,2012,Developing,56.7,337,23,0.583,9.2
+1,Equatorial Guinea,2011,Developing,56.2,344,22.6,0.58,9.2
+1,Equatorial Guinea,2010,Developing,56.1,339,22.1,0.589,9.2
+1,Equatorial Guinea,2009,Developing,55.7,34,21.7,0.59,9.1
+1,Equatorial Guinea,2008,Developing,55.4,338,21.3,0.592,9.1
+1,Equatorial Guinea,2007,Developing,55,339,2.9,0.587,9
+1,Equatorial Guinea,2006,Developing,54.8,337,2.5,0.569,9
+1,Equatorial Guinea,2005,Developing,54.4,337,2.2,0.563,8.7
+1,Equatorial Guinea,2004,Developing,54.1,336,19.8,0.553,8.5
+1,Equatorial Guinea,2003,Developing,53.8,334,19.5,0.554,8.4
+1,Equatorial Guinea,2002,Developing,53.5,334,19.1,0.542,8.2
+1,Equatorial Guinea,2001,Developing,53.1,334,18.7,0.527,8
+1,Equatorial Guinea,2000,Developing,52.7,336,18.3,0,0
+1,Eritrea,2015,Developing,64.7,255,18.6,0.418,5
+1,Eritrea,2014,Developing,64.4,261,18,0.416,5
+1,Eritrea,2013,Developing,64,266,17.5,0.414,5
+1,Eritrea,2012,Developing,63.6,274,17,0.41,5
+1,Eritrea,2011,Developing,62.9,286,16.5,0.405,5
+1,Eritrea,2010,Developing,62.1,298,16,0.404,5.1
+1,Eritrea,2009,Developing,61.4,311,15.5,0.402,5.2
+1,Eritrea,2008,Developing,67,322,15.1,0.406,5.2
+1,Eritrea,2007,Developing,62,329,14.7,0.405,5.3
+1,Eritrea,2006,Developing,59.7,336,14.3,0.405,5.3
+1,Eritrea,2005,Developing,59.4,34,13.9,0,5.4
+1,Eritrea,2004,Developing,59.1,342,13.6,0,5
+1,Eritrea,2003,Developing,58.8,343,13.3,0,4.7
+1,Eritrea,2002,Developing,58.5,343,13.1,0,4.4
+1,Eritrea,2001,Developing,58.1,345,12.8,0,4.3
+1,Eritrea,2000,Developing,45.3,593,12.6,0,3.9
+1,Estonia,2015,Developing,77.6,119,59.9,0.863,16.5
+1,Estonia,2014,Developing,77.3,122,59.4,0.86,16.5
+1,Estonia,2013,Developing,76.9,127,59,0.856,16.5
+1,Estonia,2012,Developing,76.3,135,58.5,0.85,16.5
+1,Estonia,2011,Developing,76.1,138,58,0.838,16.4
+1,Estonia,2010,Developing,75.6,137,57.6,0.833,16.2
+1,Estonia,2009,Developing,74.9,156,57.1,0.836,16.1
+1,Estonia,2008,Developing,74.2,167,56.7,0.835,16.1
+1,Estonia,2007,Developing,73,189,56.3,0.829,16.1
+1,Estonia,2006,Developing,73,188,55.9,0.822,16.1
+1,Estonia,2005,Developing,72.8,189,55.5,0.812,15.9
+1,Estonia,2004,Developing,72.3,195,55.2,0.805,15.7
+1,Estonia,2003,Developing,71.9,199,54.9,0.798,15.6
+1,Estonia,2002,Developing,71.2,211,54.6,0.791,15.4
+1,Estonia,2001,Developing,78,225,54.3,0.781,15
+1,Estonia,2000,Developing,78,218,54,0.764,14.4
+1,Ethiopia,2015,Developing,64.8,225,17.6,0.441,8.4
+1,Ethiopia,2014,Developing,64.2,234,17.2,0.435,8.4
+1,Ethiopia,2013,Developing,63.7,237,16.8,0.427,8.4
+1,Ethiopia,2012,Developing,63.3,241,16.4,0.422,8.4
+1,Ethiopia,2011,Developing,62.6,249,16,0.411,8.2
+1,Ethiopia,2010,Developing,61.8,261,15.6,0.401,8.1
+1,Ethiopia,2009,Developing,68,274,15.3,0.393,8.1
+1,Ethiopia,2008,Developing,59.8,289,14.9,0.378,7.6
+1,Ethiopia,2007,Developing,58.5,39,14.5,0.362,7.1
+1,Ethiopia,2006,Developing,57.2,328,14.2,0.346,6.6
+1,Ethiopia,2005,Developing,56,343,13.8,0.325,5.8
+1,Ethiopia,2004,Developing,55,354,13.5,0.31,5.4
+1,Ethiopia,2003,Developing,54,363,13.2,0.306,5.2
+1,Ethiopia,2002,Developing,53.2,369,12.9,0.298,4.9
+1,Ethiopia,2001,Developing,52.5,372,12.6,0.283,4.3
+1,Ethiopia,2000,Developing,51.2,391,12.3,0,3.9
+1,Fiji,2015,Developing,69.9,188,62.7,0.734,15.3
+1,Fiji,2014,Developing,69.7,19,61.9,0.727,15.2
+1,Fiji,2013,Developing,69.6,192,61.1,0.719,15
+1,Fiji,2012,Developing,69.4,195,6.2,0.714,14.9
+1,Fiji,2011,Developing,69.2,197,59.5,0.709,14.7
+1,Fiji,2010,Developing,69.1,2,58.7,0.706,14.6
+1,Fiji,2009,Developing,68.9,23,58,0.704,14.5
+1,Fiji,2008,Developing,68.7,26,57.3,0.7,14.3
+1,Fiji,2007,Developing,68.6,29,56.6,0.698,14.2
+1,Fiji,2006,Developing,68.5,211,55.9,0.695,14
+1,Fiji,2005,Developing,68.3,214,55.1,0.699,13.9
+1,Fiji,2004,Developing,68.1,218,54.2,0.691,13.4
+1,Fiji,2003,Developing,68,22,53.2,0.689,13.3
+1,Fiji,2002,Developing,67.9,22,52.2,0.687,13.3
+1,Fiji,2001,Developing,67.8,221,51.2,0.683,13.2
+1,Fiji,2000,Developing,67.7,221,5.2,0.681,13.1
+1,Finland,2015,Developing,81.1,76,62.1,0.893,17
+1,Finland,2014,Developing,89,78,61.7,0.89,17
+1,Finland,2013,Developing,87,79,61.4,0.887,17
+1,Finland,2012,Developing,84,82,61,0.884,17
+1,Finland,2011,Developing,83,86,6.6,0.878,16.9
+1,Finland,2010,Developing,79.9,89,6.2,0.874,16.8
+1,Finland,2009,Developing,79.7,91,59.8,0.878,17
+1,Finland,2008,Developing,79.6,94,59.4,0.876,17.1
+1,Finland,2007,Developing,79.3,96,59,0.873,17.2
+1,Finland,2006,Developing,79.2,96,58.6,0.869,17.2
+1,Finland,2005,Developing,78.9,11,58.1,0.864,17.1
+1,Finland,2004,Developing,78.7,12,57.6,0.869,18.3
+1,Finland,2003,Developing,78.4,98,57.1,0.866,18.1
+1,Finland,2002,Developing,78.1,98,56.6,0.863,18
+1,Finland,2001,Developing,78,1,56.1,0.856,17.7
+1,Finland,2000,Developing,77.5,15,55.5,0.847,17.3
+1,France,2015,Developing,82.4,78,62.5,0.894,16.3
+1,France,2014,Developing,82.2,79,62,0.89,16.2
+1,France,2013,Developing,82,81,61.6,0.887,16.2
+1,France,2012,Developing,81.5,83,61.1,0.885,16.1
+1,France,2011,Developing,81.7,83,6.6,0.882,16.1
+1,France,2010,Developing,81.3,86,6.1,0.879,16
+1,France,2009,Developing,81.1,88,59.6,0.879,16
+1,France,2008,Developing,89,88,59.1,0.877,16.1
+1,France,2007,Developing,89,89,58.6,0.873,16.1
+1,France,2006,Developing,86,92,58,0.87,16.1
+1,France,2005,Developing,81,93,57.5,0.86,15.5
+1,France,2004,Developing,82,94,57,0.857,15.5
+1,France,2003,Developing,79.3,99,56.4,0.852,15.4
+1,France,2002,Developing,79.2,11,55.8,0.851,15.5
+1,France,2001,Developing,79,13,55.2,0.849,15.6
+1,France,2000,Developing,78.8,13,54.6,0.844,15.7
+1,Gabon,2015,Developing,66,229,36.3,0.694,12.6
+1,Gabon,2014,Developing,65.5,237,35.8,0.687,12.6
+1,Gabon,2013,Developing,64.6,255,35.2,0.678,12.5
+1,Gabon,2012,Developing,63.5,276,34.6,0.669,12.5
+1,Gabon,2011,Developing,62.8,289,34.1,0.664,12.5
+1,Gabon,2010,Developing,62.3,294,33.5,0.66,12.5
+1,Gabon,2009,Developing,61.7,31,33,0.652,12.4
+1,Gabon,2008,Developing,61.6,298,32.4,0.651,12.4
+1,Gabon,2007,Developing,61.6,291,31.9,0.645,12.4
+1,Gabon,2006,Developing,61.4,288,31.4,0.646,12.4
+1,Gabon,2005,Developing,65,37,3.8,0.64,12.4
+1,Gabon,2004,Developing,59.7,322,3.3,0.64,12.3
+1,Gabon,2003,Developing,59.7,32,29.8,0.638,12.3
+1,Gabon,2002,Developing,59.7,315,29.2,0.636,12.3
+1,Gabon,2001,Developing,59.8,37,28.7,0.633,12.3
+1,Gabon,2000,Developing,61,296,28.1,0.637,12.2
+1,Gambia,2015,Developing,61.1,262,27.3,0.45,8.9
+1,Gambia,2014,Developing,68,266,26.7,0.449,8.9
+1,Gambia,2013,Developing,66,266,26,0.445,8.9
+1,Gambia,2012,Developing,62,269,25.4,0.44,8.8
+1,Gambia,2011,Developing,59.8,277,24.8,0.441,8.7
+1,Gambia,2010,Developing,59.3,284,24.1,0.439,8.8
+1,Gambia,2009,Developing,59,286,23.5,0.434,8.9
+1,Gambia,2008,Developing,58.7,287,22.8,0.426,8.6
+1,Gambia,2007,Developing,58.5,288,22.2,0.42,8.4
+1,Gambia,2006,Developing,58.2,288,21.5,0.415,8.1
+1,Gambia,2005,Developing,57.7,294,2.9,0.412,7.8
+1,Gambia,2004,Developing,57.3,296,2.3,0.404,7.6
+1,Gambia,2003,Developing,57,297,19.7,0.395,7.3
+1,Gambia,2002,Developing,56.6,298,19.1,0.392,7
+1,Gambia,2001,Developing,56.3,3,18.5,0.384,6.8
+1,Gambia,2000,Developing,55.9,33,18,0.377,6.5
+1,Georgia,2015,Developing,74.4,129,56.2,0.768,13.9
+1,Georgia,2014,Developing,74.5,125,55.3,0.759,13.5
+1,Georgia,2013,Developing,74.5,128,54.4,0.755,13.5
+1,Georgia,2012,Developing,74.2,13,53.6,0.749,13.4
+1,Georgia,2011,Developing,73.9,127,52.8,0.742,13.3
+1,Georgia,2010,Developing,73.8,132,52,0.738,13.3
+1,Georgia,2009,Developing,73.2,133,51.3,0.734,12.8
+1,Georgia,2008,Developing,73.9,128,5.5,0.735,13.1
+1,Georgia,2007,Developing,74.4,12,49.9,0.722,12.5
+1,Georgia,2006,Developing,73.9,126,49.2,0.714,12.6
+1,Georgia,2005,Developing,73.9,128,48.6,0.703,12.2
+1,Georgia,2004,Developing,72.3,134,48.1,0.694,12
+1,Georgia,2003,Developing,72.7,132,47.5,0.684,11.8
+1,Georgia,2002,Developing,71.7,142,47,0.677,11.8
+1,Georgia,2001,Developing,73,121,46.5,0.673,11.7
+1,Georgia,2000,Developing,71.8,129,46,0,11.4
+1,Germany,2015,Developed,81,68,62.3,0.924,17.1
+1,Germany,2014,Developed,89,69,61.9,0.92,17
+1,Germany,2013,Developed,86,71,61.4,0.919,16.9
+1,Germany,2012,Developed,86,71,6.9,0.916,16.9
+1,Germany,2011,Developed,85,74,6.4,0.912,16.8
+1,Germany,2010,Developed,81,76,59.9,0.907,16.7
+1,Germany,2009,Developed,80,79,59.5,0.906,16.7
+1,Germany,2008,Developed,79.9,8,59,0.903,16.6
+1,Germany,2007,Developed,79.8,82,58.5,0.898,16.6
+1,Germany,2006,Developed,79.6,84,58,0.892,16.5
+1,Germany,2005,Developed,79.2,85,57.6,0.884,16.4
+1,Germany,2004,Developed,79.1,86,57.1,0.877,16.4
+1,Germany,2003,Developed,78.5,9,56.6,0.872,16.3
+1,Germany,2002,Developed,78.4,91,56.1,0.867,16.3
+1,Germany,2001,Developed,78.3,92,55.6,0.86,16.2
+1,Germany,2000,Developed,78,95,55.1,0.855,16.2
+1,Ghana,2015,Developing,62.4,249,28.6,0.575,11.4
+1,Ghana,2014,Developing,62.1,253,28,0.576,11.7
+1,Ghana,2013,Developing,61.9,254,27.3,0.57,11.5
+1,Ghana,2012,Developing,61.6,257,26.7,0.563,11.2
+1,Ghana,2011,Developing,61.2,263,26.1,0.554,10.9
+1,Ghana,2010,Developing,69,267,25.5,0.547,10.5
+1,Ghana,2009,Developing,66,271,24.9,0.542,10.4
+1,Ghana,2008,Developing,63,275,24.2,0.53,9.8
+1,Ghana,2007,Developing,59.9,28,23.6,0.519,9.1
+1,Ghana,2006,Developing,59.4,288,23,0.51,8.7
+1,Ghana,2005,Developing,58.9,296,22.4,0.499,8.1
+1,Ghana,2004,Developing,58.3,34,21.8,0.491,7.7
+1,Ghana,2003,Developing,57.9,38,21.2,0.489,7.9
+1,Ghana,2002,Developing,57.6,31,2.7,0.484,7.6
+1,Ghana,2001,Developing,57.4,39,2.1,0.485,8
+1,Ghana,2000,Developing,57.2,38,19.5,0.48,7.7
+1,Greece,2015,Developing,81,72,66.5,0.865,17.2
+1,Greece,2014,Developing,88,73,66,0.862,17.2
+1,Greece,2013,Developing,86,74,65.4,0.86,17.1
+1,Greece,2012,Developing,84,76,64.9,0.858,16.8
+1,Greece,2011,Developing,85,76,64.3,0.86,16.7
+1,Greece,2010,Developing,83,76,63.7,0.859,16.4
+1,Greece,2009,Developing,80,78,63.1,0.857,16.2
+1,Greece,2008,Developing,79.9,77,62.4,0.853,15.9
+1,Greece,2007,Developing,79.4,8,61.8,0.855,16.4
+1,Greece,2006,Developing,79.7,77,61.2,0.85,16.3
+1,Greece,2005,Developing,79.3,81,6.5,0.839,15.6
+1,Greece,2004,Developing,79.2,81,59.9,0.83,15.3
+1,Greece,2003,Developing,79.1,81,59.2,0.823,15.2
+1,Greece,2002,Developing,79,81,58.6,0.811,14.6
+1,Greece,2001,Developing,78.7,83,58,0.801,14.2
+1,Greece,2000,Developing,78.2,84,57.4,0.794,13.9
+1,Grenada,2015,Developing,73.6,142,48.4,0.751,15.8
+1,Grenada,2014,Developing,73.5,143,47.4,0.749,15.8
+1,Grenada,2013,Developing,73.3,144,46.5,0.746,15.8
+1,Grenada,2012,Developing,73.1,146,45.6,0.744,15.8
+1,Grenada,2011,Developing,72.9,15,44.7,0.741,15.8
+1,Grenada,2010,Developing,72.6,154,43.9,0,15.8
+1,Grenada,2009,Developing,72.4,158,43.1,0,15.6
+1,Grenada,2008,Developing,72.1,162,42.4,0,15.4
+1,Grenada,2007,Developing,71.9,164,41.8,0,15.3
+1,Grenada,2006,Developing,71.7,167,41.1,0,15.1
+1,Grenada,2005,Developing,71.5,169,4.5,0,14.9
+1,Grenada,2004,Developing,73,187,39.9,0,14.8
+1,Grenada,2003,Developing,71.1,173,39.4,0,14.6
+1,Grenada,2002,Developing,79,176,38.8,0,14.4
+1,Grenada,2001,Developing,77,178,38.2,0,14.3
+1,Grenada,2000,Developing,74,182,37.7,0,14.1
+1,Guatemala,2015,Developing,71.9,186,5.6,0.637,10.7
+1,Guatemala,2014,Developing,71.7,187,49.9,0.614,10.7
+1,Guatemala,2013,Developing,71.4,189,49.3,0.611,10.7
+1,Guatemala,2012,Developing,71.3,189,48.6,0.616,10.6
+1,Guatemala,2011,Developing,71.1,193,47.9,0.609,10.5
+1,Guatemala,2010,Developing,77,196,47.2,0.602,10.5
+1,Guatemala,2009,Developing,76,198,46.5,0.596,10.4
+1,Guatemala,2008,Developing,79,19,45.9,0.589,10.4
+1,Guatemala,2007,Developing,75,192,45.2,0.578,10.1
+1,Guatemala,2006,Developing,69.7,24,44.5,0.57,9.8
+1,Guatemala,2005,Developing,69.2,28,43.8,0.567,9.6
+1,Guatemala,2004,Developing,69.6,21,43.1,0.564,9.3
+1,Guatemala,2003,Developing,69.4,24,42.4,0.56,9
+1,Guatemala,2002,Developing,69.3,21,41.7,0.553,8.8
+1,Guatemala,2001,Developing,68.4,211,41.1,0.546,8.5
+1,Guatemala,2000,Developing,67.7,221,4.4,0.539,8.2
+1,Guinea,2015,Developing,59,284,23.3,0.414,8.8
+1,Guinea,2014,Developing,58.1,299,22.7,0.412,8.6
+1,Guinea,2013,Developing,58.8,284,22.2,0.406,8.5
+1,Guinea,2012,Developing,58.4,288,21.7,0.396,8.5
+1,Guinea,2011,Developing,58.1,29,21.2,0.385,8.4
+1,Guinea,2010,Developing,57.8,291,2.8,0.38,8.3
+1,Guinea,2009,Developing,57.3,297,2.3,0.376,8.1
+1,Guinea,2008,Developing,56.8,33,19.8,0.371,7.9
+1,Guinea,2007,Developing,56.4,36,19.4,0.364,7.6
+1,Guinea,2006,Developing,55.6,317,19,0.356,7.1
+1,Guinea,2005,Developing,54.7,327,18.5,0.346,6.6
+1,Guinea,2004,Developing,54,334,18.1,0.325,5.1
+1,Guinea,2003,Developing,53.3,338,17.7,0.338,5.9
+1,Guinea,2002,Developing,52.9,337,17.3,0.329,5.5
+1,Guinea,2001,Developing,52.5,336,16.9,0.322,5.1
+1,Guinea,2000,Developing,52.5,328,16.6,0.316,4.8
+1,Guinea-Bissau,2015,Developing,58.9,275,26.3,0.421,9.2
+1,Guinea-Bissau,2014,Developing,58.4,282,25.6,0.419,9.2
+1,Guinea-Bissau,2013,Developing,58.1,279,25,0.415,9.1
+1,Guinea-Bissau,2012,Developing,57.6,285,24.3,0.416,9.1
+1,Guinea-Bissau,2011,Developing,57.1,289,23.7,0.41,9
+1,Guinea-Bissau,2010,Developing,56.7,287,23.1,0.405,8.9
+1,Guinea-Bissau,2009,Developing,56.3,288,22.5,0.401,8.9
+1,Guinea-Bissau,2008,Developing,55.6,297,21.9,0.398,8.8
+1,Guinea-Bissau,2007,Developing,55,32,21.3,0.394,8.8
+1,Guinea-Bissau,2006,Developing,54.4,36,2.7,0.388,8.3
+1,Guinea-Bissau,2005,Developing,53.9,37,2.1,0,8
+1,Guinea-Bissau,2004,Developing,53.5,38,19.6,0,7.7
+1,Guinea-Bissau,2003,Developing,53,38,19,0,7.4
+1,Guinea-Bissau,2002,Developing,52.8,35,18.5,0,7.1
+1,Guinea-Bissau,2001,Developing,52.5,32,17.9,0,6.7
+1,Guinea-Bissau,2000,Developing,52.1,3,17.4,0,6.4
+1,Guyana,2015,Developing,66.2,215,46.7,0.638,10.3
+1,Guyana,2014,Developing,66,217,45.9,0.636,10.3
+1,Guyana,2013,Developing,65.9,218,45,0.633,10.3
+1,Guyana,2012,Developing,65.8,22,44.1,0.63,10.6
+1,Guyana,2011,Developing,65.6,229,43.2,0.624,10.3
+1,Guyana,2010,Developing,65.9,221,42.4,0.618,10.2
+1,Guyana,2009,Developing,66.1,218,41.6,0.618,10.5
+1,Guyana,2008,Developing,66.3,218,4.9,0.618,10.7
+1,Guyana,2007,Developing,65.7,232,4.3,0.62,11.2
+1,Guyana,2006,Developing,65.2,24,39.6,0.622,11.7
+1,Guyana,2005,Developing,65,238,39,0.619,11.4
+1,Guyana,2004,Developing,65.1,237,38.4,0.613,11.2
+1,Guyana,2003,Developing,65.3,237,37.8,0.611,11.1
+1,Guyana,2002,Developing,65.3,244,37.1,0.609,11
+1,Guyana,2001,Developing,65.4,247,36.4,0.606,10.9
+1,Guyana,2000,Developing,65.4,246,35.7,0.602,10.9
+1,Haiti,2015,Developing,63.5,24,49.9,0.49,9.1
+1,Haiti,2014,Developing,63.1,245,48.8,0.487,9.1
+1,Haiti,2013,Developing,62.7,253,47.7,0.483,9.1
+1,Haiti,2012,Developing,62.3,259,46.5,0.477,8.9
+1,Haiti,2011,Developing,62.3,259,45.3,0.47,8.7
+1,Haiti,2010,Developing,36.3,682,44.2,0.47,8.6
+1,Haiti,2009,Developing,62.5,251,43,0.466,8.5
+1,Haiti,2008,Developing,62.1,259,41.8,0.462,8.4
+1,Haiti,2007,Developing,61.8,266,4.7,0.458,8.4
+1,Haiti,2006,Developing,61.1,28,39.6,0.455,8.3
+1,Haiti,2005,Developing,65,29,38.5,0.452,8.2
+1,Haiti,2004,Developing,58.7,32,37.5,0.45,8.1
+1,Haiti,2003,Developing,59.7,3,36.5,0.447,8.1
+1,Haiti,2002,Developing,59.3,33,35.6,0.444,8
+1,Haiti,2001,Developing,58.9,35,34.8,0.443,7.9
+1,Haiti,2000,Developing,58.6,35,34,0.439,7.8
+1,Honduras,2015,Developing,74.6,147,51,0.623,11.2
+1,Honduras,2014,Developing,74.5,149,5.2,0.618,11.4
+1,Honduras,2013,Developing,74.3,15,49.3,0.614,11.6
+1,Honduras,2012,Developing,74.1,151,48.4,0.614,11.6
+1,Honduras,2011,Developing,73.9,153,47.6,0.611,11.7
+1,Honduras,2010,Developing,73.6,156,46.8,0.606,11.5
+1,Honduras,2009,Developing,73.4,157,45.9,0.603,11.3
+1,Honduras,2008,Developing,73.2,159,45.1,0.597,11.1
+1,Honduras,2007,Developing,73,16,44.3,0.59,10.9
+1,Honduras,2006,Developing,72.8,161,43.5,0.583,10.8
+1,Honduras,2005,Developing,72.5,163,42.8,0.577,10.6
+1,Honduras,2004,Developing,72.2,165,42,0.571,10.4
+1,Honduras,2003,Developing,71.9,166,41.2,0.566,10.3
+1,Honduras,2002,Developing,71.6,169,4.4,0.561,10.1
+1,Honduras,2001,Developing,71.3,171,39.6,0.557,9.9
+1,Honduras,2000,Developing,71,174,38.8,0.551,9.8
+1,Hungary,2015,Developed,75.8,134,64.8,0.834,15.6
+1,Hungary,2014,Developed,75.6,137,64.2,0.834,15.8
+1,Hungary,2013,Developed,75.5,139,63.6,0.824,15.4
+1,Hungary,2012,Developed,75,146,63,0.823,15.4
+1,Hungary,2011,Developed,74.8,15,62.4,0.821,15.4
+1,Hungary,2010,Developed,74.5,156,61.7,0.817,15.3
+1,Hungary,2009,Developed,74.2,162,61.1,0.816,15.3
+1,Hungary,2008,Developed,74.1,165,6.5,0.812,15.3
+1,Hungary,2007,Developed,73.5,176,59.9,0.809,15.3
+1,Hungary,2006,Developed,73.4,177,59.3,0.802,15.2
+1,Hungary,2005,Developed,72.9,182,58.8,0.795,15
+1,Hungary,2004,Developed,72.9,18,58.2,0.793,15.3
+1,Hungary,2003,Developed,72.5,184,57.6,0.784,14.9
+1,Hungary,2002,Developed,72.5,184,57.1,0.775,14.6
+1,Hungary,2001,Developed,72.3,185,56.6,0.769,14.2
+1,Hungary,2000,Developed,71.7,193,56.1,0.761,13.9
+1,Iceland,2015,Developed,82.7,49,61,0.919,19
+1,Iceland,2014,Developed,82.5,49,6.6,0.915,19
+1,Iceland,2013,Developed,82.4,5,6.2,0.907,19
+1,Iceland,2012,Developed,82.5,5,59.7,0.901,18.7
+1,Iceland,2011,Developed,82.1,51,59.3,0.894,18.6
+1,Iceland,2010,Developed,81.8,53,58.9,0.894,18.4
+1,Iceland,2009,Developed,81.6,55,58.5,0.894,18.4
+1,Iceland,2008,Developed,81.4,58,58.1,0.892,18.2
+1,Iceland,2007,Developed,81.3,59,57.8,0.887,18.2
+1,Iceland,2006,Developed,81.1,61,57.4,0.884,18.1
+1,Iceland,2005,Developed,81,62,56.9,0.879,17.9
+1,Iceland,2004,Developed,88,65,56.5,0.873,18.3
+1,Iceland,2003,Developed,87,65,55.9,0.866,17.6
+1,Iceland,2002,Developed,84,7,55.4,0.859,17.2
+1,Iceland,2001,Developed,80,72,54.8,0.854,17.1
+1,Iceland,2000,Developed,79.7,74,54.2,0.847,16.8
+1,India,2015,Developing,68.3,181,18.7,0.615,11.6
+1,India,2014,Developing,68,184,18.1,0.607,11.6
+1,India,2013,Developing,67.6,187,17.5,0.599,11.5
+1,India,2012,Developing,67.3,19,17,0.59,11.3
+1,India,2011,Developing,66.8,193,16.4,0.58,10.8
+1,India,2010,Developing,66.4,196,15.9,0.569,10.4
+1,India,2009,Developing,66,2,15.4,0.563,10.5
+1,India,2008,Developing,65.5,23,14.9,0.556,10.2
+1,India,2007,Developing,65.2,26,14.4,0.546,9.9
+1,India,2006,Developing,64.8,28,13.9,0.536,9.7
+1,India,2005,Developing,64.4,211,13.5,0.526,9.4
+1,India,2004,Developing,64,214,13,0.518,9.2
+1,India,2003,Developing,63.7,216,12.6,0.505,8.6
+1,India,2002,Developing,63.3,219,12.2,0.499,8.4
+1,India,2001,Developing,62.9,222,11.8,0.494,8.3
+1,India,2000,Developing,62.5,224,11.4,0.489,8.3
+1,Indonesia,2015,Developing,69.1,176,27.4,0.686,12.9
+1,Indonesia,2014,Developing,68.9,179,26.5,0.682,12.9
+1,Indonesia,2013,Developing,68.7,181,25.6,0.677,12.9
+1,Indonesia,2012,Developing,68.5,183,24.7,0.669,12.6
+1,Indonesia,2011,Developing,68.3,185,23.8,0.662,12.3
+1,Indonesia,2010,Developing,68.1,187,22.9,0.656,12.1
+1,Indonesia,2009,Developing,67.9,189,22.1,0.645,11.7
+1,Indonesia,2008,Developing,67.7,189,21.3,0.641,11.7
+1,Indonesia,2007,Developing,67.5,19,2.5,0.638,11
+1,Indonesia,2006,Developing,67.3,191,19.7,0.632,10.9
+1,Indonesia,2005,Developing,67.2,19,19,0.629,11.1
+1,Indonesia,2004,Developing,65.3,213,18.2,0.624,11
+1,Indonesia,2003,Developing,66.9,189,17.5,0.613,10.8
+1,Indonesia,2002,Developing,66.7,189,16.7,0.608,10.6
+1,Indonesia,2001,Developing,66.5,188,16,0.604,10.6
+1,Indonesia,2000,Developing,66.3,188,15.4,0.597,10.7
+1,Iran (Islamic Republic of),2015,Developing,75.5,83,59.7,0.774,14.8
+1,Iran (Islamic Republic of),2014,Developing,75.4,83,58.5,0.77,14.9
+1,Iran (Islamic Republic of),2013,Developing,75.3,83,57.2,0.769,15
+1,Iran (Islamic Republic of),2012,Developing,75.1,85,56,0.755,13.6
+1,Iran (Islamic Republic of),2011,Developing,74.7,93,54.8,0.745,13.1
+1,Iran (Islamic Republic of),2010,Developing,74.1,16,53.6,0.735,12.9
+1,Iran (Islamic Republic of),2009,Developing,73.3,122,52.5,0.728,12.8
+1,Iran (Islamic Republic of),2008,Developing,72.7,135,51.4,0.716,12.1
+1,Iran (Islamic Republic of),2007,Developing,72.4,138,5.4,0.704,11.8
+1,Iran (Islamic Republic of),2006,Developing,72.2,139,49.4,0.692,11.4
+1,Iran (Islamic Republic of),2005,Developing,72,139,48.5,0.687,11.4
+1,Iran (Islamic Republic of),2004,Developing,71.8,139,47.6,0.686,11.8
+1,Iran (Islamic Republic of),2003,Developing,75,154,46.9,0.679,11.8
+1,Iran (Islamic Republic of),2002,Developing,71.2,142,46.2,0.674,11.9
+1,Iran (Islamic Republic of),2001,Developing,78,146,45.5,0.666,11.6
+1,Iran (Islamic Republic of),2000,Developing,73,15,44.9,0.66,11.6
+1,Iraq,2015,Developing,68.9,182,59.1,0.649,10.1
+1,Iraq,2014,Developing,67.9,199,58.5,0.658,10.1
+1,Iraq,2013,Developing,69.5,17,57.8,0.659,10.3
+1,Iraq,2012,Developing,76,147,57.2,0.656,10.5
+1,Iraq,2011,Developing,77,144,56.5,0.649,10.4
+1,Iraq,2010,Developing,76,145,55.8,0.646,10.4
+1,Iraq,2009,Developing,74,148,55.2,0.643,10.3
+1,Iraq,2008,Developing,69.3,167,54.5,0.638,10.3
+1,Iraq,2007,Developing,65.9,227,53.8,0.636,10.2
+1,Iraq,2006,Developing,64.7,249,53.2,0.631,10.2
+1,Iraq,2005,Developing,66.8,29,52.5,0.628,10.1
+1,Iraq,2004,Developing,67.2,21,51.9,0.603,9.8
+1,Iraq,2003,Developing,66.5,213,51.3,0.616,9.4
+1,Iraq,2002,Developing,74,14,5.6,0.614,9.1
+1,Iraq,2001,Developing,72,142,5.1,0.607,8.7
+1,Iraq,2000,Developing,70,144,49.5,0.603,8.6
+1,Ireland,2015,Developed,81.4,64,62.8,0.92,18.6
+1,Ireland,2014,Developed,81.2,66,62.1,0.91,18.6
+1,Ireland,2013,Developed,81,67,61.3,0.902,18.6
+1,Ireland,2012,Developed,85,69,6.5,0.895,18.5
+1,Ireland,2011,Developed,84,7,59.7,0.909,18.5
+1,Ireland,2010,Developed,86,68,58.9,0.907,18.2
+1,Ireland,2009,Developed,79.7,77,58.2,0.909,17.9
+1,Ireland,2008,Developed,79.8,75,57.4,0.908,17.9
+1,Ireland,2007,Developed,79.5,75,56.6,0.902,17.6
+1,Ireland,2006,Developed,79,78,55.8,0.896,17.6
+1,Ireland,2005,Developed,78.7,78,55.1,0.889,17.5
+1,Ireland,2004,Developed,78.3,82,54.4,0.88,17.1
+1,Ireland,2003,Developed,78,82,53.6,0.87,16.8
+1,Ireland,2002,Developed,77.4,88,52.9,0.862,16.5
+1,Ireland,2001,Developed,77,89,52.2,0.857,16.4
+1,Ireland,2000,Developed,76.4,94,51.5,0.848,16.2
+1,Israel,2015,Developing,82.5,58,64.9,0.898,16
+1,Israel,2014,Developing,82.2,6,64.6,0.895,16
+1,Israel,2013,Developing,82.1,61,64.2,0.891,15.9
+1,Israel,2012,Developing,81.8,6,63.8,0.889,15.9
+1,Israel,2011,Developing,81.8,61,63.4,0.883,15.8
+1,Israel,2010,Developing,81.7,61,63,0.878,15.7
+1,Israel,2009,Developing,81.5,63,62.6,0.876,15.6
+1,Israel,2008,Developing,81,65,62.1,0.877,15.8
+1,Israel,2007,Developing,84,68,61.6,0.872,15.7
+1,Israel,2006,Developing,84,68,61.1,0.87,15.7
+1,Israel,2005,Developing,80,71,6.6,0.866,15.8
+1,Israel,2004,Developing,81,69,6.1,0.863,15.9
+1,Israel,2003,Developing,79.7,71,59.6,0.863,16
+1,Israel,2002,Developing,79.3,74,59.2,0.855,15.3
+1,Israel,2001,Developing,79.3,74,58.7,0.85,15.1
+1,Israel,2000,Developing,78.9,76,58.3,0.845,15.2
+1,Italy,2015,Developed,82.7,56,63.6,0.881,16.3
+1,Italy,2014,Developed,82.5,57,63.1,0.877,16.3
+1,Italy,2013,Developed,82.3,58,62.6,0.876,16.5
+1,Italy,2012,Developed,82,6,62.1,0.877,16.6
+1,Italy,2011,Developed,82,6,61.5,0.872,16.4
+1,Italy,2010,Developed,81.8,6,61,0.869,16.4
+1,Italy,2009,Developed,81.6,61,6.5,0.868,16.3
+1,Italy,2008,Developed,81.5,61,59.9,0.866,16.3
+1,Italy,2007,Developed,81.3,63,59.4,0.862,16.1
+1,Italy,2006,Developed,81.2,65,58.8,0.856,16
+1,Italy,2005,Developed,88,66,58.2,0.851,15.8
+1,Italy,2004,Developed,89,66,57.6,0.846,15.6
+1,Italy,2003,Developed,79.9,72,57,0.841,15.4
+1,Italy,2002,Developed,80,72,56.4,0.836,15.2
+1,Italy,2001,Developed,79.8,75,55.7,0.828,14.9
+1,Italy,2000,Developed,79.4,77,55,0.823,14.8
+1,Jamaica,2015,Developing,76.2,125,54.2,0.729,12.8
+1,Jamaica,2014,Developing,75.8,133,53.5,0.727,12.8
+1,Jamaica,2013,Developing,75.6,136,52.7,0.727,12.8
+1,Jamaica,2012,Developing,75.3,138,52,0.725,12.8
+1,Jamaica,2011,Developing,75.2,139,51.2,0.722,12.8
+1,Jamaica,2010,Developing,75,138,5.5,0.721,12.7
+1,Jamaica,2009,Developing,74.7,142,49.7,0.721,12.7
+1,Jamaica,2008,Developing,74.5,145,48.9,0.718,12.6
+1,Jamaica,2007,Developing,74.2,148,48.1,0.714,12.5
+1,Jamaica,2006,Developing,74,15,47.2,0.709,12.5
+1,Jamaica,2005,Developing,73.5,161,46.3,0.706,12.4
+1,Jamaica,2004,Developing,73.3,165,45.4,0.689,11.1
+1,Jamaica,2003,Developing,73.1,166,44.5,0.694,11.9
+1,Jamaica,2002,Developing,73,167,43.5,0.69,11.7
+1,Jamaica,2001,Developing,72.7,171,42.5,0.68,10.9
+1,Jamaica,2000,Developing,72.6,171,41.6,0.682,11.4
+1,Japan,2015,Developed,83.7,55,29,0.902,15.3
+1,Japan,2014,Developed,83.5,57,28.6,0.899,15.3
+1,Japan,2013,Developed,83.5,56,28.2,0.894,15.3
+1,Japan,2012,Developed,83.3,58,27.8,0.889,15.3
+1,Japan,2011,Developed,82.5,64,27.4,0.884,15.1
+1,Japan,2010,Developed,83,62,26.9,0.879,15.1
+1,Japan,2009,Developed,83,64,26.4,0.881,15
+1,Japan,2008,Developed,82.7,66,25.9,0.88,15
+1,Japan,2007,Developed,82.6,67,25.4,0.877,15
+1,Japan,2006,Developed,82.4,68,24.9,0.873,14.9
+1,Japan,2005,Developed,82,69,24.4,0.87,14.9
+1,Japan,2004,Developed,82.1,68,23.8,0.866,14.8
+1,Japan,2003,Developed,81.9,7,23.4,0.863,14.8
+1,Japan,2002,Developed,81.8,7,22.9,0.86,14.7
+1,Japan,2001,Developed,81.5,72,22.5,0.856,14.6
+1,Japan,2000,Developed,81.1,74,22.2,0.852,14.5
+1,Jordan,2015,Developing,74.1,112,65.6,0.741,13.1
+1,Jordan,2014,Developing,74,113,64.8,0.737,13.1
+1,Jordan,2013,Developing,73.9,114,64,0.737,13.1
+1,Jordan,2012,Developing,73.7,115,63.2,0.735,12.9
+1,Jordan,2011,Developing,73.6,116,62.4,0.737,13.1
+1,Jordan,2010,Developing,73.4,117,61.7,0.739,13.2
+1,Jordan,2009,Developing,73.3,118,6.9,0.742,13.6
+1,Jordan,2008,Developing,73.1,119,6.1,0.739,13.6
+1,Jordan,2007,Developing,73,12,59.3,0.736,13.6
+1,Jordan,2006,Developing,72.8,121,58.6,0.733,13.7
+1,Jordan,2005,Developing,72.4,127,57.8,0.73,13.8
+1,Jordan,2004,Developing,72.5,125,57,0.723,13.5
+1,Jordan,2003,Developing,72.3,127,56.3,0.717,13.2
+1,Jordan,2002,Developing,72.1,129,55.5,0.712,13
+1,Jordan,2001,Developing,71.9,131,54.8,0.706,12.7
+1,Jordan,2000,Developing,71.7,133,54,0.7,12.6
+1,Kazakhstan,2015,Developing,72,198,53.1,0.793,15
+1,Kazakhstan,2014,Developing,69.9,22,52.3,0.789,15
+1,Kazakhstan,2013,Developing,69.5,28,51.4,0.782,15
+1,Kazakhstan,2012,Developing,69.1,214,5.6,0.774,14.7
+1,Kazakhstan,2011,Developing,68.5,224,49.9,0.766,14.4
+1,Kazakhstan,2010,Developing,67.8,236,49.2,0.763,14.5
+1,Kazakhstan,2009,Developing,67.8,235,48.5,0.758,14.6
+1,Kazakhstan,2008,Developing,66.6,258,47.9,0.758,14.6
+1,Kazakhstan,2007,Developing,65.3,288,47.3,0.754,14.7
+1,Kazakhstan,2006,Developing,65,295,46.8,0.747,14.3
+1,Kazakhstan,2005,Developing,64.6,294,46.3,0.737,13.9
+1,Kazakhstan,2004,Developing,64.7,287,45.8,0.725,13.5
+1,Kazakhstan,2003,Developing,64.4,282,45.3,0.714,13.1
+1,Kazakhstan,2002,Developing,64.7,276,44.8,0.7,12.7
+1,Kazakhstan,2001,Developing,64.4,284,44.4,0.685,12.3
+1,Kazakhstan,2000,Developing,63.9,292,43.9,0.676,12.1
+1,Kenya,2015,Developing,63.4,249,22,0.55,11.1
+1,Kenya,2014,Developing,62.9,255,21.3,0.546,11.1
+1,Kenya,2013,Developing,62.6,258,2.7,0.541,11.1
+1,Kenya,2012,Developing,62.1,263,2.1,0.536,11.1
+1,Kenya,2011,Developing,61.2,278,19.5,0.53,11.1
+1,Kenya,2010,Developing,63,294,18.9,0.523,11.1
+1,Kenya,2009,Developing,59.1,317,18.4,0.514,10.7
+1,Kenya,2008,Developing,57.9,339,17.9,0.506,10.4
+1,Kenya,2007,Developing,56.8,356,17.3,0.494,10.1
+1,Kenya,2006,Developing,55.3,388,16.9,0.483,9.7
+1,Kenya,2005,Developing,54.1,412,16.4,0.474,9.6
+1,Kenya,2004,Developing,53,432,15.9,0.461,8.9
+1,Kenya,2003,Developing,52.4,437,15.5,0.45,8.2
+1,Kenya,2002,Developing,52.1,437,15.1,0.451,8.5
+1,Kenya,2001,Developing,51.9,434,14.7,0.447,8.4
+1,Kenya,2000,Developing,51.9,428,14.4,0.448,8.4
+1,Kiribati,2015,Developing,66.3,198,77.6,0.586,11.9
+1,Kiribati,2014,Developing,66.1,2,77.1,0.597,11.9
+1,Kiribati,2013,Developing,65.8,22,76.7,0.589,11.9
+1,Kiribati,2012,Developing,65.7,24,76.2,0.581,11.9
+1,Kiribati,2011,Developing,65.5,26,75.7,0.585,11.9
+1,Kiribati,2010,Developing,65.3,27,75.2,0.584,11.9
+1,Kiribati,2009,Developing,65.2,28,74.6,0.576,11.9
+1,Kiribati,2008,Developing,65.1,21,74.1,0.572,11.6
+1,Kiribati,2007,Developing,65,211,73.4,0.574,11.8
+1,Kiribati,2006,Developing,65,212,72.8,0.576,12.1
+1,Kiribati,2005,Developing,64.9,213,72.1,0,12.2
+1,Kiribati,2004,Developing,64.8,214,71.4,0,12.4
+1,Kiribati,2003,Developing,64.7,215,7.6,0,11.6
+1,Kiribati,2002,Developing,64.6,217,69.7,0,11.7
+1,Kiribati,2001,Developing,64.3,219,68.8,0,10.4
+1,Kiribati,2000,Developing,64.1,222,67.9,0,10
+1,Kuwait,2015,Developing,74.7,81,71.4,0.799,13.3
+1,Kuwait,2014,Developing,74.6,82,7.8,0.787,13
+1,Kuwait,2013,Developing,74.5,83,7.2,0.796,13.1
+1,Kuwait,2012,Developing,74.3,84,69.5,0.794,13.2
+1,Kuwait,2011,Developing,74.2,85,69,0.792,13.4
+1,Kuwait,2010,Developing,74,86,68.4,0.79,13.5
+1,Kuwait,2009,Developing,73.9,87,67.9,0.788,13.6
+1,Kuwait,2008,Developing,73.8,88,67.5,0.787,13.8
+1,Kuwait,2007,Developing,73.7,89,67.1,0.787,13.9
+1,Kuwait,2006,Developing,73.6,89,66.7,0.787,14.1
+1,Kuwait,2005,Developing,73.6,9,66.3,0.789,14.2
+1,Kuwait,2004,Developing,73.5,91,65.9,0.791,14.4
+1,Kuwait,2003,Developing,73.4,93,65.5,0.788,14.1
+1,Kuwait,2002,Developing,73.3,94,65,0.785,13.9
+1,Kuwait,2001,Developing,73.2,95,64.5,0.786,14
+1,Kuwait,2000,Developing,73.2,96,64,0.786,14.1
+1,Kyrgyzstan,2015,Developing,71.1,166,44.9,0.662,13
+1,Kyrgyzstan,2014,Developing,78,17,43.9,0.656,12.8
+1,Kyrgyzstan,2013,Developing,77,174,43,0.647,12.5
+1,Kyrgyzstan,2012,Developing,69.9,18,42.2,0.638,12.3
+1,Kyrgyzstan,2011,Developing,69.4,188,41.4,0.632,12.1
+1,Kyrgyzstan,2010,Developing,68.8,199,4.7,0.631,12.2
+1,Kyrgyzstan,2009,Developing,68.5,21,4.1,0.629,12.4
+1,Kyrgyzstan,2008,Developing,67.6,217,39.5,0.624,12.6
+1,Kyrgyzstan,2007,Developing,67.2,229,39,0.618,12.6
+1,Kyrgyzstan,2006,Developing,66.7,234,38.5,0.613,12.5
+1,Kyrgyzstan,2005,Developing,66.9,224,38,0.612,12.4
+1,Kyrgyzstan,2004,Developing,67.1,218,37.5,0.609,12.5
+1,Kyrgyzstan,2003,Developing,66.6,217,37,0.602,12.2
+1,Kyrgyzstan,2002,Developing,66.7,215,36.5,0.601,12.1
+1,Kyrgyzstan,2001,Developing,67.2,217,36,0.593,11.8
+1,Kyrgyzstan,2000,Developing,66.6,225,35.6,0.586,11.4
+1,Lao People's Democratic Republic,2015,Developing,65.7,194,21.7,0.582,10.8
+1,Lao People's Democratic Republic,2014,Developing,65.3,199,2.9,0.573,10.6
+1,Lao People's Democratic Republic,2013,Developing,64.9,23,2.1,0.563,10.4
+1,Lao People's Democratic Republic,2012,Developing,64.4,28,19.4,0.554,10.2
+1,Lao People's Democratic Republic,2011,Developing,64,213,18.7,0.542,9.9
+1,Lao People's Democratic Republic,2010,Developing,63.6,218,18,0.535,9.6
+1,Lao People's Democratic Republic,2009,Developing,63.1,223,17.3,0.525,9.4
+1,Lao People's Democratic Republic,2008,Developing,62.6,228,16.7,0.518,9.2
+1,Lao People's Democratic Republic,2007,Developing,62.1,234,16.1,0.509,9
+1,Lao People's Democratic Republic,2006,Developing,61.5,24,15.5,0.503,9
+1,Lao People's Democratic Republic,2005,Developing,61,246,14.9,0.494,8.7
+1,Lao People's Democratic Republic,2004,Developing,64,252,14.4,0.485,8.6
+1,Lao People's Democratic Republic,2003,Developing,59.8,259,13.8,0.477,8.3
+1,Lao People's Democratic Republic,2002,Developing,59.3,265,13.3,0.468,8
+1,Lao People's Democratic Republic,2001,Developing,58.7,271,12.7,0.463,8
+1,Lao People's Democratic Republic,2000,Developing,58.1,278,12.3,0.459,8
+1,Latvia,2015,Developed,74.6,153,61.2,0.828,16
+1,Latvia,2014,Developed,74.4,156,6.7,0.822,16
+1,Latvia,2013,Developed,74.1,161,6.2,0.814,15.4
+1,Latvia,2012,Developed,73.8,163,59.8,0.812,15.5
+1,Latvia,2011,Developed,73.6,169,59.4,0.81,15.8
+1,Latvia,2010,Developed,72.8,18,58.9,0.815,16
+1,Latvia,2009,Developed,72.6,184,58.5,0.821,16.4
+1,Latvia,2008,Developed,71.9,199,58.1,0.819,16.3
+1,Latvia,2007,Developed,78,221,57.7,0.814,16.2
+1,Latvia,2006,Developed,75,229,57.4,0.807,16.2
+1,Latvia,2005,Developed,76,216,57,0.791,15.9
+1,Latvia,2004,Developed,71,26,56.6,0.776,15.5
+1,Latvia,2003,Developed,78,29,56.3,0.761,15.2
+1,Latvia,2002,Developed,73,219,56,0.746,14.8
+1,Latvia,2001,Developed,69.9,228,55.7,0.728,14.2
+1,Latvia,2000,Developed,71,218,55.4,0.716,13.7
+1,Lebanon,2015,Developing,74.9,98,66.1,0.763,13.3
+1,Lebanon,2014,Developing,74.8,99,65.4,0.763,13.3
+1,Lebanon,2013,Developing,74.9,97,64.9,0.766,13.3
+1,Lebanon,2012,Developing,75,93,64.4,0.763,13.3
+1,Lebanon,2011,Developing,75,93,64,0.758,13.2
+1,Lebanon,2010,Developing,74.9,94,63.5,0.752,13.3
+1,Lebanon,2009,Developing,74.7,95,63,0.746,13.2
+1,Lebanon,2008,Developing,74.5,98,62.5,0.74,13.1
+1,Lebanon,2007,Developing,74.4,98,61.9,0.731,12.9
+1,Lebanon,2006,Developing,74.1,1,61.4,0.733,13.2
+1,Lebanon,2005,Developing,73.9,11,6.8,0,13.7
+1,Lebanon,2004,Developing,73.7,13,6.2,0,14.2
+1,Lebanon,2003,Developing,73.5,15,59.7,0,14.8
+1,Lebanon,2002,Developing,73.2,17,59.1,0,15.2
+1,Lebanon,2001,Developing,73,11,58.6,0,15
+1,Lebanon,2000,Developing,72.7,112,57.9,0,14.9
+1,Lesotho,2015,Developing,53.7,484,32.6,0.495,10.7
+1,Lesotho,2014,Developing,52.1,522,32,0.491,10.8
+1,Lesotho,2013,Developing,52.1,518,31.4,0.484,11.1
+1,Lesotho,2012,Developing,52.2,513,3.8,0.479,11
+1,Lesotho,2011,Developing,52.3,52,3.2,0.469,11
+1,Lesotho,2010,Developing,51.1,527,29.7,0.464,10.9
+1,Lesotho,2009,Developing,49.4,566,29.2,0.453,10.8
+1,Lesotho,2008,Developing,47.8,592,28.8,0.447,10.7
+1,Lesotho,2007,Developing,46.2,633,28.3,0.44,10.6
+1,Lesotho,2006,Developing,45.3,654,27.9,0.437,10.7
+1,Lesotho,2005,Developing,44.5,675,27.4,0.437,10.7
+1,Lesotho,2004,Developing,44.8,666,26.9,0.439,10.7
+1,Lesotho,2003,Developing,45.5,648,26.4,0.44,10.5
+1,Lesotho,2002,Developing,46.4,622,25.9,0.446,10.4
+1,Lesotho,2001,Developing,47.8,586,25.4,0.443,10.3
+1,Lesotho,2000,Developing,49.3,543,24.9,0.445,9.6
+1,Liberia,2015,Developing,61.4,259,27.3,0.427,9.9
+1,Liberia,2014,Developing,58.1,329,26.7,0.426,9.9
+1,Liberia,2013,Developing,61.1,258,26.1,0.419,9.8
+1,Liberia,2012,Developing,67,261,25.6,0.416,9.6
+1,Liberia,2011,Developing,62,266,25,0.406,9.5
+1,Liberia,2010,Developing,59.7,272,24.5,0.403,9.6
+1,Liberia,2009,Developing,59.2,277,24,0.4,9.7
+1,Liberia,2008,Developing,58.6,281,23.4,0.394,9.8
+1,Liberia,2007,Developing,57.9,286,22.9,0.383,9.9
+1,Liberia,2006,Developing,56.7,32,22.4,0.377,10
+1,Liberia,2005,Developing,55.3,316,22,0.372,10.1
+1,Liberia,2004,Developing,54,329,21.5,0.335,10.2
+1,Liberia,2003,Developing,50,42,21.1,0.373,10.3
+1,Liberia,2002,Developing,56,371,2.7,0.376,10.4
+1,Liberia,2001,Developing,51.5,333,2.4,0.386,10.5
+1,Liberia,2000,Developing,51.9,39,2.2,0.338,8.7
+1,Libya,2015,Developing,72.7,138,64.8,0.719,13.4
+1,Libya,2014,Developing,72.4,143,63.8,0.73,13.4
+1,Libya,2013,Developing,72.9,134,62.8,0.735,13.4
+1,Libya,2012,Developing,72.9,133,61.8,0.706,13.7
+1,Libya,2011,Developing,71.3,161,6.9,0.756,14
+1,Libya,2010,Developing,72.8,132,59.9,0.755,14.3
+1,Libya,2009,Developing,72.7,132,59,0.757,14.6
+1,Libya,2008,Developing,72.6,132,58.2,0.757,14.8
+1,Libya,2007,Developing,72.5,132,57.4,0.756,15.1
+1,Libya,2006,Developing,72.2,134,56.7,0.752,15.4
+1,Libya,2005,Developing,71.9,138,56,0.748,15.7
+1,Libya,2004,Developing,71.5,141,55.3,0.747,15.9
+1,Libya,2003,Developing,71.3,144,54.6,0.74,16
+1,Libya,2002,Developing,71.1,146,54,0.736,15.8
+1,Libya,2001,Developing,71,147,53.4,0.732,15.7
+1,Libya,2000,Developing,78,148,52.8,0.727,15.5
+1,Lithuania,2015,Developed,73.6,165,62.4,0.846,16.5
+1,Lithuania,2014,Developed,73.4,169,61.9,0.841,16.5
+1,Lithuania,2013,Developed,73,178,61.4,0.834,16.4
+1,Lithuania,2012,Developed,73,176,6.9,0.83,16.5
+1,Lithuania,2011,Developed,72.8,18,6.5,0.826,16.7
+1,Lithuania,2010,Developed,72.4,188,6,0.824,16.8
+1,Lithuania,2009,Developed,72.2,192,59.7,0.825,16.6
+1,Lithuania,2008,Developed,71.1,224,59.3,0.82,16.5
+1,Lithuania,2007,Developed,72,24,59,0.812,16.4
+1,Lithuania,2006,Developed,76,229,58.7,0.807,16.4
+1,Lithuania,2005,Developed,78,222,58.4,0.798,16.2
+1,Lithuania,2004,Developed,71.6,24,58.1,0.792,16.3
+1,Lithuania,2003,Developed,71.6,22,57.8,0.78,15.8
+1,Lithuania,2002,Developed,71.4,22,57.5,0.77,15.3
+1,Lithuania,2001,Developed,71.2,21,57.2,0.757,14.7
+1,Lithuania,2000,Developed,71.6,2,56.9,0.745,14
+1,Luxembourg,2015,Developed,82,63,61.3,0.896,13.9
+1,Luxembourg,2014,Developed,81.7,65,6.9,0.892,13.9
+1,Luxembourg,2013,Developed,81.4,68,6.5,0.892,13.9
+1,Luxembourg,2012,Developed,81.1,7,6.1,0.892,13.9
+1,Luxembourg,2011,Developed,88,72,59.6,0.894,13.9
+1,Luxembourg,2010,Developed,86,73,59.2,0.884,13.7
+1,Luxembourg,2009,Developed,83,76,58.8,0.888,13.5
+1,Luxembourg,2008,Developed,80,8,58.4,0.887,13.5
+1,Luxembourg,2007,Developed,79.7,82,57.9,0.877,13.5
+1,Luxembourg,2006,Developed,79.4,85,57.5,0.88,13.5
+1,Luxembourg,2005,Developed,78.8,9,57,0.874,13.5
+1,Luxembourg,2004,Developed,78.7,92,56.4,0.867,13.5
+1,Luxembourg,2003,Developed,78.6,92,55.8,0.865,13.6
+1,Luxembourg,2002,Developed,78.3,95,55.2,0.86,13.5
+1,Luxembourg,2001,Developed,78,96,54.6,0.854,13.4
+1,Luxembourg,2000,Developed,77.8,98,54,0.848,13.5
+1,Madagascar,2015,Developing,65.5,22,2.5,0.511,10.3
+1,Madagascar,2014,Developing,65.1,225,2,0.509,10.3
+1,Madagascar,2013,Developing,64.7,23,19.5,0.508,10.3
+1,Madagascar,2012,Developing,64.3,235,19,0.506,10.2
+1,Madagascar,2011,Developing,63.8,241,18.5,0.504,10.2
+1,Madagascar,2010,Developing,63.3,248,18,0.503,10.2
+1,Madagascar,2009,Developing,62.8,254,17.6,0.5,9.7
+1,Madagascar,2008,Developing,62.3,259,17.1,0.491,9.4
+1,Madagascar,2007,Developing,61.9,261,16.7,0.483,9.1
+1,Madagascar,2006,Developing,61.4,263,16.3,0.478,9
+1,Madagascar,2005,Developing,69,265,15.8,0.473,8.9
+1,Madagascar,2004,Developing,64,267,15.4,0.466,8.7
+1,Madagascar,2003,Developing,59.9,268,15,0.457,8.5
+1,Madagascar,2002,Developing,59.3,271,14.7,0.462,8.3
+1,Madagascar,2001,Developing,58.7,276,14.3,0.456,8.2
+1,Madagascar,2000,Developing,57.9,283,13.9,0,8
+1,Malawi,2015,Developing,58.3,365,19.6,0.473,10.8
+1,Malawi,2014,Developing,57.6,377,19.2,0.466,10.7
+1,Malawi,2013,Developing,56.7,394,18.8,0.459,10.7
+1,Malawi,2012,Developing,55.3,42,18.4,0.454,10.7
+1,Malawi,2011,Developing,54.1,441,18,0.444,10.6
+1,Malawi,2010,Developing,52.9,462,17.6,0.43,10.2
+1,Malawi,2009,Developing,51.5,491,17.3,0.415,9.9
+1,Malawi,2008,Developing,50,525,16.9,0.4,9.6
+1,Malawi,2007,Developing,48.5,559,16.6,0.387,9.7
+1,Malawi,2006,Developing,47.1,587,16.2,0.377,9.6
+1,Malawi,2005,Developing,46,66,15.9,0.371,9.7
+1,Malawi,2004,Developing,45.1,615,15.5,0.366,10
+1,Malawi,2003,Developing,44.6,613,15.2,0.362,10.3
+1,Malawi,2002,Developing,44,67,14.8,0.388,10.4
+1,Malawi,2001,Developing,43.5,599,14.4,0.387,10.1
+1,Malawi,2000,Developing,43.1,588,14.1,0.391,10.7
+1,Malaysia,2015,Developing,75,123,4.6,0.787,13.1
+1,Malaysia,2014,Developing,74.8,126,39.5,0.783,13
+1,Malaysia,2013,Developing,74.6,128,38.5,0.779,12.9
+1,Malaysia,2012,Developing,74.5,129,37.4,0.776,12.9
+1,Malaysia,2011,Developing,74.3,13,36.3,0.774,13
+1,Malaysia,2010,Developing,74.1,131,35.3,0.764,12.8
+1,Malaysia,2009,Developing,74,131,34.4,0.756,12.6
+1,Malaysia,2008,Developing,73.8,132,33.4,0.747,12.5
+1,Malaysia,2007,Developing,73.7,133,32.5,0.736,12.3
+1,Malaysia,2006,Developing,73.6,134,31.6,0.732,12.7
+1,Malaysia,2005,Developing,73.4,135,3.7,0.734,12.9
+1,Malaysia,2004,Developing,73.2,137,29.8,0.731,12.7
+1,Malaysia,2003,Developing,73.1,138,28.8,0.724,12.1
+1,Malaysia,2002,Developing,72.9,14,27.9,0.723,12
+1,Malaysia,2001,Developing,72.7,144,27,0.725,11.9
+1,Malaysia,2000,Developing,72.4,149,26,0.715,11.6
+1,Maldives,2015,Developing,78.5,61,27.4,0.701,12.7
+1,Maldives,2014,Developing,78.2,62,26.2,0.693,12.7
+1,Maldives,2013,Developing,77.9,64,25.1,0.683,12.4
+1,Maldives,2012,Developing,77.6,65,24.1,0.675,12.1
+1,Maldives,2011,Developing,77.3,67,23.1,0.663,11.8
+1,Maldives,2010,Developing,76.7,73,22.1,0.653,11.6
+1,Maldives,2009,Developing,76.3,75,21.2,0.651,11.8
+1,Maldives,2008,Developing,75.9,81,2.3,0.641,11.8
+1,Maldives,2007,Developing,75.4,82,19.5,0.632,11.9
+1,Maldives,2006,Developing,75,88,18.7,0.622,12
+1,Maldives,2005,Developing,74.3,93,18,0.625,12.1
+1,Maldives,2004,Developing,73.4,16,17.3,0.617,12.2
+1,Maldives,2003,Developing,72.7,112,16.7,0.601,11.8
+1,Maldives,2002,Developing,71.8,124,16.2,0.597,12
+1,Maldives,2001,Developing,78,129,15.6,0.587,11.8
+1,Maldives,2000,Developing,69.6,139,15.2,0.577,11.3
+1,Mali,2015,Developing,58.2,266,23.8,0.438,8.4
+1,Mali,2014,Developing,57.8,272,23.2,0.43,8.2
+1,Mali,2013,Developing,57.3,275,22.5,0.421,8
+1,Mali,2012,Developing,57.2,27,21.9,0.411,7.7
+1,Mali,2011,Developing,56.8,271,21.3,0.404,7.5
+1,Mali,2010,Developing,56.5,273,2.7,0.396,7.3
+1,Mali,2009,Developing,56,276,2.2,0.385,7.1
+1,Mali,2008,Developing,55.5,278,19.6,0.36,5.8
+1,Mali,2007,Developing,55,282,19,0.363,6.4
+1,Mali,2006,Developing,54.3,288,18.5,0.35,6.1
+1,Mali,2005,Developing,53.6,29,18,0.338,5.8
+1,Mali,2004,Developing,52.8,296,17.5,0.333,5.5
+1,Mali,2003,Developing,52,299,17,0.318,5.2
+1,Mali,2002,Developing,51.2,31,16.5,0.308,4.9
+1,Mali,2001,Developing,55,34,16.1,0.297,4.6
+1,Mali,2000,Developing,49.8,37,15.6,0.291,4.4
+1,Malta,2015,Developed,81.7,54,69.6,0.853,14.6
+1,Malta,2014,Developed,81.4,55,69.2,0.847,14.3
+1,Malta,2013,Developed,81.1,57,68.8,0.828,14.2
+1,Malta,2012,Developed,81,58,68.4,0.821,14.1
+1,Malta,2011,Developed,87,59,68,0.826,14.8
+1,Malta,2010,Developed,83,62,67.6,0.819,14.6
+1,Malta,2009,Developed,82,63,67.1,0.815,14.4
+1,Malta,2008,Developed,80,64,66.6,0.813,14.6
+1,Malta,2007,Developed,79.6,65,66.1,0.808,14.4
+1,Malta,2006,Developed,79.3,66,65.6,0.809,14.8
+1,Malta,2005,Developed,79,67,65,0.805,14.8
+1,Malta,2004,Developed,78.7,69,64.5,0.797,14.2
+1,Malta,2003,Developed,78.5,71,63.9,0.79,13.8
+1,Malta,2002,Developed,78.2,75,63.4,0.786,13.8
+1,Malta,2001,Developed,77.8,79,62.8,0.783,13.7
+1,Malta,2000,Developed,77.5,8,62.3,0.779,13.8
+1,Marshall Islands,2013,Developing,,,81.6,,0
+1,Mauritania,2015,Developing,63.1,25,3.8,0.513,8.5
+1,Mauritania,2014,Developing,63,26,3.1,0.509,8.5
+1,Mauritania,2013,Developing,62.7,28,29.4,0.501,8.2
+1,Mauritania,2012,Developing,62.5,29,28.8,0.491,7.8
+1,Mauritania,2011,Developing,62.2,212,28.1,0.487,7.7
+1,Mauritania,2010,Developing,62,214,27.4,0.484,7.6
+1,Mauritania,2009,Developing,61.7,215,26.8,0.476,7.1
+1,Mauritania,2008,Developing,61.4,217,26.1,0.475,7.2
+1,Mauritania,2007,Developing,61.2,219,25.5,0.475,7.4
+1,Mauritania,2006,Developing,69,221,24.8,0.466,7.2
+1,Mauritania,2005,Developing,66,223,24.2,0.461,7.2
+1,Mauritania,2004,Developing,64,224,23.6,0.451,6.7
+1,Mauritania,2003,Developing,63,226,22.9,0.447,6.6
+1,Mauritania,2002,Developing,62,228,22.3,0.446,6.5
+1,Mauritania,2001,Developing,61,229,21.7,0.444,6.5
+1,Mauritania,2000,Developing,60,23,21.1,0.443,6.4
+1,Mauritius,2015,Developing,74.6,146,33.3,0.779,15.2
+1,Mauritius,2014,Developing,74.2,148,32.8,0.769,14.7
+1,Mauritius,2013,Developing,74.1,147,32.3,0.765,14.7
+1,Mauritius,2012,Developing,73.9,154,31.8,0.756,14.3
+1,Mauritius,2011,Developing,73.6,158,31.3,0.748,14.1
+1,Mauritius,2010,Developing,73.3,163,3.7,0.74,14
+1,Mauritius,2009,Developing,72.8,166,3.2,0.734,13.8
+1,Mauritius,2008,Developing,72.7,166,29.7,0.728,13.6
+1,Mauritius,2007,Developing,72.9,161,29.1,0.72,13.5
+1,Mauritius,2006,Developing,71.8,165,28.6,0.713,13.4
+1,Mauritius,2005,Developing,72.1,168,28,0.704,13
+1,Mauritius,2004,Developing,71.9,168,27.5,0.696,12.8
+1,Mauritius,2003,Developing,71.5,174,26.9,0.687,12.6
+1,Mauritius,2002,Developing,71.5,179,26.4,0.683,12.5
+1,Mauritius,2001,Developing,71.5,177,25.8,0.673,12.2
+1,Mauritius,2000,Developing,71,177,25.3,0.667,12.1
+1,Mexico,2015,Developing,76.7,122,63.5,0.758,13.3
+1,Mexico,2014,Developing,76.6,122,62.8,0.754,13.1
+1,Mexico,2013,Developing,76.6,12,62.1,0.753,12.9
+1,Mexico,2012,Developing,76.3,123,61.5,0.748,12.7
+1,Mexico,2011,Developing,76.1,124,6.8,0.745,12.6
+1,Mexico,2010,Developing,75.6,127,6.1,0.739,12.5
+1,Mexico,2009,Developing,75.7,13,59.4,0.738,12.5
+1,Mexico,2008,Developing,75.6,127,58.7,0.735,12.3
+1,Mexico,2007,Developing,76,123,57.9,0.731,12.3
+1,Mexico,2006,Developing,75.8,125,57.2,0.723,12.2
+1,Mexico,2005,Developing,75.3,126,56.4,0.719,12.2
+1,Mexico,2004,Developing,75.4,124,55.7,0.714,12.1
+1,Mexico,2003,Developing,75,127,54.9,0.708,11.9
+1,Mexico,2002,Developing,75,127,54.1,0.703,11.6
+1,Mexico,2001,Developing,75,126,53.2,0.7,11.6
+1,Mexico,2000,Developing,74.8,129,52.4,0.694,11.4
+1,Micronesia (Federated States of),2015,Developing,69.4,166,69.4,0.637,11.7
+1,Micronesia (Federated States of),2014,Developing,69.4,164,68.7,0.639,11.7
+1,Micronesia (Federated States of),2013,Developing,69.2,166,68.1,0.641,11.7
+1,Micronesia (Federated States of),2012,Developing,69,168,67.5,0.64,11.7
+1,Micronesia (Federated States of),2011,Developing,68.9,169,67,0.638,11.7
+1,Micronesia (Federated States of),2010,Developing,68.7,171,66.4,0.633,11.5
+1,Micronesia (Federated States of),2009,Developing,68.5,172,65.8,0.629,11.4
+1,Micronesia (Federated States of),2008,Developing,68.4,174,65.2,0.628,11.2
+1,Micronesia (Federated States of),2007,Developing,68.2,175,64.7,0.625,11
+1,Micronesia (Federated States of),2006,Developing,68,176,64.1,0.622,10.9
+1,Micronesia (Federated States of),2005,Developing,67.9,178,63.6,0.617,10.7
+1,Micronesia (Federated States of),2004,Developing,67.7,179,63.2,0.616,10.5
+1,Micronesia (Federated States of),2003,Developing,67.5,18,62.8,0.612,10.4
+1,Micronesia (Federated States of),2002,Developing,66.2,21,62.4,0.608,10.2
+1,Micronesia (Federated States of),2001,Developing,67.2,183,62,0.604,10.1
+1,Micronesia (Federated States of),2000,Developing,67,185,61.5,0,0
+1,Monaco,2013,Developing,,,,,
+1,Mongolia,2015,Developing,68.8,222,52.7,0.733,14.8
+1,Mongolia,2014,Developing,68.4,225,51.5,0.729,14.8
+1,Mongolia,2013,Developing,68.1,227,5.4,0.72,14.7
+1,Mongolia,2012,Developing,67.8,231,49.2,0.712,14.7
+1,Mongolia,2011,Developing,67.3,235,48,0.701,14.6
+1,Mongolia,2010,Developing,66.3,25,46.9,0.693,14.3
+1,Mongolia,2009,Developing,66.9,235,45.9,0.686,13.8
+1,Mongolia,2008,Developing,67.4,225,44.9,0.673,13.4
+1,Mongolia,2007,Developing,65.9,26,43.9,0.661,13
+1,Mongolia,2006,Developing,65,271,43,0.649,12.7
+1,Mongolia,2005,Developing,64.5,274,42.1,0.637,11.8
+1,Mongolia,2004,Developing,64,284,41.3,0.621,11.2
+1,Mongolia,2003,Developing,64,271,4.5,0.609,10.5
+1,Mongolia,2002,Developing,63.8,263,39.8,0.599,10.1
+1,Mongolia,2001,Developing,63.2,266,39.1,0.588,9.4
+1,Mongolia,2000,Developing,62.8,274,38.5,0.582,8.9
+1,Montenegro,2015,Developing,76.1,16,61.8,0.804,15.1
+1,Montenegro,2014,Developing,75.9,17,61.3,0.803,15.1
+1,Montenegro,2013,Developing,75.8,19,6.7,0.799,15.1
+1,Montenegro,2012,Developing,75.6,11,6.2,0.797,15.1
+1,Montenegro,2011,Developing,75.4,113,59.7,0.792,15.1
+1,Montenegro,2010,Developing,75.3,115,59.1,0.787,15
+1,Montenegro,2009,Developing,75,117,58.5,0.785,14.6
+1,Montenegro,2008,Developing,74.6,121,57.8,0.774,14.2
+1,Montenegro,2007,Developing,74.2,125,57.2,0.762,13.6
+1,Montenegro,2006,Developing,73.8,13,56.5,0.751,13.2
+1,Montenegro,2005,Developing,73.6,133,55.7,0.746,12.8
+1,Montenegro,2004,Developing,73.5,134,55,0.74,12.6
+1,Montenegro,2003,Developing,73.5,134,54.2,0,0
+1,Montenegro,2002,Developing,73.4,136,53.5,0,0
+1,Montenegro,2001,Developing,73.3,136,52.7,0,0
+1,Montenegro,2000,Developing,73,144,51.9,0,0
+1,Morocco,2015,Developing,74.3,95,58.5,0.645,12.1
+1,Morocco,2014,Developing,74.1,96,57.5,0.64,12.1
+1,Morocco,2013,Developing,73.9,97,56.5,0.634,12.1
+1,Morocco,2012,Developing,73.6,99,55.5,0.623,11.6
+1,Morocco,2011,Developing,73.3,14,54.6,0.612,11.2
+1,Morocco,2010,Developing,72.8,11,53.6,0.603,10.7
+1,Morocco,2009,Developing,72.3,116,52.7,0.596,10.5
+1,Morocco,2008,Developing,71.8,123,51.7,0.589,10.3
+1,Morocco,2007,Developing,71.4,128,5.8,0.581,10
+1,Morocco,2006,Developing,71,133,49.9,0.575,10
+1,Morocco,2005,Developing,77,137,49.1,0.569,9.8
+1,Morocco,2004,Developing,72,142,48.2,0.561,9.6
+1,Morocco,2003,Developing,69.9,146,47.3,0.551,9.3
+1,Morocco,2002,Developing,69.5,15,46.5,0.54,8.8
+1,Morocco,2001,Developing,69,155,45.7,0.53,8.5
+1,Morocco,2000,Developing,68.6,16,44.8,0.519,8
+1,Mozambique,2015,Developing,57.6,355,22.6,0.414,9.1
+1,Mozambique,2014,Developing,56.7,375,22.2,0.409,9.1
+1,Mozambique,2013,Developing,55.3,46,21.8,0.405,9.1
+1,Mozambique,2012,Developing,54.8,48,21.3,0.4,9.2
+1,Mozambique,2011,Developing,54.3,47,2.9,0.397,9.5
+1,Mozambique,2010,Developing,54,47,2.5,0.39,9.3
+1,Mozambique,2009,Developing,53.8,4,2.1,0.382,9.2
+1,Mozambique,2008,Developing,53.2,45,19.7,0.372,8.8
+1,Mozambique,2007,Developing,52.1,425,19.3,0.36,8.2
+1,Mozambique,2006,Developing,51.2,434,18.9,0.353,7.9
+1,Mozambique,2005,Developing,58,434,18.5,0.341,7.3
+1,Mozambique,2004,Developing,54,429,18.1,0.332,7
+1,Mozambique,2003,Developing,51,424,17.7,0.318,6.7
+1,Mozambique,2002,Developing,49.8,416,17.3,0.311,6.2
+1,Mozambique,2001,Developing,49.5,48,16.9,0.298,5.8
+1,Mozambique,2000,Developing,49,43,16.5,0.291,5.4
+1,Myanmar,2015,Developing,66.6,199,23.8,0.552,9.1
+1,Myanmar,2014,Developing,66.4,21,22.9,0.547,9.1
+1,Myanmar,2013,Developing,66.2,22,22.1,0.54,9.1
+1,Myanmar,2012,Developing,65.9,25,21.3,0.533,9.1
+1,Myanmar,2011,Developing,65.6,27,2.5,0.526,9.1
+1,Myanmar,2010,Developing,65.4,29,19.8,0.515,8.8
+1,Myanmar,2009,Developing,65.2,211,19.1,0.504,8.5
+1,Myanmar,2008,Developing,59.2,296,18.3,0.493,8.2
+1,Myanmar,2007,Developing,64.5,217,17.6,0.484,8.1
+1,Myanmar,2006,Developing,64.2,22,17,0.474,8
+1,Myanmar,2005,Developing,63.9,224,16.4,0.465,7.9
+1,Myanmar,2004,Developing,63.5,228,15.7,0.455,7.8
+1,Myanmar,2003,Developing,63.2,231,15.2,0.445,7.7
+1,Myanmar,2002,Developing,62.8,235,14.6,0.435,7.6
+1,Myanmar,2001,Developing,62.5,239,14.1,0.427,7.6
+1,Myanmar,2000,Developing,62.1,243,13.6,0.417,7.5
+1,Namibia,2015,Developing,65.8,248,35.7,0.637,11.7
+1,Namibia,2014,Developing,65.9,242,34.9,0.632,11.7
+1,Namibia,2013,Developing,66.1,232,34.1,0.625,11.6
+1,Namibia,2012,Developing,65.8,232,33.3,0.619,11.5
+1,Namibia,2011,Developing,64.3,268,32.5,0.612,11.5
+1,Namibia,2010,Developing,63,299,31.8,0.604,11.4
+1,Namibia,2009,Developing,62.4,36,31,0.598,11.4
+1,Namibia,2008,Developing,61.7,317,3.2,0.589,11.3
+1,Namibia,2007,Developing,60,356,29.4,0.578,11.3
+1,Namibia,2006,Developing,57,431,28.7,0.57,11.4
+1,Namibia,2005,Developing,55.1,477,27.9,0.565,11.6
+1,Namibia,2004,Developing,54.7,483,27.2,0.559,11.7
+1,Namibia,2003,Developing,55,471,26.5,0.554,11.7
+1,Namibia,2002,Developing,55.7,452,25.8,0.556,11.8
+1,Namibia,2001,Developing,56.5,426,25.1,0.556,11.7
+1,Namibia,2000,Developing,57.4,41,24.5,0.559,11.5
+1,Nauru,2013,Developing,,,87.3,,9.6
+1,Nepal,2015,Developing,69.2,165,19.1,0.555,12.2
+1,Nepal,2014,Developing,69.6,158,18.5,0.551,12.4
+1,Nepal,2013,Developing,69.3,162,18,0.545,12.3
+1,Nepal,2012,Developing,68.9,167,17.4,0.538,12.3
+1,Nepal,2011,Developing,68.4,172,16.9,0.529,12
+1,Nepal,2010,Developing,68,178,16.4,0.515,11.1
+1,Nepal,2009,Developing,67.5,183,15.9,0.502,10.5
+1,Nepal,2008,Developing,67,189,15.4,0.492,10.1
+1,Nepal,2007,Developing,66.6,194,14.9,0.486,10
+1,Nepal,2006,Developing,66,21,14.4,0.476,9.6
+1,Nepal,2005,Developing,65.4,28,13.9,0.469,9.4
+1,Nepal,2004,Developing,64.7,218,13.4,0.463,9.3
+1,Nepal,2003,Developing,64.3,22,12.9,0.457,9.2
+1,Nepal,2002,Developing,63.1,238,12.4,0.447,8.6
+1,Nepal,2001,Developing,63.2,23,11.9,0.446,9
+1,Nepal,2000,Developing,62.5,238,11.4,0.439,8.9
+1,Netherlands,2015,Developed,81.9,57,62.1,0.923,18.1
+1,Netherlands,2014,Developed,81.7,58,61.6,0.923,18.1
+1,Netherlands,2013,Developed,81.4,6,61,0.922,18.1
+1,Netherlands,2012,Developed,81.1,62,6.5,0.921,18.1
+1,Netherlands,2011,Developed,81.1,63,59.9,0.911,17.2
+1,Netherlands,2010,Developed,88,64,59.3,0.906,17
+1,Netherlands,2009,Developed,86,65,58.6,0.906,16.9
+1,Netherlands,2008,Developed,83,68,57.9,0.905,16.8
+1,Netherlands,2007,Developed,82,68,57.3,0.899,16.6
+1,Netherlands,2006,Developed,79.8,71,56.5,0.893,16.5
+1,Netherlands,2005,Developed,79.4,72,55.8,0.888,16.4
+1,Netherlands,2004,Developed,79.2,77,55,0.885,16.5
+1,Netherlands,2003,Developed,78.7,8,54.2,0.881,16.5
+1,Netherlands,2002,Developed,78.4,81,53.4,0.882,16.9
+1,Netherlands,2001,Developed,78.3,82,52.6,0.878,16.7
+1,Netherlands,2000,Developed,78.1,84,51.8,0.873,16.5
+1,New Zealand,2015,Developed,81.6,66,67.5,0.913,19.2
+1,New Zealand,2014,Developed,81.5,67,66.9,0.91,19.2
+1,New Zealand,2013,Developed,81.3,69,66.4,0.908,19.3
+1,New Zealand,2012,Developed,81.1,7,65.9,0.904,19.5
+1,New Zealand,2011,Developed,86,72,65.3,0.901,19.7
+1,New Zealand,2010,Developed,89,71,64.8,0.899,20.3
+1,New Zealand,2009,Developed,85,73,64.3,0.895,19.3
+1,New Zealand,2008,Developed,81,75,63.8,0.894,19.5
+1,New Zealand,2007,Developed,81,76,63.2,0.891,19.2
+1,New Zealand,2006,Developed,79.9,76,62.6,0.888,19.1
+1,New Zealand,2005,Developed,79.9,78,62.1,0.886,18.9
+1,New Zealand,2004,Developed,79.2,79,61.5,0.884,18.4
+1,New Zealand,2003,Developed,79.1,82,6.9,0.881,18.2
+1,New Zealand,2002,Developed,78.7,83,6.3,0.873,17.5
+1,New Zealand,2001,Developed,78.5,83,59.6,0.868,17.4
+1,New Zealand,2000,Developed,78.6,87,58.9,0.864,17.2
+1,Nicaragua,2015,Developing,74.8,145,54,0.642,11.7
+1,Nicaragua,2014,Developing,74.5,148,53.2,0.636,11.6
+1,Nicaragua,2013,Developing,73.9,157,52.4,0.63,11.5
+1,Nicaragua,2012,Developing,73.9,157,51.7,0.625,11.5
+1,Nicaragua,2011,Developing,74.5,147,5.9,0.62,11.5
+1,Nicaragua,2010,Developing,73.2,154,5.2,0.614,11.4
+1,Nicaragua,2009,Developing,73.2,163,49.4,0.613,11.3
+1,Nicaragua,2008,Developing,72.5,169,48.6,0.607,11.1
+1,Nicaragua,2007,Developing,72.5,173,47.9,0.601,11
+1,Nicaragua,2006,Developing,73,17,47.1,0.597,11
+1,Nicaragua,2005,Developing,71.2,194,46.4,0.592,11
+1,Nicaragua,2004,Developing,71,194,45.7,0.587,11
+1,Nicaragua,2003,Developing,76,198,44.9,0.583,11
+1,Nicaragua,2002,Developing,75,197,44.2,0.577,10.7
+1,Nicaragua,2001,Developing,73,193,43.5,0.57,10.4
+1,Nicaragua,2000,Developing,73,192,42.8,0.562,10.1
+1,Niger,2015,Developing,61.8,22,19.3,0.351,5.4
+1,Niger,2014,Developing,61.4,223,18.9,0.345,5.3
+1,Niger,2013,Developing,69,227,18.5,0.341,5.3
+1,Niger,2012,Developing,63,232,18.1,0.331,5.1
+1,Niger,2011,Developing,59.4,241,17.7,0.323,4.8
+1,Niger,2010,Developing,58.2,252,17.3,0.312,4.5
+1,Niger,2009,Developing,57.1,263,16.9,0.307,4.2
+1,Niger,2008,Developing,56,272,16.5,0.298,4
+1,Niger,2007,Developing,55.2,276,16.1,0.293,3.8
+1,Niger,2006,Developing,54.5,277,15.7,0.286,3.7
+1,Niger,2005,Developing,53.7,278,15.4,0.278,3.5
+1,Niger,2004,Developing,52.9,279,15,0.27,3.1
+1,Niger,2003,Developing,52.1,28,14.6,0.266,3
+1,Niger,2002,Developing,51.4,282,14.3,0.261,2.9
+1,Niger,2001,Developing,56,283,13.9,0.255,2.9
+1,Niger,2000,Developing,50,284,13.6,0.253,2.8
+1,Nigeria,2015,Developing,54.5,344,25.4,0.525,10
+1,Nigeria,2014,Developing,53.6,362,24.7,0.521,10
+1,Nigeria,2013,Developing,53.2,367,24.1,0.514,9.8
+1,Nigeria,2012,Developing,52.7,374,23.5,0.507,9.7
+1,Nigeria,2011,Developing,52.3,375,22.8,0.5,9.6
+1,Nigeria,2010,Developing,52,374,22.2,0.492,9.5
+1,Nigeria,2009,Developing,51.6,376,21.6,0.487,9.3
+1,Nigeria,2008,Developing,59,386,21,0.481,9.2
+1,Nigeria,2007,Developing,55,388,2.4,0.477,9.1
+1,Nigeria,2006,Developing,49.8,396,19.9,0.466,9
+1,Nigeria,2005,Developing,49.2,4,19.3,0.463,8.9
+1,Nigeria,2004,Developing,48.5,47,18.8,0.445,8.5
+1,Nigeria,2003,Developing,48.1,41,18.3,0,8.1
+1,Nigeria,2002,Developing,47.7,49,17.8,0,7.7
+1,Nigeria,2001,Developing,47.4,48,17.3,0,8
+1,Nigeria,2000,Developing,47.1,45,16.9,0,7.6
+1,Niue,2013,Developing,,,77.3,,
+1,Norway,2015,Developed,81.8,59,61.2,0.948,17.7
+1,Norway,2014,Developed,81.6,61,6.8,0.945,17.7
+1,Norway,2013,Developed,81.5,62,6.3,0.942,17.5
+1,Norway,2012,Developed,81.3,61,59.8,0.941,17.6
+1,Norway,2011,Developed,81.1,67,59.4,0.939,17.6
+1,Norway,2010,Developed,81,66,58.9,0.936,17.4
+1,Norway,2009,Developed,89,67,58.5,0.936,17.4
+1,Norway,2008,Developed,86,67,58,0.936,17.6
+1,Norway,2007,Developed,85,67,57.5,0.934,17.6
+1,Norway,2006,Developed,84,7,57,0.931,17.5
+1,Norway,2005,Developed,81,73,56.5,0.929,17.6
+1,Norway,2004,Developed,79.8,77,55.9,0.924,17.5
+1,Norway,2003,Developed,79.4,78,55.3,0.918,17.1
+1,Norway,2002,Developed,78.9,81,54.6,0.916,17.1
+1,Norway,2001,Developed,78.8,82,54,0.917,17.5
+1,Norway,2000,Developed,78.5,85,53.3,0.911,17.1
+1,Oman,2015,Developing,76.6,99,54.6,0.795,13.7
+1,Oman,2014,Developing,76.4,11,53.5,0.796,13.7
+1,Oman,2013,Developing,76.2,12,52.8,0.796,13.7
+1,Oman,2012,Developing,76,14,52.3,0.797,13.7
+1,Oman,2011,Developing,75.8,15,52,0.797,13.6
+1,Oman,2010,Developing,75.6,16,51.8,0.797,13.5
+1,Oman,2009,Developing,75.4,18,51.5,0.782,12.4
+1,Oman,2008,Developing,75.2,19,51.1,0.765,11.9
+1,Oman,2007,Developing,74.9,113,5.6,0.753,11.5
+1,Oman,2006,Developing,74.7,115,5.1,0.748,11.6
+1,Oman,2005,Developing,74.3,118,49.5,0.742,11.5
+1,Oman,2004,Developing,74,122,48.9,0.734,11.5
+1,Oman,2003,Developing,73.6,127,48.1,0.725,11.2
+1,Oman,2002,Developing,73.3,13,47.3,0.716,11
+1,Oman,2001,Developing,72.9,134,46.5,0.705,10.7
+1,Oman,2000,Developing,72.6,138,45.9,0,10.4
+1,Pakistan,2015,Developing,66.4,161,25.4,0.548,8.1
+1,Pakistan,2014,Developing,66.2,162,24.7,0.542,7.8
+1,Pakistan,2013,Developing,66,163,23.9,0.538,7.7
+1,Pakistan,2012,Developing,65.7,165,23.2,0.529,7.6
+1,Pakistan,2011,Developing,65.5,167,22.5,0.525,7.5
+1,Pakistan,2010,Developing,65.1,172,21.9,0.521,7.5
+1,Pakistan,2009,Developing,64.8,175,21.3,0.514,7.3
+1,Pakistan,2008,Developing,64.6,177,2.6,0.513,7.3
+1,Pakistan,2007,Developing,64.4,178,2.1,0.505,6.7
+1,Pakistan,2006,Developing,64.2,179,19.5,0.501,6.5
+1,Pakistan,2005,Developing,62.9,2,18.9,0.487,6.1
+1,Pakistan,2004,Developing,63.7,183,18.4,0.474,5.6
+1,Pakistan,2003,Developing,63.5,185,17.9,0.465,5.6
+1,Pakistan,2002,Developing,63.2,187,17.4,0.457,5.5
+1,Pakistan,2001,Developing,63,189,16.9,0.45,5.4
+1,Pakistan,2000,Developing,62.8,19,16.4,0.445,5.3
+1,Palau,2013,Developing,,,83.3,0.779,14.2
+1,Panama,2015,Developing,77.8,118,57.8,0.785,13
+1,Panama,2014,Developing,77.6,119,57.1,0.78,13
+1,Panama,2013,Developing,77.5,118,56.3,0.773,12.9
+1,Panama,2012,Developing,77.2,12,55.6,0.765,12.8
+1,Panama,2011,Developing,77.3,121,54.9,0.758,12.9
+1,Panama,2010,Developing,76.5,122,54.2,0.756,12.8
+1,Panama,2009,Developing,76.8,127,53.4,0.755,12.8
+1,Panama,2008,Developing,76.5,127,52.7,0.75,12.8
+1,Panama,2007,Developing,76.4,124,51.9,0.743,12.9
+1,Panama,2006,Developing,76.2,125,51.1,0.744,12.9
+1,Panama,2005,Developing,75.8,122,5.3,0.74,12.9
+1,Panama,2004,Developing,75.8,123,49.5,0.733,12.8
+1,Panama,2003,Developing,75.5,126,48.6,0.728,12.8
+1,Panama,2002,Developing,75.7,125,47.8,0.725,12.6
+1,Panama,2001,Developing,75.5,124,46.9,0.721,12.4
+1,Panama,2000,Developing,75.7,121,45.9,0.716,12.1
+1,Papua New Guinea,2015,Developing,62.9,275,48.6,0.515,10
+1,Papua New Guinea,2014,Developing,62.7,278,47.9,0.511,10
+1,Papua New Guinea,2013,Developing,62.4,281,47.2,0.506,10
+1,Papua New Guinea,2012,Developing,62.2,284,46.4,0.501,9.9
+1,Papua New Guinea,2011,Developing,62,285,45.7,0.494,9.9
+1,Papua New Guinea,2010,Developing,61.8,286,44.9,0.485,9.6
+1,Papua New Guinea,2009,Developing,61.6,288,44.2,0.477,9.2
+1,Papua New Guinea,2008,Developing,61.4,29,43.4,0.469,8.9
+1,Papua New Guinea,2007,Developing,61.1,295,42.7,0.461,8.6
+1,Papua New Guinea,2006,Developing,68,299,41.9,0.454,8.2
+1,Papua New Guinea,2005,Developing,64,37,41.1,0.446,7.9
+1,Papua New Guinea,2004,Developing,59.9,314,4.4,0.439,7.6
+1,Papua New Guinea,2003,Developing,59.6,321,39.6,0.433,7.2
+1,Papua New Guinea,2002,Developing,59.3,327,38.9,0.428,6.9
+1,Papua New Guinea,2001,Developing,59.1,331,38.2,0.422,6.6
+1,Papua New Guinea,2000,Developing,58.9,335,37.5,0.418,6.2
+1,Paraguay,2015,Developing,74,146,5.2,0.692,12.3
+1,Paraguay,2014,Developing,73.9,147,49.4,0.688,12.3
+1,Paraguay,2013,Developing,73.8,148,48.6,0.679,12.3
+1,Paraguay,2012,Developing,73.6,148,47.9,0.679,12.3
+1,Paraguay,2011,Developing,73.4,15,47.1,0.675,12.3
+1,Paraguay,2010,Developing,73.2,152,46.4,0.664,12.4
+1,Paraguay,2009,Developing,73,155,45.6,0.663,12.1
+1,Paraguay,2008,Developing,72.7,157,44.9,0.654,11.9
+1,Paraguay,2007,Developing,72.5,159,44.2,0.649,12
+1,Paraguay,2006,Developing,72.3,161,43.5,0.648,12.1
+1,Paraguay,2005,Developing,72.1,163,42.8,0.646,12.3
+1,Paraguay,2004,Developing,71.9,165,42,0.639,12.1
+1,Paraguay,2003,Developing,71.7,166,41.3,0.642,12.7
+1,Paraguay,2002,Developing,71.5,168,4.6,0.632,12.2
+1,Paraguay,2001,Developing,71.2,17,39.8,0.624,11.8
+1,Paraguay,2000,Developing,79,172,39.1,0.625,11.6
+1,Peru,2015,Developing,75.5,123,55.6,0.737,13.4
+1,Peru,2014,Developing,75.3,125,54.9,0.735,13.4
+1,Peru,2013,Developing,75.3,125,54.2,0.731,13.4
+1,Peru,2012,Developing,74.9,129,53.6,0.725,13.4
+1,Peru,2011,Developing,74.5,133,52.9,0.721,13.4
+1,Peru,2010,Developing,73.7,14,52.2,0.708,13.3
+1,Peru,2009,Developing,73.8,14,51.5,0.706,13.3
+1,Peru,2008,Developing,73.9,138,5.8,0.7,13.2
+1,Peru,2007,Developing,74,133,5.2,0.696,13.2
+1,Peru,2006,Developing,74.2,134,49.5,0.693,13
+1,Peru,2005,Developing,72.8,148,48.8,0.692,13
+1,Peru,2004,Developing,72.2,151,48.1,0.685,12.8
+1,Peru,2003,Developing,72.1,152,47.4,0.686,13.3
+1,Peru,2002,Developing,72.6,144,46.7,0.686,13.9
+1,Peru,2001,Developing,72.4,142,46.1,0.677,13.4
+1,Peru,2000,Developing,71.4,154,45.4,0.674,13.5
+1,Philippines,2015,Developing,68.5,211,25.4,0.679,11.7
+1,Philippines,2014,Developing,68.4,214,24.8,0.676,11.7
+1,Philippines,2013,Developing,68.1,219,24.3,0.671,11.7
+1,Philippines,2012,Developing,68.1,217,23.7,0.666,11.6
+1,Philippines,2011,Developing,68,218,23.1,0.669,11.5
+1,Philippines,2010,Developing,67.9,218,22.6,0.662,11.4
+1,Philippines,2009,Developing,68,219,22.1,0.661,11.7
+1,Philippines,2008,Developing,67.5,217,21.6,0.655,11.5
+1,Philippines,2007,Developing,67.5,216,21.1,0.648,11.4
+1,Philippines,2006,Developing,67.3,219,2.6,0.646,11.5
+1,Philippines,2005,Developing,67,223,2.1,0.642,11.6
+1,Philippines,2004,Developing,67.3,218,19.6,0.636,11.6
+1,Philippines,2003,Developing,67.2,217,19.2,0.631,11.6
+1,Philippines,2002,Developing,66.8,221,18.7,0.625,11.4
+1,Philippines,2001,Developing,66.8,221,18.3,0.622,11.4
+1,Philippines,2000,Developing,66.8,219,17.8,0.618,11.4
+1,Poland,2015,Developed,77.5,117,61.7,0.852,16.4
+1,Poland,2014,Developed,77.3,12,61.1,0.85,16.4
+1,Poland,2013,Developed,77.1,12,6.4,0.838,15.4
+1,Poland,2012,Developed,76.8,125,59.7,0.834,15.3
+1,Poland,2011,Developed,76.7,128,59.1,0.829,15.4
+1,Poland,2010,Developed,76.3,13,58.4,0.822,15.1
+1,Poland,2009,Developed,75.7,136,57.8,0.818,15.1
+1,Poland,2008,Developed,75.5,14,57.2,0.813,15
+1,Poland,2007,Developed,75.3,144,56.6,0.808,15
+1,Poland,2006,Developed,75.2,144,56,0.803,15
+1,Poland,2005,Developed,75,144,55.5,0.797,14.8
+1,Poland,2004,Developed,74.9,143,55,0.8,15.5
+1,Poland,2003,Developed,74.7,142,54.5,0.796,15.3
+1,Poland,2002,Developed,74.5,145,54,0.79,15
+1,Poland,2001,Developed,74.2,149,53.6,0.784,14.7
+1,Poland,2000,Developed,73.7,153,53.1,0.777,14.6
+1,Portugal,2015,Developed,81.1,76,61.6,0.841,16.6
+1,Portugal,2014,Developed,89,78,6.9,0.837,16.8
+1,Portugal,2013,Developed,86,79,6.2,0.827,16.3
+1,Portugal,2012,Developed,83,81,59.5,0.824,16.3
+1,Portugal,2011,Developed,82,85,58.8,0.818,16.2
+1,Portugal,2010,Developed,79.6,88,58.1,0.812,16
+1,Portugal,2009,Developed,79.3,9,57.3,0.809,16
+1,Portugal,2008,Developed,79,92,56.5,0.804,15.8
+1,Portugal,2007,Developed,78.7,94,55.7,0.797,15.4
+1,Portugal,2006,Developed,78.5,96,54.9,0.793,15.4
+1,Portugal,2005,Developed,77.7,11,54.1,0.79,15.4
+1,Portugal,2004,Developed,78,99,53.3,0.792,15.9
+1,Portugal,2003,Developed,77.3,15,52.5,0.789,15.8
+1,Portugal,2002,Developed,77.2,17,51.7,0.788,15.9
+1,Portugal,2001,Developed,76.9,11,5.9,0.782,15.7
+1,Portugal,2000,Developed,76.6,11,5.1,0.777,15.5
+1,Qatar,2015,Developing,78.2,68,69.3,0.855,13.4
+1,Qatar,2014,Developing,78.1,69,68.4,0.854,13.4
+1,Qatar,2013,Developing,77.9,7,67.7,0.843,13.4
+1,Qatar,2012,Developing,77.8,72,67,0.837,13.4
+1,Qatar,2011,Developing,77.5,74,66.5,0.827,12.4
+1,Qatar,2010,Developing,77.3,76,66,0.825,12
+1,Qatar,2009,Developing,77,79,65.6,0.828,11.8
+1,Qatar,2008,Developing,76.8,82,65.2,0.825,11.7
+1,Qatar,2007,Developing,76.7,83,65.1,0.83,12.6
+1,Qatar,2006,Developing,76.6,83,65,0.835,13.7
+1,Qatar,2005,Developing,76.6,84,65.1,0.83,13.7
+1,Qatar,2004,Developing,76.6,84,65,0.826,13.5
+1,Qatar,2003,Developing,76.5,85,64.7,0.815,12.8
+1,Qatar,2002,Developing,76.4,85,64.1,0.807,12.2
+1,Qatar,2001,Developing,76.3,87,63.3,0.809,12.6
+1,Qatar,2000,Developing,76.2,88,62.4,0.808,13
+1,Republic of Korea,2015,Developing,82.3,64,31.7,,
+1,Republic of Korea,2014,Developing,82,66,31.2,,
+1,Republic of Korea,2013,Developing,81.7,68,3.8,,
+1,Republic of Korea,2012,Developing,81.2,69,3.4,,
+1,Republic of Korea,2011,Developing,81.1,72,3,,
+1,Republic of Korea,2010,Developing,87,74,29.5,,
+1,Republic of Korea,2009,Developing,86,75,29.1,,
+1,Republic of Korea,2008,Developing,83,75,28.6,,
+1,Republic of Korea,2007,Developing,79.8,77,28.2,,
+1,Republic of Korea,2006,Developing,79.4,79,27.7,,
+1,Republic of Korea,2005,Developing,78.7,84,27.2,,
+1,Republic of Korea,2004,Developing,78.2,89,26.7,,
+1,Republic of Korea,2003,Developing,77.6,95,26.2,,
+1,Republic of Korea,2002,Developing,77.1,99,25.7,,
+1,Republic of Korea,2001,Developing,76.7,17,25.2,,
+1,Republic of Korea,2000,Developing,76,116,24.7,,
+1,Republic of Moldova,2015,Developing,72.1,157,53.4,,
+1,Republic of Moldova,2014,Developing,71.8,162,52.7,,
+1,Republic of Moldova,2013,Developing,71.7,163,52.1,,
+1,Republic of Moldova,2012,Developing,79,175,51.5,,
+1,Republic of Moldova,2011,Developing,77,177,5.9,,
+1,Republic of Moldova,2010,Developing,68.8,219,5.4,,
+1,Republic of Moldova,2009,Developing,69,218,49.9,,
+1,Republic of Moldova,2008,Developing,68.9,228,49.5,,
+1,Republic of Moldova,2007,Developing,68.3,237,49.1,,
+1,Republic of Moldova,2006,Developing,68,242,48.7,,
+1,Republic of Moldova,2005,Developing,67.3,248,48.3,,
+1,Republic of Moldova,2004,Developing,68,225,47.9,,
+1,Republic of Moldova,2003,Developing,67.6,226,47.6,,
+1,Republic of Moldova,2002,Developing,67.5,225,47.2,,
+1,Republic of Moldova,2001,Developing,67.6,228,46.8,,
+1,Republic of Moldova,2000,Developing,67.1,235,46.5,,
+1,Romania,2015,Developed,75,133,6.7,0.798,14.7
+1,Romania,2014,Developed,74.8,135,59.9,0.797,14.7
+1,Romania,2013,Developed,74.6,138,59.2,0.794,14.7
+1,Romania,2012,Developed,74.4,138,58.4,0.797,15.3
+1,Romania,2011,Developed,74.3,139,57.7,0.798,15.7
+1,Romania,2010,Developed,73.4,153,56.9,0.797,15.8
+1,Romania,2009,Developed,73.1,158,56.3,0.795,15.4
+1,Romania,2008,Developed,73.1,159,55.6,0.78,14.7
+1,Romania,2007,Developed,72.9,154,55,0.766,14.1
+1,Romania,2006,Developed,72.5,157,54.4,0.755,13.7
+1,Romania,2005,Developed,71.9,162,53.9,0.745,13.4
+1,Romania,2004,Developed,71.7,165,53.4,0.733,12.9
+1,Romania,2003,Developed,71.1,174,52.9,0.722,12.5
+1,Romania,2002,Developed,77,178,52.4,0.714,12
+1,Romania,2001,Developed,78,179,51.9,0.708,11.7
+1,Romania,2000,Developed,77,175,51.4,0.703,11.5
+1,Russian Federation,2015,Developing,75,222,6.5,0.805,15
+1,Russian Federation,2014,Developing,73,225,59.9,0.803,14.9
+1,Russian Federation,2013,Developing,70,229,59.3,0.799,14.6
+1,Russian Federation,2012,Developing,69.6,237,58.7,0.792,14.3
+1,Russian Federation,2011,Developing,69.4,242,58.1,0.785,14
+1,Russian Federation,2010,Developing,68.4,256,57.5,0.773,13.7
+1,Russian Federation,2009,Developing,68.2,261,57,0.776,14
+1,Russian Federation,2008,Developing,67.5,278,56.6,0.769,13.9
+1,Russian Federation,2007,Developing,67.3,282,56.1,0.761,13.8
+1,Russian Federation,2006,Developing,66.4,3,55.7,0.754,13.8
+1,Russian Federation,2005,Developing,65,327,55.3,0.748,13.7
+1,Russian Federation,2004,Developing,64.9,321,55,0.741,13.6
+1,Russian Federation,2003,Developing,64.6,322,54.7,0.733,13.2
+1,Russian Federation,2002,Developing,64.8,313,54.5,0.727,12.8
+1,Russian Federation,2001,Developing,65.1,38,54.2,0.72,12.5
+1,Russian Federation,2000,Developing,65,37,54,0.709,12.1
+1,Rwanda,2015,Developing,66.1,227,21.4,0.493,10.8
+1,Rwanda,2014,Developing,65.7,23,2.8,0.488,10.8
+1,Rwanda,2013,Developing,65.2,233,2.1,0.485,10.8
+1,Rwanda,2012,Developing,64.6,239,19.5,0.475,10.5
+1,Rwanda,2011,Developing,63.8,247,18.9,0.464,10.2
+1,Rwanda,2010,Developing,62.8,26,18.3,0.454,10
+1,Rwanda,2009,Developing,61,288,17.7,0.447,10.2
+1,Rwanda,2008,Developing,68,282,17.1,0.438,10.4
+1,Rwanda,2007,Developing,59.6,295,16.5,0.424,10.1
+1,Rwanda,2006,Developing,57.6,328,15.9,0.404,9.3
+1,Rwanda,2005,Developing,55.3,37,15.4,0.388,8.8
+1,Rwanda,2004,Developing,53.4,397,14.9,0.371,8.2
+1,Rwanda,2003,Developing,52,48,14.5,0.359,7.6
+1,Rwanda,2002,Developing,57,415,14.1,0.343,7.2
+1,Rwanda,2001,Developing,48.6,438,13.7,0.332,7.1
+1,Rwanda,2000,Developing,48.3,426,13.2,0.318,6.6
+1,Saint Kitts and Nevis,2013,Developing,,,5.2,0.749,13.4
+1,Saint Lucia,2015,Developing,75.2,138,47.5,0.735,13.1
+1,Saint Lucia,2014,Developing,75,139,46.7,0.723,13.1
+1,Saint Lucia,2013,Developing,74.8,141,45.9,0.734,13.1
+1,Saint Lucia,2012,Developing,74.7,142,45.2,0.735,13
+1,Saint Lucia,2011,Developing,74.6,143,44.5,0.733,12.9
+1,Saint Lucia,2010,Developing,74.2,147,43.8,0.724,12.8
+1,Saint Lucia,2009,Developing,74.3,147,43,0.717,12.7
+1,Saint Lucia,2008,Developing,74.1,149,42.2,0.71,12.6
+1,Saint Lucia,2007,Developing,73.9,151,41.3,0.707,12.8
+1,Saint Lucia,2006,Developing,73.5,155,4.4,0.694,12.4
+1,Saint Lucia,2005,Developing,73.1,16,39.6,0.689,12.2
+1,Saint Lucia,2004,Developing,72.6,166,39,0.686,12.3
+1,Saint Lucia,2003,Developing,72.2,171,38.4,0.684,12.4
+1,Saint Lucia,2002,Developing,72,174,37.9,0.681,12.5
+1,Saint Lucia,2001,Developing,71.8,178,37.3,0.684,12.6
+1,Saint Lucia,2000,Developing,71.6,183,36.8,0,12.8
+1,Saint Vincent and the Grenadines,2015,Developing,73.2,156,54.1,0.72,13.3
+1,Saint Vincent and the Grenadines,2014,Developing,73.1,157,53.1,0.72,13.3
+1,Saint Vincent and the Grenadines,2013,Developing,72.7,161,52.2,0.717,13.3
+1,Saint Vincent and the Grenadines,2012,Developing,72.8,159,51.2,0.713,13.3
+1,Saint Vincent and the Grenadines,2011,Developing,72.7,16,5.3,0.712,13.3
+1,Saint Vincent and the Grenadines,2010,Developing,72.5,162,49.3,0.711,13.3
+1,Saint Vincent and the Grenadines,2009,Developing,72.3,165,48.4,0.709,13.3
+1,Saint Vincent and the Grenadines,2008,Developing,72.1,167,47.5,0.704,13.3
+1,Saint Vincent and the Grenadines,2007,Developing,71.9,17,46.6,0.702,13.3
+1,Saint Vincent and the Grenadines,2006,Developing,71.7,173,45.7,0.695,13.3
+1,Saint Vincent and the Grenadines,2005,Developing,71.4,177,44.7,0.692,13.3
+1,Saint Vincent and the Grenadines,2004,Developing,71.2,181,43.8,0.689,13.2
+1,Saint Vincent and the Grenadines,2003,Developing,71,184,42.9,0.682,13
+1,Saint Vincent and the Grenadines,2002,Developing,79,186,42,0.677,12.9
+1,Saint Vincent and the Grenadines,2001,Developing,79,186,41,0.673,12.8
+1,Saint Vincent and the Grenadines,2000,Developing,79,186,4.1,0,12.7
+1,Samoa,2015,Developing,74,125,74.7,0.702,12.9
+1,Samoa,2014,Developing,73.8,128,74.3,0.701,12.9
+1,Samoa,2013,Developing,73.6,131,73.8,0.7,12.9
+1,Samoa,2012,Developing,73.2,136,73.4,0.698,12.9
+1,Samoa,2011,Developing,73,139,72.9,0.693,12.9
+1,Samoa,2010,Developing,72.6,144,72.5,0.69,12.9
+1,Samoa,2009,Developing,76,172,72,0.691,12.9
+1,Samoa,2008,Developing,72.5,146,71.4,0.688,12.9
+1,Samoa,2007,Developing,72.2,149,7.9,0.682,12.9
+1,Samoa,2006,Developing,72,153,7.3,0.677,12.7
+1,Samoa,2005,Developing,71.6,16,69.7,0.671,12.6
+1,Samoa,2004,Developing,71.4,162,68.9,0.665,12.4
+1,Samoa,2003,Developing,79,169,68.2,0.659,12.3
+1,Samoa,2002,Developing,76,174,67.4,0.653,12.1
+1,Samoa,2001,Developing,75,175,66.5,0.645,12
+1,Samoa,2000,Developing,72,18,65.6,0.64,12.1
+1,San Marino,2013,Developing,,,,,15.1
+1,Sao Tome and Principe,2015,Developing,67.5,19,3.9,0.565,11.2
+1,Sao Tome and Principe,2014,Developing,67.3,191,3.1,0.562,11.1
+1,Sao Tome and Principe,2013,Developing,67.1,192,29.3,0.559,11
+1,Sao Tome and Principe,2012,Developing,66.9,194,28.5,0.553,10.8
+1,Sao Tome and Principe,2011,Developing,66.6,198,27.7,0.546,10.6
+1,Sao Tome and Principe,2010,Developing,66.2,24,26.9,0.542,10.6
+1,Sao Tome and Principe,2009,Developing,65.8,21,26.2,0.533,10.1
+1,Sao Tome and Principe,2008,Developing,65.4,215,25.4,0.531,10.4
+1,Sao Tome and Principe,2007,Developing,65.1,217,24.7,0.527,10.3
+1,Sao Tome and Principe,2006,Developing,64.7,22,24,0.521,10.2
+1,Sao Tome and Principe,2005,Developing,64.3,222,23.4,0.514,10
+1,Sao Tome and Principe,2004,Developing,63.8,224,22.8,0.509,9.8
+1,Sao Tome and Principe,2003,Developing,63.4,225,22.2,0.504,9.7
+1,Sao Tome and Principe,2002,Developing,63.1,226,21.7,0.501,9.6
+1,Sao Tome and Principe,2001,Developing,62.8,225,21.1,0.497,9.4
+1,Sao Tome and Principe,2000,Developing,62.6,224,2.7,0.488,9.3
+1,Saudi Arabia,2015,Developing,74.5,88,68.2,0.845,16.1
+1,Saudi Arabia,2014,Developing,74.4,88,67.3,0.841,15.8
+1,Saudi Arabia,2013,Developing,74.3,89,66.4,0.83,15.2
+1,Saudi Arabia,2012,Developing,74.1,9,65.6,0.818,14.5
+1,Saudi Arabia,2011,Developing,73.9,92,64.7,0.804,13.9
+1,Saudi Arabia,2010,Developing,73.7,94,63.9,0.792,13.3
+1,Saudi Arabia,2009,Developing,73.4,97,63.1,0.787,13
+1,Saudi Arabia,2008,Developing,73.3,98,62.4,0.779,12.8
+1,Saudi Arabia,2007,Developing,73.2,99,61.6,0.773,12.7
+1,Saudi Arabia,2006,Developing,73.2,1,6.9,0.767,12.5
+1,Saudi Arabia,2005,Developing,73.1,11,6.2,0.761,12.4
+1,Saudi Arabia,2004,Developing,73.1,12,59.4,0.754,12.3
+1,Saudi Arabia,2003,Developing,73,13,58.5,0.747,12.2
+1,Saudi Arabia,2002,Developing,72.9,15,57.7,0.745,12.1
+1,Saudi Arabia,2001,Developing,72.8,17,56.9,0.742,12
+1,Saudi Arabia,2000,Developing,72.6,11,56.2,0.737,11.8
+1,Senegal,2015,Developing,66.7,188,24.3,0.491,9.5
+1,Senegal,2014,Developing,66.4,192,23.8,0.483,9.1
+1,Senegal,2013,Developing,66,196,23.2,0.474,8.7
+1,Senegal,2012,Developing,65.6,2,22.7,0.463,8.3
+1,Senegal,2011,Developing,64.9,26,22.2,0.455,7.9
+1,Senegal,2010,Developing,64.3,212,21.7,0.449,7.7
+1,Senegal,2009,Developing,63.5,219,21.2,0.444,7.5
+1,Senegal,2008,Developing,62.8,225,2.8,0.435,7.1
+1,Senegal,2007,Developing,62.1,23,2.3,0.425,6.8
+1,Senegal,2006,Developing,61.3,236,19.9,0.422,6.6
+1,Senegal,2005,Developing,65,242,19.5,0.415,6.4
+1,Senegal,2004,Developing,59.7,247,19.1,0.408,6.2
+1,Senegal,2003,Developing,59,251,18.7,0.401,5.9
+1,Senegal,2002,Developing,58.4,252,18.3,0.397,5.7
+1,Senegal,2001,Developing,57.9,251,17.9,0.381,5.4
+1,Senegal,2000,Developing,57.5,25,17.5,0.378,5.2
+1,Serbia,2015,Developing,75.6,121,6,0.775,14.4
+1,Serbia,2014,Developing,75.4,123,59.4,0.771,14.3
+1,Serbia,2013,Developing,75.3,122,58.9,0.766,14.1
+1,Serbia,2012,Developing,74.9,126,58.3,0.767,14
+1,Serbia,2011,Developing,74.6,127,57.7,0.757,13.5
+1,Serbia,2010,Developing,74.4,128,57,0.755,13.6
+1,Serbia,2009,Developing,74.1,131,56.4,0.754,13.6
+1,Serbia,2008,Developing,74,132,55.8,0.749,13.5
+1,Serbia,2007,Developing,73.8,132,55.1,0.743,13.5
+1,Serbia,2006,Developing,73.6,133,54.5,0.739,13.4
+1,Serbia,2005,Developing,73,135,53.9,0.73,13.2
+1,Serbia,2004,Developing,73,134,53.3,0.72,13.1
+1,Serbia,2003,Developing,73,134,52.8,0.715,13
+1,Serbia,2002,Developing,72.9,133,52.2,0.715,13.2
+1,Serbia,2001,Developing,73.1,135,51.7,0.709,13.1
+1,Serbia,2000,Developing,72.6,141,51.2,0.702,13
+1,Seychelles,2015,Developing,73.2,168,37.4,0.781,14.1
+1,Seychelles,2014,Developing,73,17,36.2,0.766,13.2
+1,Seychelles,2013,Developing,72.9,172,35.5,0.762,13.5
+1,Seychelles,2012,Developing,72.7,174,34.8,0.755,13.5
+1,Seychelles,2011,Developing,72.6,177,34.2,0.744,13.3
+1,Seychelles,2010,Developing,72.4,18,33.5,0.74,13.2
+1,Seychelles,2009,Developing,72.3,182,32.4,0.739,13.2
+1,Seychelles,2008,Developing,72.2,184,31.8,0.739,13.2
+1,Seychelles,2007,Developing,72.2,185,31.2,0.733,13.1
+1,Seychelles,2006,Developing,72.2,185,3.7,0.728,13.1
+1,Seychelles,2005,Developing,72.2,185,3.1,0.712,12.1
+1,Seychelles,2004,Developing,72.1,186,29.2,0.715,12.3
+1,Seychelles,2003,Developing,72.1,185,28.7,0.713,12.1
+1,Seychelles,2002,Developing,72.1,186,28.1,0.712,12.1
+1,Seychelles,2001,Developing,72,187,27.6,0.714,12.2
+1,Seychelles,2000,Developing,71.8,188,27.1,0,12.3
+1,Sierra Leone,2015,Developing,51,413,24.4,0.431,9.5
+1,Sierra Leone,2014,Developing,48.1,463,23.8,0.426,9.5
+1,Sierra Leone,2013,Developing,54,47,23.3,0.413,9.3
+1,Sierra Leone,2012,Developing,49.7,411,22.7,0.401,9.1
+1,Sierra Leone,2011,Developing,48.9,418,22.2,0.392,8.9
+1,Sierra Leone,2010,Developing,48.1,424,21.7,0.384,8.7
+1,Sierra Leone,2009,Developing,47.1,433,21.2,0.375,8.5
+1,Sierra Leone,2008,Developing,46.2,441,2.7,0.367,8.3
+1,Sierra Leone,2007,Developing,45.3,45,2.2,0.357,8.2
+1,Sierra Leone,2006,Developing,44.3,464,19.7,0.348,8
+1,Sierra Leone,2005,Developing,43.3,48,19.2,0.341,7.8
+1,Sierra Leone,2004,Developing,42.3,496,18.8,0.332,7.6
+1,Sierra Leone,2003,Developing,41.5,57,18.4,0.322,7.4
+1,Sierra Leone,2002,Developing,48,513,17.9,0.306,7.2
+1,Sierra Leone,2001,Developing,41,519,17.5,0.302,7
+1,Sierra Leone,2000,Developing,39,533,17.2,0.292,6.7
+1,Singapore,2015,Developed,83.1,55,33.2,0.924,15.4
+1,Singapore,2014,Developed,82.9,56,32.9,0.922,15.4
+1,Singapore,2013,Developed,82.7,57,32.7,0.92,15.4
+1,Singapore,2012,Developed,82.5,59,32.4,0.917,15.4
+1,Singapore,2011,Developed,82.2,6,32.1,0.911,15.2
+1,Singapore,2010,Developed,82,61,31.8,0.889,14.5
+1,Singapore,2009,Developed,81.7,62,31.5,0.887,14.4
+1,Singapore,2008,Developed,81.4,64,31.2,0.88,14.2
+1,Singapore,2007,Developed,81.1,65,3.9,0.873,14.1
+1,Singapore,2006,Developed,87,66,3.5,0.839,13.9
+1,Singapore,2005,Developed,82,69,3.2,0.821,12.6
+1,Singapore,2004,Developed,79.7,71,29.9,0.82,12.7
+1,Singapore,2003,Developed,79.3,73,29.6,0.819,12.7
+1,Singapore,2002,Developed,79,74,29.2,0.818,12.6
+1,Singapore,2001,Developed,78.7,76,28.9,0.82,12.7
+1,Singapore,2000,Developed,78.3,78,28.5,0.81,12.5
+1,Slovakia,2015,Developed,76.7,19,59.1,0.842,15
+1,Slovakia,2014,Developed,76.4,113,58.4,0.841,15.1
+1,Slovakia,2013,Developed,76.1,114,57.8,0.838,15
+1,Slovakia,2012,Developed,75.8,118,57.2,0.835,15
+1,Slovakia,2011,Developed,75.6,122,56.5,0.829,15
+1,Slovakia,2010,Developed,75.1,124,55.9,0.822,15
+1,Slovakia,2009,Developed,75,131,55.3,0.82,14.9
+1,Slovakia,2008,Developed,74.7,136,54.8,0.813,14.8
+1,Slovakia,2007,Developed,74.4,14,54.2,0.802,14.5
+1,Slovakia,2006,Developed,74.3,138,53.7,0.793,14.3
+1,Slovakia,2005,Developed,74,141,53.1,0.784,14
+1,Slovakia,2004,Developed,74.1,138,52.6,0.776,13.8
+1,Slovakia,2003,Developed,73.8,144,52.1,0.771,13.6
+1,Slovakia,2002,Developed,73.7,145,51.6,0.763,13.3
+1,Slovakia,2001,Developed,73.3,145,51.1,0.763,13.3
+1,Slovakia,2000,Developed,73,147,5.7,0.761,13
+1,Slovenia,2015,Developed,88,74,6.1,0.888,17.3
+1,Slovenia,2014,Developed,87,76,59.5,0.888,17.6
+1,Slovenia,2013,Developed,85,78,58.9,0.878,16.8
+1,Slovenia,2012,Developed,82,81,58.2,0.877,16.8
+1,Slovenia,2011,Developed,79.8,84,57.6,0.876,17
+1,Slovenia,2010,Developed,79.5,87,57,0.872,16.9
+1,Slovenia,2009,Developed,79.1,9,56.4,0.873,16.9
+1,Slovenia,2008,Developed,78.9,96,55.8,0.869,16.9
+1,Slovenia,2007,Developed,78.3,12,55.2,0.865,16.8
+1,Slovenia,2006,Developed,78.1,17,54.7,0.858,16.7
+1,Slovenia,2005,Developed,77.5,14,54.1,0.853,16.3
+1,Slovenia,2004,Developed,77.2,113,53.5,0.85,16.6
+1,Slovenia,2003,Developed,76.5,119,52.9,0.843,16.1
+1,Slovenia,2002,Developed,76.6,117,52.3,0.835,15.6
+1,Slovenia,2001,Developed,76.2,124,51.8,0.824,14.7
+1,Slovenia,2000,Developed,76,122,51.2,0.818,14.6
+1,Solomon Islands,2015,Developing,69.2,177,5.5,0.514,9.6
+1,Solomon Islands,2014,Developing,68.8,183,49.7,0.512,9.6
+1,Solomon Islands,2013,Developing,68.8,182,48.9,0.509,9.5
+1,Solomon Islands,2012,Developing,68.7,184,48.1,0.505,9.4
+1,Solomon Islands,2011,Developing,68.5,186,47.2,0.497,9.4
+1,Solomon Islands,2010,Developing,68.3,188,46.4,0.492,9.3
+1,Solomon Islands,2009,Developing,68.1,192,45.5,0.494,9.3
+1,Solomon Islands,2008,Developing,68,193,44.7,0.489,9.2
+1,Solomon Islands,2007,Developing,67.6,2,43.8,0.482,9
+1,Solomon Islands,2006,Developing,67.6,2,43,0.47,8.4
+1,Solomon Islands,2005,Developing,67.4,24,42.1,0.465,8.3
+1,Solomon Islands,2004,Developing,67.1,29,41.3,0.459,8.1
+1,Solomon Islands,2003,Developing,66.8,215,4.4,0.453,8
+1,Solomon Islands,2002,Developing,66.5,22,39.6,0.446,7.3
+1,Solomon Islands,2001,Developing,66.2,227,38.7,0.442,6.6
+1,Solomon Islands,2000,Developing,65.8,235,37.9,0.455,7.2
+1,Somalia,2015,Developing,55,312,24.3,,
+1,Somalia,2014,Developing,54.3,321,23.8,,
+1,Somalia,2013,Developing,54.2,318,23.3,,
+1,Somalia,2012,Developing,53.1,336,22.9,,
+1,Somalia,2011,Developing,53.1,329,22.4,,
+1,Somalia,2010,Developing,52.4,336,22,,
+1,Somalia,2009,Developing,52.2,335,21.5,,
+1,Somalia,2008,Developing,51.9,336,21.1,,
+1,Somalia,2007,Developing,51.5,34,2.7,,
+1,Somalia,2006,Developing,51.5,337,2.2,,
+1,Somalia,2005,Developing,51.6,334,19.8,,
+1,Somalia,2004,Developing,51.2,341,19.4,,
+1,Somalia,2003,Developing,51.1,344,19,,
+1,Somalia,2002,Developing,58,348,18.6,,
+1,Somalia,2001,Developing,57,352,18.2,,
+1,Somalia,2000,Developing,55,355,17.8,,
+1,South Africa,2015,Developing,62.9,328,51.1,0.665,13
+1,South Africa,2014,Developing,62,347,5.3,0.66,13
+1,South Africa,2013,Developing,69,371,49.5,0.652,12.8
+1,South Africa,2012,Developing,59.2,48,48.7,0.644,12.8
+1,South Africa,2011,Developing,58.9,413,47.9,0.638,12.8
+1,South Africa,2010,Developing,58,428,47.2,0.63,12.8
+1,South Africa,2009,Developing,56.5,449,46.4,0.622,12.8
+1,South Africa,2008,Developing,55.3,473,45.7,0.616,12.9
+1,South Africa,2007,Developing,54.5,486,45,0.612,12.9
+1,South Africa,2006,Developing,54,496,44.3,0.609,12.9
+1,South Africa,2005,Developing,53.8,498,43.6,0.609,12.9
+1,South Africa,2004,Developing,53.7,497,42.9,0.611,12.9
+1,South Africa,2003,Developing,54,485,42.2,0.613,12.9
+1,South Africa,2002,Developing,54.9,459,41.6,0.62,12.9
+1,South Africa,2001,Developing,56,429,4.9,0.629,13
+1,South Africa,2000,Developing,57.3,397,4.1,0.635,13
+1,South Sudan,2015,Developing,57.3,332,,0.421,4.9
+1,South Sudan,2014,Developing,56.6,343,,0.421,4.9
+1,South Sudan,2013,Developing,56.4,345,,0.417,4.9
+1,South Sudan,2012,Developing,56,347,,0.419,4.9
+1,South Sudan,2011,Developing,55.4,355,,0.429,4.9
+1,South Sudan,2010,Developing,55,359,,0,0
+1,South Sudan,2009,Developing,54.3,369,,0,0
+1,South Sudan,2008,Developing,53.6,377,,0,0
+1,South Sudan,2007,Developing,53.1,381,,0,0
+1,South Sudan,2006,Developing,52.5,383,,0,0
+1,South Sudan,2005,Developing,51.9,383,,0,0
+1,South Sudan,2004,Developing,51.4,383,,0,0
+1,South Sudan,2003,Developing,58,383,,0,0
+1,South Sudan,2002,Developing,52,382,,0,0
+1,South Sudan,2001,Developing,49.6,381,,0,0
+1,South Sudan,2000,Developing,48.9,38,,0,0
+1,Spain,2015,Developed,82.8,56,66.6,0.882,17.7
+1,Spain,2014,Developed,82.6,58,66,0.877,17.6
+1,Spain,2013,Developed,82.4,6,65.4,0.874,17.5
+1,Spain,2012,Developed,82,61,64.8,0.871,17.2
+1,Spain,2011,Developed,82.1,63,64.1,0.867,16.9
+1,Spain,2010,Developed,81.9,64,63.5,0.86,16.4
+1,Spain,2009,Developed,81.6,66,62.9,0.858,16.3
+1,Spain,2008,Developed,81.3,7,62.3,0.854,16.1
+1,Spain,2007,Developed,89,72,61.7,0.849,16
+1,Spain,2006,Developed,88,73,61.1,0.844,15.9
+1,Spain,2005,Developed,81,77,6.5,0.837,15.8
+1,Spain,2004,Developed,81,79,59.9,0.833,15.6
+1,Spain,2003,Developed,79.4,83,59.3,0.83,15.6
+1,Spain,2002,Developed,79.5,83,58.8,0.828,15.7
+1,Spain,2001,Developed,79.4,84,58.2,0.825,15.7
+1,Spain,2000,Developed,79.1,86,57.6,0.82,15.7
+1,Sri Lanka,2015,Developing,74.9,138,23.4,0.764,14
+1,Sri Lanka,2014,Developing,74.7,141,22.7,0.76,14
+1,Sri Lanka,2013,Developing,74.6,142,21.9,0.757,13.8
+1,Sri Lanka,2012,Developing,74.5,143,21.2,0.752,13.7
+1,Sri Lanka,2011,Developing,74.5,141,2.5,0.746,13.6
+1,Sri Lanka,2010,Developing,74.5,138,19.8,0.739,13.5
+1,Sri Lanka,2009,Developing,71.8,183,19.2,0.735,13.4
+1,Sri Lanka,2008,Developing,72.3,172,18.5,0.731,13.3
+1,Sri Lanka,2007,Developing,73.7,146,17.9,0.725,13.2
+1,Sri Lanka,2006,Developing,73.8,145,17.2,0.718,13.1
+1,Sri Lanka,2005,Developing,74.2,138,16.6,0.712,12.9
+1,Sri Lanka,2004,Developing,69.1,197,16.1,0.705,12.8
+1,Sri Lanka,2003,Developing,73.9,146,15.6,0.697,12.7
+1,Sri Lanka,2002,Developing,73.7,149,15.1,0.699,12.6
+1,Sri Lanka,2001,Developing,72.7,16,14.6,0.686,12.5
+1,Sri Lanka,2000,Developing,71.5,175,14.1,0.677,12.4
+1,Sudan,2015,Developing,64.1,225,,0.488,7.2
+1,Sudan,2014,Developing,63.8,229,,0.485,7.2
+1,Sudan,2013,Developing,63.5,232,,0.478,7
+1,Sudan,2012,Developing,63.2,235,,0.468,6.8
+1,Sudan,2011,Developing,62.7,241,,0.463,7
+1,Sudan,2010,Developing,62.5,243,,0.461,7
+1,Sudan,2009,Developing,62,248,,0.456,6.8
+1,Sudan,2008,Developing,61.8,251,,0.444,6.3
+1,Sudan,2007,Developing,61.4,254,,0.44,6.4
+1,Sudan,2006,Developing,61,26,,0.43,6.2
+1,Sudan,2005,Developing,67,261,,0.423,6.1
+1,Sudan,2004,Developing,59.7,278,,0.415,5.7
+1,Sudan,2003,Developing,59.6,278,,0.409,5.6
+1,Sudan,2002,Developing,59.4,277,,0.403,5.6
+1,Sudan,2001,Developing,58.9,283,,0.399,5.6
+1,Sudan,2000,Developing,58.6,284,,0.394,5.5
+1,Suriname,2015,Developing,71.6,176,58.3,0.723,12.7
+1,Suriname,2014,Developing,71.4,178,57.7,0.722,12.7
+1,Suriname,2013,Developing,71.2,179,57,0.719,12.7
+1,Suriname,2012,Developing,71.3,178,56.3,0.708,12.7
+1,Suriname,2011,Developing,76,187,55.5,0.704,12.5
+1,Suriname,2010,Developing,73,19,54.8,0.7,12.3
+1,Suriname,2009,Developing,70,196,54.1,0.696,12.1
+1,Suriname,2008,Developing,69.8,196,53.3,0.691,11.9
+1,Suriname,2007,Developing,69.5,22,52.6,0.684,11.7
+1,Suriname,2006,Developing,69.3,199,51.8,0.678,11.5
+1,Suriname,2005,Developing,68.9,25,51.1,0.672,11.3
+1,Suriname,2004,Developing,68.3,214,5.4,0,11.1
+1,Suriname,2003,Developing,68,223,49.7,0,10.9
+1,Suriname,2002,Developing,67.9,221,49,0,11
+1,Suriname,2001,Developing,67.7,219,48.3,0,11
+1,Suriname,2000,Developing,67.4,224,47.6,0,11.1
+1,Swaziland,2015,Developing,58.9,373,32.3,0.541,11.4
+1,Swaziland,2014,Developing,58.4,382,31.8,0.541,11.4
+1,Swaziland,2013,Developing,57.6,393,31.2,0.539,11.4
+1,Swaziland,2012,Developing,56.5,412,3.7,0.534,11.3
+1,Swaziland,2011,Developing,55,438,3.2,0.526,11.2
+1,Swaziland,2010,Developing,53.6,459,29.7,0.523,11
+1,Swaziland,2009,Developing,52.6,46,29.3,0.519,10.8
+1,Swaziland,2008,Developing,51.4,477,28.9,0.514,10.6
+1,Swaziland,2007,Developing,50,51,28.5,0.508,10.5
+1,Swaziland,2006,Developing,47.8,564,28.2,0.502,9.9
+1,Swaziland,2005,Developing,46,63,27.8,0.495,9.7
+1,Swaziland,2004,Developing,45.6,69,27.4,0.492,9.4
+1,Swaziland,2003,Developing,45.9,6,27.1,0.493,9.1
+1,Swaziland,2002,Developing,46.4,587,26.7,0.502,9.2
+1,Swaziland,2001,Developing,47.1,568,26.3,0.506,9.3
+1,Swaziland,2000,Developing,48.4,536,25.9,0.516,9.4
+1,Sweden,2015,Developed,82.4,53,59.5,0.909,15.9
+1,Sweden,2014,Developed,82.3,54,59,0.906,15.8
+1,Sweden,2013,Developed,81.9,57,58.5,0.904,15.8
+1,Sweden,2012,Developed,81.7,57,58.1,0.903,15.8
+1,Sweden,2011,Developed,81.7,58,57.7,0.901,16
+1,Sweden,2010,Developed,81.5,58,57.3,0.895,15.8
+1,Sweden,2009,Developed,81.4,62,56.9,0.898,15.8
+1,Sweden,2008,Developed,81.1,62,56.5,0.897,15.7
+1,Sweden,2007,Developed,89,63,56.1,0.895,15.8
+1,Sweden,2006,Developed,88,64,55.7,0.892,15.9
+1,Sweden,2005,Developed,85,66,55.3,0.89,16
+1,Sweden,2004,Developed,83,7,54.9,0.888,16
+1,Sweden,2003,Developed,82,69,54.4,0.882,15.9
+1,Sweden,2002,Developed,79.9,71,53.9,0.88,15.9
+1,Sweden,2001,Developed,79.8,73,53.4,0.877,15.9
+1,Sweden,2000,Developed,79.6,73,52.8,0.873,15.9
+1,Switzerland,2015,Developed,83.4,49,57.4,0.938,16
+1,Switzerland,2014,Developed,83.2,51,57,0.936,15.9
+1,Switzerland,2013,Developed,83,52,56.6,0.934,15.8
+1,Switzerland,2012,Developed,82.7,54,56.2,0.932,15.7
+1,Switzerland,2011,Developed,82.6,55,55.8,0.932,15.6
+1,Switzerland,2010,Developed,82.3,57,55.4,0.92,15.4
+1,Switzerland,2009,Developed,82.1,6,55,0.916,15.3
+1,Switzerland,2008,Developed,82,6,54.6,0.914,15.3
+1,Switzerland,2007,Developed,81.7,63,54.1,0.911,15.3
+1,Switzerland,2006,Developed,81.5,65,53.7,0.904,15.2
+1,Switzerland,2005,Developed,81.1,66,53.2,0.899,15.2
+1,Switzerland,2004,Developed,81,69,52.8,0.895,15.1
+1,Switzerland,2003,Developed,85,72,52.3,0.889,15
+1,Switzerland,2002,Developed,84,74,51.8,0.89,15.2
+1,Switzerland,2001,Developed,82,75,51.3,0.888,15.2
+1,Switzerland,2000,Developed,79.7,78,5.8,0.879,15.1
+1,Syrian Arab Republic,2015,Developing,64.5,293,57.1,0.553,9
+1,Syrian Arab Republic,2014,Developing,64.4,294,56.2,0.575,9
+1,Syrian Arab Republic,2013,Developing,63.6,37,55.2,0.635,13
+1,Syrian Arab Republic,2012,Developing,62.8,32,54.2,0.645,12.5
+1,Syrian Arab Republic,2011,Developing,71.7,163,53.2,0.646,12
+1,Syrian Arab Republic,2010,Developing,73.7,127,52.3,0.65,11.7
+1,Syrian Arab Republic,2009,Developing,73.8,124,51.3,0.648,11.8
+1,Syrian Arab Republic,2008,Developing,73.8,122,5.4,0.651,11.6
+1,Syrian Arab Republic,2007,Developing,73.8,121,49.4,0.644,11.5
+1,Syrian Arab Republic,2006,Developing,73.7,123,48.5,0.636,11.4
+1,Syrian Arab Republic,2005,Developing,73.5,127,47.6,0.624,11
+1,Syrian Arab Republic,2004,Developing,73.2,131,46.8,0.61,10.6
+1,Syrian Arab Republic,2003,Developing,73,134,46,0.599,10.3
+1,Syrian Arab Republic,2002,Developing,72.8,135,45.3,0.596,10.2
+1,Syrian Arab Republic,2001,Developing,72.7,135,44.6,0.589,10.1
+1,Syrian Arab Republic,2000,Developing,72.6,136,43.9,0.588,10
+1,Tajikistan,2015,Developing,69.7,161,4.7,0.625,11.3
+1,Tajikistan,2014,Developing,69.6,162,39.9,0.622,11.3
+1,Tajikistan,2013,Developing,69.3,163,39,0.617,11.2
+1,Tajikistan,2012,Developing,68.8,164,38.2,0.613,11.1
+1,Tajikistan,2011,Developing,68.1,166,37.4,0.608,11.1
+1,Tajikistan,2010,Developing,67.3,171,36.6,0.603,11.1
+1,Tajikistan,2009,Developing,66.7,174,35.9,0.601,11.1
+1,Tajikistan,2008,Developing,66.4,178,35.3,0.592,10.8
+1,Tajikistan,2007,Developing,66.1,181,34.7,0.586,10.9
+1,Tajikistan,2006,Developing,65.9,183,34.1,0.579,10.7
+1,Tajikistan,2005,Developing,65.5,194,33.5,0.572,10.6
+1,Tajikistan,2004,Developing,65.9,177,33,0.563,10.5
+1,Tajikistan,2003,Developing,65.2,182,32.5,0.553,10.1
+1,Tajikistan,2002,Developing,64.3,193,32.1,0.543,9.8
+1,Tajikistan,2001,Developing,64,194,31.6,0.535,9.7
+1,Tajikistan,2000,Developing,63.7,198,31.3,0.529,9.6
+1,Thailand,2015,Developing,74.9,148,33.6,0.738,13.6
+1,Thailand,2014,Developing,74.6,152,32.4,0.737,13.6
+1,Thailand,2013,Developing,74.5,153,31.3,0.733,13.6
+1,Thailand,2012,Developing,74.3,154,3.1,0.729,13.7
+1,Thailand,2011,Developing,74.1,155,29,0.72,13.3
+1,Thailand,2010,Developing,73.9,158,27.9,0.711,13.1
+1,Thailand,2009,Developing,73.7,16,26.8,0.706,13
+1,Thailand,2008,Developing,73.5,162,25.7,0.7,12.9
+1,Thailand,2007,Developing,73.3,165,24.6,0.687,12.3
+1,Thailand,2006,Developing,73,168,23.6,0.686,12.4
+1,Thailand,2005,Developing,72.5,177,22.6,0.682,12
+1,Thailand,2004,Developing,71.6,189,21.7,0.674,11.9
+1,Thailand,2003,Developing,71.7,189,2.9,0.666,11.8
+1,Thailand,2002,Developing,71.4,192,2.2,0.657,11.5
+1,Thailand,2001,Developing,71.2,194,19.4,0.649,11.2
+1,Thailand,2000,Developing,71.1,194,18.7,0.64,10.9
+1,The former Yugoslav republic of Macedonia,2015,Developing,75.7,12,6.3,0.746,12.9
+1,The former Yugoslav republic of Macedonia,2014,Developing,75.5,12,59.7,0.743,12.9
+1,The former Yugoslav republic of Macedonia,2013,Developing,75.3,14,59.1,0.741,12.9
+1,The former Yugoslav republic of Macedonia,2012,Developing,75.1,15,58.5,0.739,12.9
+1,The former Yugoslav republic of Macedonia,2011,Developing,74.9,17,57.9,0.735,12.9
+1,The former Yugoslav republic of Macedonia,2010,Developing,74.7,18,57.4,0.732,13
+1,The former Yugoslav republic of Macedonia,2009,Developing,74.4,111,56.9,0.73,13
+1,The former Yugoslav republic of Macedonia,2008,Developing,74.2,111,56.4,0.714,12.2
+1,The former Yugoslav republic of Macedonia,2007,Developing,73.5,12,55.9,0.709,12.2
+1,The former Yugoslav republic of Macedonia,2006,Developing,73.7,122,55.4,0.703,12.1
+1,The former Yugoslav republic of Macedonia,2005,Developing,73.6,12,54.9,0,11.9
+1,The former Yugoslav republic of Macedonia,2004,Developing,73.5,12,54.5,0,11.9
+1,The former Yugoslav republic of Macedonia,2003,Developing,73.2,126,54.1,0,11.9
+1,The former Yugoslav republic of Macedonia,2002,Developing,72.8,128,53.6,0,11.9
+1,The former Yugoslav republic of Macedonia,2001,Developing,73.1,126,53.2,0,11.8
+1,The former Yugoslav republic of Macedonia,2000,Developing,72.6,125,52.7,0,11.7
+1,Timor-Leste,2015,Developing,68.3,152,17.4,0.603,12.5
+1,Timor-Leste,2014,Developing,68,155,17,0.612,12.5
+1,Timor-Leste,2013,Developing,67.7,158,16.6,0.62,12.5
+1,Timor-Leste,2012,Developing,67.4,159,16.2,0.618,12.5
+1,Timor-Leste,2011,Developing,67.2,161,15.8,0.607,12.5
+1,Timor-Leste,2010,Developing,66.9,163,15.5,0.599,12.4
+1,Timor-Leste,2009,Developing,66.6,165,15.1,0.599,12.1
+1,Timor-Leste,2008,Developing,66.2,168,14.7,0.566,11.7
+1,Timor-Leste,2007,Developing,65.8,173,14.2,0.541,11.3
+1,Timor-Leste,2006,Developing,64.9,186,13.9,0.511,11
+1,Timor-Leste,2005,Developing,63.7,26,13.5,0.492,10.6
+1,Timor-Leste,2004,Developing,62.3,229,13.2,0.484,10.2
+1,Timor-Leste,2003,Developing,61,25,12.9,0.485,9.8
+1,Timor-Leste,2002,Developing,62,261,12.6,0.475,9.8
+1,Timor-Leste,2001,Developing,59.4,269,12.3,0.47,9.8
+1,Timor-Leste,2000,Developing,58.7,276,11.9,0,0
+1,Togo,2015,Developing,59.9,287,24.3,0.484,12
+1,Togo,2014,Developing,59.7,285,23.7,0.475,12
+1,Togo,2013,Developing,59.4,287,23.1,0.47,12
+1,Togo,2012,Developing,58.9,294,22.6,0.464,12
+1,Togo,2011,Developing,58.3,34,22,0.457,11.5
+1,Togo,2010,Developing,57.4,323,21.4,0.449,11
+1,Togo,2009,Developing,56.7,336,2.9,0.442,10.6
+1,Togo,2008,Developing,56.2,344,2.4,0.441,10.1
+1,Togo,2007,Developing,55.9,344,19.8,0.443,10.6
+1,Togo,2006,Developing,55.7,345,19.3,0.436,10.2
+1,Togo,2005,Developing,55,357,18.9,0.435,10.1
+1,Togo,2004,Developing,54.9,355,18.4,0.432,10
+1,Togo,2003,Developing,54.7,355,17.9,0.428,9.9
+1,Togo,2002,Developing,54.7,351,17.5,0.428,9.7
+1,Togo,2001,Developing,54.6,345,17.1,0.426,9.4
+1,Togo,2000,Developing,54.6,339,16.6,0.425,9.3
+1,Tonga,2015,Developing,73.5,133,75.2,0.718,14.3
+1,Tonga,2014,Developing,73.3,135,74.8,0.716,14.3
+1,Tonga,2013,Developing,73.2,137,74.3,0.718,14.3
+1,Tonga,2012,Developing,73,138,73.8,0.717,14.4
+1,Tonga,2011,Developing,72.9,14,73.3,0.712,14.4
+1,Tonga,2010,Developing,72.8,142,72.7,0.707,14.4
+1,Tonga,2009,Developing,72.5,147,72.1,0.703,14.5
+1,Tonga,2008,Developing,72.6,145,71.5,0.698,14.5
+1,Tonga,2007,Developing,72.5,146,7.8,0.698,14.5
+1,Tonga,2006,Developing,72.4,148,7.1,0.695,14.6
+1,Tonga,2005,Developing,72.3,15,69.4,0.694,14.6
+1,Tonga,2004,Developing,72.2,151,68.6,0.693,14.6
+1,Tonga,2003,Developing,72,153,67.8,0.683,13.7
+1,Tonga,2002,Developing,71.9,155,67,0.679,13.5
+1,Tonga,2001,Developing,71.8,157,66.2,0.674,13.2
+1,Tonga,2000,Developing,71.6,158,65.5,0.676,13.7
+1,Trinidad and Tobago,2015,Developing,71.2,17,47.1,0.779,12.7
+1,Trinidad and Tobago,2014,Developing,71.1,171,46,0.778,12.7
+1,Trinidad and Tobago,2013,Developing,71,172,45,0.773,12.7
+1,Trinidad and Tobago,2012,Developing,78,174,44,0.772,12.6
+1,Trinidad and Tobago,2011,Developing,76,176,43,0.774,12.6
+1,Trinidad and Tobago,2010,Developing,74,179,42,0.772,12.5
+1,Trinidad and Tobago,2009,Developing,71,183,41.1,0.773,12.5
+1,Trinidad and Tobago,2008,Developing,69.9,185,4.2,0.767,12.4
+1,Trinidad and Tobago,2007,Developing,69.7,187,39.3,0.76,12.4
+1,Trinidad and Tobago,2006,Developing,69.6,188,38.4,0.751,12.3
+1,Trinidad and Tobago,2005,Developing,69.5,189,37.6,0.745,12.3
+1,Trinidad and Tobago,2004,Developing,69.4,19,36.8,0.736,12.2
+1,Trinidad and Tobago,2003,Developing,69.3,191,36,0.729,12
+1,Trinidad and Tobago,2002,Developing,69.2,192,35.2,0.721,11.9
+1,Trinidad and Tobago,2001,Developing,69.1,194,34.4,0.715,11.8
+1,Trinidad and Tobago,2000,Developing,69.1,197,33.6,0.709,11.7
+1,Tunisia,2015,Developing,75.3,1,61.2,0.723,14.6
+1,Tunisia,2014,Developing,75.1,12,6.2,0.722,14.7
+1,Tunisia,2013,Developing,74.9,13,59.3,0.72,14.7
+1,Tunisia,2012,Developing,74.9,13,58.3,0.717,14.6
+1,Tunisia,2011,Developing,74.8,13,57.4,0.714,14.5
+1,Tunisia,2010,Developing,74.8,12,56.5,0.71,14.4
+1,Tunisia,2009,Developing,74.7,12,55.6,0.706,14.4
+1,Tunisia,2008,Developing,74.7,12,54.7,0.701,14.3
+1,Tunisia,2007,Developing,74.6,12,53.9,0.695,14.3
+1,Tunisia,2006,Developing,74.4,12,53.1,0.689,14.2
+1,Tunisia,2005,Developing,74.2,14,52.2,0.683,13.9
+1,Tunisia,2004,Developing,74,15,51.4,0.673,13.6
+1,Tunisia,2003,Developing,73.7,17,5.6,0.667,13.5
+1,Tunisia,2002,Developing,73.5,19,49.7,0.662,13.3
+1,Tunisia,2001,Developing,73.2,11,48.9,0.654,13.1
+1,Tunisia,2000,Developing,72.9,112,48.1,0.646,12.8
+1,Turkey,2015,Developing,75.8,16,66.1,0.764,14.5
+1,Turkey,2014,Developing,75.5,17,65.3,0.759,14.5
+1,Turkey,2013,Developing,75.2,19,64.5,0.754,14.4
+1,Turkey,2012,Developing,74.8,112,63.7,0.75,14.3
+1,Turkey,2011,Developing,74.5,114,62.8,0.737,13.8
+1,Turkey,2010,Developing,74.2,116,61.9,0.715,13
+1,Turkey,2009,Developing,73.9,118,61.1,0.709,12.5
+1,Turkey,2008,Developing,73.5,121,6.2,0.705,12.5
+1,Turkey,2007,Developing,73.2,124,59.3,0.697,12.3
+1,Turkey,2006,Developing,72.8,126,58.5,0.687,11.9
+1,Turkey,2005,Developing,72.4,129,57.6,0.681,11.9
+1,Turkey,2004,Developing,72,132,56.8,0.675,12
+1,Turkey,2003,Developing,71.6,135,55.9,0.668,11.9
+1,Turkey,2002,Developing,71.2,138,55.1,0.658,11.5
+1,Turkey,2001,Developing,78,14,54.3,0.653,11.1
+1,Turkey,2000,Developing,74,143,53.5,0.641,10.7
+1,Turkmenistan,2015,Developing,66.3,215,48.6,0.688,10.8
+1,Turkmenistan,2014,Developing,66,217,47.7,0.683,10.8
+1,Turkmenistan,2013,Developing,65.4,228,46.7,0.678,10.7
+1,Turkmenistan,2012,Developing,65.6,22,45.9,0.672,10.7
+1,Turkmenistan,2011,Developing,65.6,217,45,0.665,10.6
+1,Turkmenistan,2010,Developing,65.8,211,44.2,0,10.6
+1,Turkmenistan,2009,Developing,65.6,215,43.4,0,10.5
+1,Turkmenistan,2008,Developing,64.5,235,42.7,0,10.5
+1,Turkmenistan,2007,Developing,64.1,241,42,0,10.4
+1,Turkmenistan,2006,Developing,63.7,245,41.3,0,10.4
+1,Turkmenistan,2005,Developing,63.3,248,4.7,0,10.3
+1,Turkmenistan,2004,Developing,63.5,238,4,0,10.3
+1,Turkmenistan,2003,Developing,63.4,231,39.4,0,10.3
+1,Turkmenistan,2002,Developing,63.3,229,38.7,0,10.2
+1,Turkmenistan,2001,Developing,64,221,38.1,0,10.2
+1,Turkmenistan,2000,Developing,63.8,224,37.5,0,0
+1,Tuvalu,2013,Developing,,,79.3,,0
+1,Uganda,2015,Developing,62.3,291,18.5,0.488,10
+1,Uganda,2014,Developing,61.5,38,18.1,0.483,10
+1,Uganda,2013,Developing,67,325,17.6,0.478,10
+1,Uganda,2012,Developing,60,339,17.2,0.477,10
+1,Uganda,2011,Developing,59.3,347,16.7,0.477,10.7
+1,Uganda,2010,Developing,58.4,362,16.3,0.473,10.9
+1,Uganda,2009,Developing,57.5,378,15.9,0.464,10.8
+1,Uganda,2008,Developing,56.3,41,15.6,0.453,10.6
+1,Uganda,2007,Developing,55.5,41,15.2,0.442,10.3
+1,Uganda,2006,Developing,54.9,41,14.8,0.434,10.6
+1,Uganda,2005,Developing,53.2,446,14.5,0.429,10.9
+1,Uganda,2004,Developing,51.3,485,14.2,0.427,11.6
+1,Uganda,2003,Developing,51,53,13.9,0.418,11.5
+1,Uganda,2002,Developing,48.8,523,13.6,0.404,11
+1,Uganda,2001,Developing,47.7,539,13.3,0.396,10.8
+1,Uganda,2000,Developing,46.6,554,13,0.382,9.8
+1,Ukraine,2015,Developing,71.3,195,61.3,0.748,15.3
+1,Ukraine,2014,Developing,78,23,6.7,0.746,15.2
+1,Ukraine,2013,Developing,71,198,6.1,0.744,15.2
+1,Ukraine,2012,Developing,77,25,59.6,0.739,15.1
+1,Ukraine,2011,Developing,75,24,59,0.734,14.9
+1,Ukraine,2010,Developing,69.8,212,58.5,0.728,14.9
+1,Ukraine,2009,Developing,69.2,231,58,0.734,14.9
+1,Ukraine,2008,Developing,67.7,273,57.6,0.73,14.9
+1,Ukraine,2007,Developing,67.5,277,57.2,0.723,14.8
+1,Ukraine,2006,Developing,67.7,267,56.8,0.716,14.7
+1,Ukraine,2005,Developing,67,278,56.4,0.707,14.5
+1,Ukraine,2004,Developing,67.4,267,56.1,0.7,14.6
+1,Ukraine,2003,Developing,67.6,256,55.7,0.691,14.3
+1,Ukraine,2002,Developing,67.6,256,55.4,0.683,13.9
+1,Ukraine,2001,Developing,67.7,253,55.1,0.673,13.2
+1,Ukraine,2000,Developing,67.5,257,54.8,0.669,13.3
+1,United Arab Emirates,2015,Developing,77.1,75,64.2,0.836,13.3
+1,United Arab Emirates,2014,Developing,76.9,77,62.4,0.832,13.3
+1,United Arab Emirates,2013,Developing,76.7,78,6.5,0.829,13.3
+1,United Arab Emirates,2012,Developing,76.5,8,58.6,0.826,13.3
+1,United Arab Emirates,2011,Developing,76.3,81,57.1,0.824,13.3
+1,United Arab Emirates,2010,Developing,76.2,82,55.8,0.826,13.3
+1,United Arab Emirates,2009,Developing,76,84,55.1,0.831,13.2
+1,United Arab Emirates,2008,Developing,75.8,85,54.8,0.829,13.1
+1,United Arab Emirates,2007,Developing,75.6,87,55.1,0.826,12.9
+1,United Arab Emirates,2006,Developing,75.4,89,55.8,0.823,12.8
+1,United Arab Emirates,2005,Developing,75.3,92,56.6,0.818,12.6
+1,United Arab Emirates,2004,Developing,75.1,95,57,0.813,12.4
+1,United Arab Emirates,2003,Developing,74.9,98,56.8,0.808,12.3
+1,United Arab Emirates,2002,Developing,74.7,11,56,0.803,12.1
+1,United Arab Emirates,2001,Developing,74.5,14,55,0.798,12
+1,United Arab Emirates,2000,Developing,74.2,17,54.1,0.791,11.8
+1,United Kingdom of Great Britain and Northern Ireland,2015,Developed,81.2,69,66.6,,
+1,United Kingdom of Great Britain and Northern Ireland,2014,Developed,81,71,66,,
+1,United Kingdom of Great Britain and Northern Ireland,2013,Developed,87,72,65.4,,
+1,United Kingdom of Great Britain and Northern Ireland,2012,Developed,86,72,64.8,,
+1,United Kingdom of Great Britain and Northern Ireland,2011,Developed,86,74,64.2,,
+1,United Kingdom of Great Britain and Northern Ireland,2010,Developed,82,77,63.6,,
+1,United Kingdom of Great Britain and Northern Ireland,2009,Developed,81,78,63.1,,
+1,United Kingdom of Great Britain and Northern Ireland,2008,Developed,79.6,8,62.5,,
+1,United Kingdom of Great Britain and Northern Ireland,2007,Developed,79.5,8,61.9,,
+1,United Kingdom of Great Britain and Northern Ireland,2006,Developed,79.3,82,61.3,,
+1,United Kingdom of Great Britain and Northern Ireland,2005,Developed,79,82,6.7,,
+1,United Kingdom of Great Britain and Northern Ireland,2004,Developed,78.8,83,6.1,,
+1,United Kingdom of Great Britain and Northern Ireland,2003,Developed,78.3,86,59.5,,
+1,United Kingdom of Great Britain and Northern Ireland,2002,Developed,78.2,87,58.8,,
+1,United Kingdom of Great Britain and Northern Ireland,2001,Developed,78,88,58.2,,
+1,United Kingdom of Great Britain and Northern Ireland,2000,Developed,77.8,89,57.5,,
+1,United Republic of Tanzania,2015,Developing,61.8,279,23.8,,
+1,United Republic of Tanzania,2014,Developing,67,34,23.2,,
+1,United Republic of Tanzania,2013,Developing,59.7,323,22.5,,
+1,United Republic of Tanzania,2012,Developing,58.6,348,21.9,,
+1,United Republic of Tanzania,2011,Developing,58.3,348,21.3,,
+1,United Republic of Tanzania,2010,Developing,57.5,36,2.7,,
+1,United Republic of Tanzania,2009,Developing,56.9,368,2.2,,
+1,United Republic of Tanzania,2008,Developing,56.2,376,19.6,,
+1,United Republic of Tanzania,2007,Developing,54.5,411,19.1,,
+1,United Republic of Tanzania,2006,Developing,53.1,437,18.6,,
+1,United Republic of Tanzania,2005,Developing,52.2,449,18.1,,
+1,United Republic of Tanzania,2004,Developing,51.5,454,17.7,,
+1,United Republic of Tanzania,2003,Developing,58,459,17.2,,
+1,United Republic of Tanzania,2002,Developing,52,46,16.8,,
+1,United Republic of Tanzania,2001,Developing,49.6,46,16.4,,
+1,United Republic of Tanzania,2000,Developing,49.2,457,16,,
+1,United States of America,2015,Developed,79.3,13,69.6,,
+1,United States of America,2014,Developed,79.1,14,69.1,,
+1,United States of America,2013,Developed,78.9,16,68.6,,
+1,United States of America,2012,Developed,78.8,16,68,,
+1,United States of America,2011,Developed,78.7,16,67.5,,
+1,United States of America,2010,Developed,78.7,15,66.9,,
+1,United States of America,2009,Developed,78.5,18,66.3,,
+1,United States of America,2008,Developed,78.2,18,65.7,,
+1,United States of America,2007,Developed,78.1,11,65.1,,
+1,United States of America,2006,Developed,77.8,113,64.4,,
+1,United States of America,2005,Developed,77.5,112,63.8,,
+1,United States of America,2004,Developed,77.5,111,63.1,,
+1,United States of America,2003,Developed,77.2,114,62.4,,
+1,United States of America,2002,Developed,77,115,61.7,,
+1,United States of America,2001,Developed,76.9,115,6.9,,
+1,United States of America,2000,Developed,76.8,114,6.1,,
+1,Uruguay,2015,Developing,77,116,64,0.794,15.5
+1,Uruguay,2014,Developing,76.8,117,63.4,0.791,15.5
+1,Uruguay,2013,Developing,76.8,117,62.9,0.788,15.5
+1,Uruguay,2012,Developing,76.5,118,62.3,0.784,15.5
+1,Uruguay,2011,Developing,77,111,61.8,0.78,15.5
+1,Uruguay,2010,Developing,76.3,118,61.2,0.777,15.6
+1,Uruguay,2009,Developing,76.6,118,6.7,0.774,15.5
+1,Uruguay,2008,Developing,76.4,119,6.1,0.77,15.7
+1,Uruguay,2007,Developing,75.4,124,59.5,0.76,15.3
+1,Uruguay,2006,Developing,76.2,117,58.9,0.756,15.2
+1,Uruguay,2005,Developing,75.7,123,58.3,0.753,15.5
+1,Uruguay,2004,Developing,75.4,122,57.7,0.75,15.5
+1,Uruguay,2003,Developing,75.4,121,57,0.747,15
+1,Uruguay,2002,Developing,75.4,124,56.3,0.746,14.7
+1,Uruguay,2001,Developing,75.2,123,55.7,0.742,14.2
+1,Uruguay,2000,Developing,75.1,131,55,0.738,14
+1,Uzbekistan,2015,Developing,69.4,184,44.7,0.697,12.1
+1,Uzbekistan,2014,Developing,69.2,184,43.9,0.69,12.1
+1,Uzbekistan,2013,Developing,69.1,185,43,0.681,12
+1,Uzbekistan,2012,Developing,68.8,184,42.2,0.673,12
+1,Uzbekistan,2011,Developing,68.5,183,41.4,0.664,12
+1,Uzbekistan,2010,Developing,68.3,183,4.7,0.657,11.9
+1,Uzbekistan,2009,Developing,68,183,4,0.651,11.8
+1,Uzbekistan,2008,Developing,67.9,184,39.3,0.644,11.9
+1,Uzbekistan,2007,Developing,67.8,184,38.7,0.631,11.8
+1,Uzbekistan,2006,Developing,67.6,185,38.1,0.626,11.8
+1,Uzbekistan,2005,Developing,67.3,192,37.5,0.62,11.7
+1,Uzbekistan,2004,Developing,67.8,183,37,0.613,11.6
+1,Uzbekistan,2003,Developing,67.2,183,36.4,0.607,11.3
+1,Uzbekistan,2002,Developing,67.1,186,35.9,0.6,11
+1,Uzbekistan,2001,Developing,67.4,185,35.3,0.594,10.7
+1,Uzbekistan,2000,Developing,67.1,189,34.8,0,10.6
+1,Vanuatu,2015,Developing,72,13,53.3,0.598,10.8
+1,Vanuatu,2014,Developing,71.7,134,52.5,0.596,10.8
+1,Vanuatu,2013,Developing,71.6,135,51.7,0.591,10.8
+1,Vanuatu,2012,Developing,71.4,138,5.8,0.592,10.8
+1,Vanuatu,2011,Developing,71.2,141,49.9,0.591,10.8
+1,Vanuatu,2010,Developing,71,145,49.1,0.59,10.8
+1,Vanuatu,2009,Developing,78,149,48.2,0.589,10.7
+1,Vanuatu,2008,Developing,75,153,47.4,0.582,10.7
+1,Vanuatu,2007,Developing,73,157,46.6,0.579,10.7
+1,Vanuatu,2006,Developing,71,161,45.7,0.572,10.6
+1,Vanuatu,2005,Developing,69.9,165,44.9,0,10.6
+1,Vanuatu,2004,Developing,69.6,169,44.1,0,10.7
+1,Vanuatu,2003,Developing,69.4,173,43.3,0,10.4
+1,Vanuatu,2002,Developing,69.3,176,42.6,0,10.2
+1,Vanuatu,2001,Developing,69.1,179,41.9,0,10.1
+1,Vanuatu,2000,Developing,69,18,41.1,0,9.6
+1,Venezuela (Bolivarian Republic of),2015,Developing,74.1,157,62.1,0.769,14.3
+1,Venezuela (Bolivarian Republic of),2014,Developing,73.9,158,61.5,0.771,14.2
+1,Venezuela (Bolivarian Republic of),2013,Developing,73.8,159,61,0.77,14.2
+1,Venezuela (Bolivarian Republic of),2012,Developing,73.7,161,6.4,0.767,14.1
+1,Venezuela (Bolivarian Republic of),2011,Developing,73.8,158,59.9,0.756,14.1
+1,Venezuela (Bolivarian Republic of),2010,Developing,73.7,158,59.3,0.754,14
+1,Venezuela (Bolivarian Republic of),2009,Developing,73.6,166,58.8,0.754,14
+1,Venezuela (Bolivarian Republic of),2008,Developing,73.2,168,58.2,0.745,13.4
+1,Venezuela (Bolivarian Republic of),2007,Developing,73.4,165,57.6,0.728,12.9
+1,Venezuela (Bolivarian Republic of),2006,Developing,73.6,163,57.1,0.714,12.4
+1,Venezuela (Bolivarian Republic of),2005,Developing,73.6,158,56.5,0.7,11.8
+1,Venezuela (Bolivarian Republic of),2004,Developing,73.3,161,55.9,0.687,11.6
+1,Venezuela (Bolivarian Republic of),2003,Developing,72.4,172,55.3,0.688,11.6
+1,Venezuela (Bolivarian Republic of),2002,Developing,73.1,167,54.7,0.684,11
+1,Venezuela (Bolivarian Republic of),2001,Developing,72.5,169,54.1,0.672,10.4
+1,Venezuela (Bolivarian Republic of),2000,Developing,72.5,168,53.4,0.67,10.6
+1,Viet Nam,2015,Developing,76,127,17.5,0.678,12.6
+1,Viet Nam,2014,Developing,75.9,128,16.7,0.675,12.5
+1,Viet Nam,2013,Developing,75.7,129,16,0.668,12.3
+1,Viet Nam,2012,Developing,75.6,13,15.3,0.662,12.2
+1,Viet Nam,2011,Developing,75.4,131,14.7,0.655,12
+1,Viet Nam,2010,Developing,75.2,133,14,0.647,11.9
+1,Viet Nam,2009,Developing,75,134,13.4,0.641,11.7
+1,Viet Nam,2008,Developing,74.9,135,12.9,0.633,11.6
+1,Viet Nam,2007,Developing,74.7,136,12.3,0.625,11.4
+1,Viet Nam,2006,Developing,74.6,136,11.8,0.618,11.3
+1,Viet Nam,2005,Developing,74.4,136,11.3,0.609,11.1
+1,Viet Nam,2004,Developing,74.2,136,1.9,0.601,11
+1,Viet Nam,2003,Developing,74,137,1.4,0.592,10.9
+1,Viet Nam,2002,Developing,73.8,137,1,0.584,10.7
+1,Viet Nam,2001,Developing,73.6,138,9.6,0.576,10.6
+1,Viet Nam,2000,Developing,73.4,139,9.2,0.569,10.4
+1,Yemen,2015,Developing,65.7,224,41.3,0.499,9
+1,Yemen,2014,Developing,65.4,228,4.4,0.5,9
+1,Yemen,2013,Developing,65.4,226,39.6,0.498,9
+1,Yemen,2012,Developing,64.7,236,38.7,0.494,9
+1,Yemen,2011,Developing,64.6,234,37.9,0.493,8.6
+1,Yemen,2010,Developing,64.4,233,37.2,0.488,8.5
+1,Yemen,2009,Developing,64.1,235,36.4,0.483,8.4
+1,Yemen,2008,Developing,63.8,238,35.7,0.48,8.5
+1,Yemen,2007,Developing,63.4,24,35.1,0.477,8.6
+1,Yemen,2006,Developing,63,242,34.5,0.475,8.7
+1,Yemen,2005,Developing,62.6,245,33.9,0.47,8.6
+1,Yemen,2004,Developing,62.2,247,33.3,0.464,8.4
+1,Yemen,2003,Developing,61.9,249,32.7,0.457,8.2
+1,Yemen,2002,Developing,61.5,25,32.2,0.45,8
+1,Yemen,2001,Developing,61.1,251,31.7,0.444,7.9
+1,Yemen,2000,Developing,68,252,31.2,0.436,7.7
+1,Zambia,2015,Developing,61.8,33,23.4,0.576,12.5
+1,Zambia,2014,Developing,61.1,314,22.8,0.57,12.5
+1,Zambia,2013,Developing,63,328,22.3,0.565,12.5
+1,Zambia,2012,Developing,59.2,349,21.7,0.554,12.3
+1,Zambia,2011,Developing,58.2,366,21.2,0.543,12
+1,Zambia,2010,Developing,58,363,2.7,0.533,11.8
+1,Zambia,2009,Developing,57.4,368,2.2,0.518,11.6
+1,Zambia,2008,Developing,55.7,45,19.7,0.504,11.4
+1,Zambia,2007,Developing,52.6,487,19.2,0.492,11.1
+1,Zambia,2006,Developing,58,526,18.8,0.479,10.9
+1,Zambia,2005,Developing,49.3,554,18.4,0.467,10.7
+1,Zambia,2004,Developing,47.9,578,18,0.456,10.5
+1,Zambia,2003,Developing,46.4,64,17.6,0.443,10.2
+1,Zambia,2002,Developing,45.5,69,17.3,0.433,10
+1,Zambia,2001,Developing,44.6,611,17.1,0.424,9.8
+1,Zambia,2000,Developing,43.8,614,16.8,0.418,9.6
+1,Zimbabwe,2015,Developing,67,336,31.8,0.507,10.3
+1,Zimbabwe,2014,Developing,59.2,371,31.3,0.498,10.3
+1,Zimbabwe,2013,Developing,58,399,3.8,0.488,10.4
+1,Zimbabwe,2012,Developing,56.6,429,3.3,0.464,9.8
+1,Zimbabwe,2011,Developing,54.9,464,29.9,0.452,10.1
+1,Zimbabwe,2010,Developing,52.4,527,29.4,0.436,10
+1,Zimbabwe,2009,Developing,50,587,29,0.419,9.9
+1,Zimbabwe,2008,Developing,48.2,632,28.6,0.421,9.7
+1,Zimbabwe,2007,Developing,46.6,67,28.2,0.414,9.6
+1,Zimbabwe,2006,Developing,45.4,7,27.9,0.408,9.5
+1,Zimbabwe,2005,Developing,44.6,717,27.5,0.406,9.3
+1,Zimbabwe,2004,Developing,44.3,723,27.1,0.407,9.2
+1,Zimbabwe,2003,Developing,44.5,715,26.7,0.418,9.5
+1,Zimbabwe,2002,Developing,44.8,73,26.3,0.427,10
+1,Zimbabwe,2001,Developing,45.3,686,25.9,0.427,9.8
+1,Zimbabwe,2000,Developing,46,665,25.5,0.434,9.8

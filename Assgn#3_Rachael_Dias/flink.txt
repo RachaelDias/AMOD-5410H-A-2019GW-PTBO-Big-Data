@@ -1,0 +1,12 @@
+################ PROGRAM 1 Aggregation DataSet Api########################################
+val text = benv.readTextFile("C:/Users/17059/Desktop/BigData/sample.txt")
+val count = text.flatMap { _.toLowerCase.split("\\W+") } .map { (_, 1) }.groupBy(0).sum(1)
+count.print()
+senv.execute("count")
+
+
+################ PROGRAM 2 Aggregation DataStream Api#####################################
+val text = senv.readTextFile("C:/Users/17059/Desktop/BigData/sample.txt")
+val count = text.flatMap { _.toLowerCase.split("\\W+") } .map { (_, 1) }.keyBy(0).sum(1)
+count.print()
+senv.execute("count")
